@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>LinuxGizmos.com</title>
+<atom:link href="https://linuxgizmos.com/feed/" rel="self" type="application/rss+xml"/>
+<link>https://linuxgizmos.com/</link>
+<description>Embedded Linux news &amp; devices.</description>
+<lastBuildDate>Tue, 21 Nov 2023 07:23:06 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+<sy:updateFrequency>
+	1	</sy:updateFrequency>
+<generator>https://wordpress.org/?v=6.4.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">47422091</site> <item>
+<title>Radxa ROCK 5B 蓝色版以降价的价格可供购买</title>
+<link>https://linuxgizmos.com/radxa-rock-5b-blue-edition-available-at-reduced-price/</link>
+<comments>https://linuxgizmos.com/radxa-rock-5b-blue-edition-available-at-reduced-price/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Tue, 21 Nov 2023 07:18:18 +0000</pubDate>
+<category>SBCs &amp; COMs</category>
+<category>2023</category>
+<category>radxa</category>
+<category>rk3588</category>
+<category>ROCK 5B</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88194</guid>
+<description>The distributor Arace Tech, recently featured another variant of the Radxa ROCK 5B development board based on the Rockchip RK3588 processor. The board comes with all the peripherals and connectors as the standard version. The Radxa ROCK 5B single board computer was originally launched in 2022. For reference, the Rockchip RK3588 SoC with an 8nm [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/radxa-rock-5b-blue-edition-available-at-reduced-price/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88194</post-id> </item>
+<item>
+<title>新款香蕉派开发板以Zero W的形式推出</title>
+<link>https://linuxgizmos.com/new-banana-pi-development-board-comes-in-zero-w-form-factor/</link>
+<comments>https://linuxgizmos.com/new-banana-pi-development-board-comes-in-zero-w-form-factor/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Tue, 21 Nov 2023 06:10:49 +0000</pubDate>
+<category>Devices</category>
+<category>2023</category>
+<category>5G Wi-Fi</category>
+<category>allwinner</category>
+<category>banana-pi</category>
+<category>BPI-M4 Zero</category>
+<category>H618</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88183</guid>
+<description>The Banana Pi BPI-M4 Zero is a compact development board built around the Allwinner H618 quad-core processor. The device can be used for diverse projects related to IoT since it comes with dual band 2.4GH z/5GHz Wi-Fi support and 8GB eMMC flash storage. This board, the Banana Pi BPI-M4 Zero, shares a similar form factor [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/new-banana-pi-development-board-comes-in-zero-w-form-factor/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88183</post-id> </item>
+<item>
+<title>Pineberry Pi为Raspberry Pi 5增加了NVMe存储功能。</title>
+<link>https://linuxgizmos.com/pineberry-pi-adds-nvme-storage-capabilities-to-the-raspberry-pi-5/</link>
+<comments>https://linuxgizmos.com/pineberry-pi-adds-nvme-storage-capabilities-to-the-raspberry-pi-5/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Sat, 18 Nov 2023 23:26:21 +0000</pubDate>
+<category>Devices</category>
+<category>2023</category>
+<category>nvme</category>
+<category>raspberry Pi 5</category>
+<category>Raspberry Pi HAT</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88171</guid>
+<description>Pineberry Pi&amp;#8217;s HatDrive Top and Bottom are two new expansion boards compatible with the Raspberry Pi 5 SBC, designed to increase its storage capacity and performance using NVMe technology. The HatDrive Top is designed to integrate with Raspberry Pi 5, offering support for NVMe M-key drives in M.2 sizes 2230 and 2242. This device adheres [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/pineberry-pi-adds-nvme-storage-capabilities-to-the-raspberry-pi-5/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88171</post-id> </item>
+<item>
+<title>HiFi 3D 传感器运行在德州仪器的Jacinto处理器上，拥有8TOPS的神经处理单元(NPU)。</title>
+<link>https://linuxgizmos.com/hifi-3d-sensor-runs-on-tis-jacinto-processor-with-8tops-npu/</link>
+<comments>https://linuxgizmos.com/hifi-3d-sensor-runs-on-tis-jacinto-processor-with-8tops-npu/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Fri, 17 Nov 2023 04:41:33 +0000</pubDate>
+<category>Devices</category>
+<category>2.2MP camera</category>
+<category>2023</category>
+<category>depth camera</category>
+<category>HiFi 3D Sensor</category>
+<category>Jacinto</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88160</guid>
+<description>Kickstarter recently featured the HiFi 3D Sensor which is described as a plug and play depth perception 2.2MP camera built for applications needing superior depth data quality, particularly in robotics and computer vision fields. The product page specifies that this device is powered by the robust Texas Instruments Jacinto line of automotive-grade processors. This chip [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/hifi-3d-sensor-runs-on-tis-jacinto-processor-with-8tops-npu/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88160</post-id> </item>
+<item>
+<title>香蕉派以RK3588驱动的单板计算机搭载双2.5GbE接口，展开了预告。</title>
+<link>https://linuxgizmos.com/banana-pi-teases-rk3588-powered-single-board-computer-with-dual-2-5gbe/</link>
+<comments>https://linuxgizmos.com/banana-pi-teases-rk3588-powered-single-board-computer-with-dual-2-5gbe/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Thu, 16 Nov 2023 06:12:14 +0000</pubDate>
+<category>SBCs &amp; COMs</category>
+<category>2023</category>
+<category>banana-pi</category>
+<category>rk3588</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88152</guid>
+<description>Banana Pi recently provided details about a new Single Board Computer with Pico ITX form-factor and built around the Rockchip RK3588 quad-core processor, Arm Mali-G610 Graphics Processing Unit and a 6TOPS Neural Processor Unit. This new embedded device joins Banana Pi&amp;#8217;s lineup featuring the RK3588 SoC seen in other Banana Pi products like the BPI-W3 [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/banana-pi-teases-rk3588-powered-single-board-computer-with-dual-2-5gbe/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88152</post-id> </item>
+<item>
+<title>Radxa NX5 开发套件起价为 99.00 美元</title>
+<link>https://linuxgizmos.com/radxa-nx5-development-kit-starts-at-99-00/</link>
+<comments>https://linuxgizmos.com/radxa-nx5-development-kit-starts-at-99-00/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Wed, 15 Nov 2023 02:40:36 +0000</pubDate>
+<category>SBCs &amp; COMs</category>
+<category>2023</category>
+<category>pcie</category>
+<category>radxa</category>
+<category>Radxa NX5</category>
+<category>rk3588s</category>
+<category>sata</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88137</guid>
+<description>The Radxa NX5 is a System on Module with SODIMM form-factor and designed to cater to a wide range of applications built around the Rockchip RK3588S System on Chip. This device offers support for multiple displays along with various serial ports.&amp;#160; &amp;#160; At its core, the Radxa NX5 integrates a powerful CPU, GPU, NPU, PMU, [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/radxa-nx5-development-kit-starts-at-99-00/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88137</post-id> </item>
+<item>
+<title>Radxa预览了带有GbE端口的ZERO 3E单板计算机</title>
+<link>https://linuxgizmos.com/radxa-previews-zero-3e-single-board-computer-with-gbe-port/</link>
+<comments>https://linuxgizmos.com/radxa-previews-zero-3e-single-board-computer-with-gbe-port/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Tue, 14 Nov 2023 06:53:38 +0000</pubDate>
+<category>SBCs &amp; COMs</category>
+<category>2023</category>
+<category>gbe</category>
+<category>radxa</category>
+<category>rk3566</category>
+<category>ZERO 3E</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88128</guid>
+<description>The Radxa Zero 3E is a compact single-board computer that features the low-power Rockchip RK3566 System-on-Chip. This device features up to 8GB RAM, a microSD card slot, Gigabit Ethernet with PoE support among other features. This Radxa module features the same Rockchip SoC as seen in other recent products, for example the Orange Pi 3B [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/radxa-previews-zero-3e-single-board-computer-with-gbe-port/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88128</post-id> </item>
+<item>
+<title>AM62x 是基于 Sitara 架构的系统级模块(SoM)，支持 Linux。</title>
+<link>https://linuxgizmos.com/am62x-sitara-based-som-with-linux-support/</link>
+<comments>https://linuxgizmos.com/am62x-sitara-based-som-with-linux-support/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Sun, 12 Nov 2023 19:24:29 +0000</pubDate>
+<category>SBCs &amp; COMs</category>
+<category>2023</category>
+<category>AM62x Sitara</category>
+<category>dual gigabit</category>
+<category>Engicam</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88121</guid>
+<description>The i.Core AM62x by ENGICAM is an embedded system module powered by the low-cost Texas Instrument&amp;#8217;s AM62x Sitara processors . It is designed to be versatile, suitable for various applications that require 3D graphics acceleration, dual GbE interfaces and high-performing memory capacity. The heart of the i.Core AM62x is the TI AM62x Sitara processor with [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/am62x-sitara-based-som-with-linux-support/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88121</post-id> </item>
+<item>
+<title>Sipeed展示低成本的Tang Primer 25K FPGA开发板</title>
+<link>https://linuxgizmos.com/sipeed-showcases-low-cost-tang-primer-25k-fpga-board/</link>
+<comments>https://linuxgizmos.com/sipeed-showcases-low-cost-tang-primer-25k-fpga-board/#comments</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Sat, 11 Nov 2023 21:56:42 +0000</pubDate>
+<category>SBCs &amp; COMs</category>
+<category>2023</category>
+<category>gowin</category>
+<category>sipeed</category>
+<category>Tang Primer</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88106</guid>
+<description>Sipeed introduced today a new development board with a Gowin FPGA chip with 23K LUT4 and multiple other interfaces. The modular Tang Primer 25K is also compatible with various PMOD modules to develop multiple custom applications.&amp;#160; Unlike the Tang Mega 138K Pro launched in September 2023, the new Tang Primer 25K System-on-Module board incorporates the [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/sipeed-showcases-low-cost-tang-primer-25k-fpga-board/feed/</wfw:commentRss>
+<slash:comments>1</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88106</post-id> </item>
+<item>
+<title>3.5英寸单板计算机，具有4个同时显示接口</title>
+<link>https://linuxgizmos.com/3-5-single-board-computer-with-4x-simultaneous-display-interfaces/</link>
+<comments>https://linuxgizmos.com/3-5-single-board-computer-with-4x-simultaneous-display-interfaces/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Sat, 11 Nov 2023 06:29:43 +0000</pubDate>
+<category>SBCs &amp; COMs</category>
+<category>2.5GbE</category>
+<category>2023</category>
+<category>alder-lake-p</category>
+<category>PCIe x4</category>
+<category>sata</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88098</guid>
+<description>ICP Germany has recently unveiled its latest 3.5&amp;#8243; embedded board designed to meet the requirements of various industries, from IoT to smart display systems. The board also includes dual 2.5 Gigabit ports and multiple expansion ports for storage and wireless connectivity.&amp;#160; According the product announcement, the Wafer-ADL-P is compatible with the following Intel Alder Lake-P [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/3-5-single-board-computer-with-4x-simultaneous-display-interfaces/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88098</post-id> </item>
+<item>
+<title>Sipeed推出了带有双GbE端口的M4N-Dock AI-Box进行预览。</title>
+<link>https://linuxgizmos.com/sipeed-previews-m4n-dock-ai-box/</link>
+<comments>https://linuxgizmos.com/sipeed-previews-m4n-dock-ai-box/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Fri, 10 Nov 2023 06:38:35 +0000</pubDate>
+<category>SBCs &amp; COMs</category>
+<category>2023</category>
+<category>dual gbe</category>
+<category>M4N-Dock</category>
+<category>pcie</category>
+<category>sata 3.0</category>
+<category>sipeed</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88089</guid>
+<description>The M4N-Dock, introduced by Sipeed, is a high-performing device that incorporates the Aixin Yuanzhi&amp;#8217;s third-generation smart vision AX650N chip. This chip enables the device with significant AI computing capabilities, boasting up to 43.2 TOPS at INT4 or 10.8 TOPS at INT8, enabling it to run current large-scale models. As of publication date, this Sipeed product [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/sipeed-previews-m4n-dock-ai-box/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88089</post-id> </item>
+<item>
+<title>Variscite i.MX 95 SoM 支持双千兆以太网 + 十千兆以太网端口</title>
+<link>https://linuxgizmos.com/variscite-som-supports-dual-gbe-10gbe-ports/</link>
+<comments>https://linuxgizmos.com/variscite-som-supports-dual-gbe-10gbe-ports/#respond</comments>
+<dc:creator>Giorgio Mendoza</dc:creator>
+<pubDate>Thu, 09 Nov 2023 06:42:09 +0000</pubDate>
+<category>SBCs &amp; COMs</category>
+<category>10gbe</category>
+<category>2023</category>
+<category>dual gigabit</category>
+<category>i.mx 95</category>
+<category>nxp</category>
+<category>variscite</category>
+<guid isPermaLink="false">https://linuxgizmos.com/?p=88080</guid>
+<description>Variscite launched this week a System-on-Module based on the powerful NXP i.MX95 with energy flex and multicore architecture. The DART-MX95 features a comprehensive set of interfaces optimized for applications in IoT, robotics, aviation, medical and industrial. Similar to the Toradex Titan Evaluation Kit covered yesterday, this SoM integrates the latest NXP i.MX 95 applications processor, [&amp;#8230;]</description>
+<wfw:commentRss>https://linuxgizmos.com/variscite-som-supports-dual-gbe-10gbe-ports/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<post-id xmlns="com-wordpress:feed-additions:1">88080</post-id> </item>
+</channel>
+</rss>

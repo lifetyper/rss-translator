@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>Dangerous Prototypes</title>
+<atom:link href="http://dangerousprototypes.com/blog/feed/" rel="self" type="application/rss+xml"/>
+<link>http://dangerousprototypes.com/blog</link>
+<description>Open source hardware projects</description>
+<lastBuildDate>Sun, 12 Nov 2023 15:33:56 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+<sy:updateFrequency>
+	1	</sy:updateFrequency>
+<generator>https://wordpress.org/?v=5.2.19</generator>
+<image>
+<url>http://dangerousprototypes.com/blog/wp-content/media/2019/09/cropped-logo02-32x32.png</url>
+<title>Dangerous Prototypes</title>
+<link>http://dangerousprototypes.com/blog</link>
+<width>32</width>
+<height>32</height>
+</image>
+<item>
+<title>应用说明：线性运动电位计</title>
+<link>http://dangerousprototypes.com/blog/2023/11/12/app-note-linear-motion-potentiometers/</link>
+<comments>http://dangerousprototypes.com/blog/2023/11/12/app-note-linear-motion-potentiometers/#respond</comments>
+<pubDate>Sun, 12 Nov 2023 17:00:25 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>app note</category>
+<category>Bourns</category>
+<category>position sensor</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103430</guid>
+<description>App note from Bourns on linear motion potentiometers and how they can be used to detect position by voltage division ratio. Link here (PDF) The elements of the LMPs are manufactured with conductive plastic (CP) for extended wear capabilities. Unlike Trimmers, which are “set and forget,” these devices are designed to monitor position and are [&amp;#8230;]</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/11/an_bourns_lmp.png" alt="" class="wp-image-103431" srcset="http://dangerousprototypes.com/blog/wp-content/media/2023/11/an_bourns_lmp.png 471w, http://dangerousprototypes.com/blog/wp-content/media/2023/11/an_bourns_lmp-300x213.png 300w" sizes="(max-width: 471px) 100vw, 471px" /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;App note from Bourns on linear motion potentiometers and how they can be used to detect position by voltage division ratio. Link &lt;a href="https://www.bourns.com/docs/technical-documents/technical-library/linear-motion-potentiometers/bourns_lmp_apno.pdf?sfvrsn=ef6467cd_0" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;The elements of the LMPs are manufactured with conductive plastic (CP) for extended wear capabilities. Unlike Trimmers, which are “set and forget,” these devices are designed to monitor position and are thereby designed to have a very high cycle life capability. LMPs are ideal for converting a mechanical linear motion displacement into a proportional voltage output when used as a sensor.&lt;/p&gt;&lt;/blockquote&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/11/12/app-note-linear-motion-potentiometers/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>应用说明：硅碳化物功率肖特基二极管的特性提供了增强的应用能力。</title>
+<link>http://dangerousprototypes.com/blog/2023/11/05/app-note-how-silicon-carbide-power-schottky-diode-properties-provide-enhanced-application-capabilities/</link>
+<comments>http://dangerousprototypes.com/blog/2023/11/05/app-note-how-silicon-carbide-power-schottky-diode-properties-provide-enhanced-application-capabilities/#respond</comments>
+<pubDate>Sun, 05 Nov 2023 17:00:23 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>app note</category>
+<category>Bourns</category>
+<category>diode</category>
+<category>SiC</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103427</guid>
+<description>Great read from Bourns&amp;#8217; white paper about the new SiC Schottky diode which revolutionize power handling capability and other benefits compared to Silicon diodes. Link here (PDF) For diode applications, the ideal component would be one with no voltage drop during forward conduction and no leakage current when reverse biased. It would change instantly from [&amp;#8230;]</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/11/an_bourns_sic_schottky.png" alt="" class="wp-image-103428" srcset="http://dangerousprototypes.com/blog/wp-content/media/2023/11/an_bourns_sic_schottky.png 507w, http://dangerousprototypes.com/blog/wp-content/media/2023/11/an_bourns_sic_schottky-300x164.png 300w" sizes="(max-width: 507px) 100vw, 507px" /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;Great read from Bourns&amp;#8217; white paper about the new SiC Schottky diode which revolutionize power handling capability and other benefits compared to Silicon diodes. Link &lt;a href="https://www.bourns.com/docs/technical-documents/technical-library/chip-diodes/publications/bourns_how_sic_power_schottky_diode_properties_provide_enhanced_application_capabilities_white_paper.pdf?sfvrsn=ca915bf6_11" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;For diode applications, the ideal component would be one with no voltage drop during forward conduction and no leakage current when reverse biased. It would change instantly from conducting forward current to blocking reverse voltage. Compared to junction silicon diodes, Schottky diodes provide reduced voltage drop with decreased reverse bias recovery current.&lt;br&gt; This paper discusses the properties of Schottky diodes constructed using a silicon carbide (SiC) n-epitaxial semiconductor material layer attached to a metal contact area as opposed to diodes constructed using two differently doped silicon semiconductor materials.&lt;/p&gt;&lt;/blockquote&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/11/05/app-note-how-silicon-carbide-power-schottky-diode-properties-provide-enhanced-application-capabilities/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>应用注释：修剪器与监控系统传感器的接口化</title>
+<link>http://dangerousprototypes.com/blog/2023/11/05/app-note-trimmers-interfacing-with-surveillance-system-sensors/</link>
+<comments>http://dangerousprototypes.com/blog/2023/11/05/app-note-trimmers-interfacing-with-surveillance-system-sensors/#respond</comments>
+<pubDate>Sun, 05 Nov 2023 13:00:01 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>app note</category>
+<category>Bourns</category>
+<category>trimmer</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103424</guid>
+<description>App note from Bourns about the robustness of trimmers used on surveillance system, typically sealed to protect agaisnt harsh environment. Link here (PDF) Trimmer technology is designed for use in applications where the unit must be calibrated before it is shipped to a retailer, and eventually the end user. Typically, these pre-calibrated electronics use a [&amp;#8230;]</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/11/an_bourns_trimmer_suveillance.png" alt="" class="wp-image-103425"/&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;App note from Bourns about the robustness of trimmers used on surveillance system, typically sealed to protect agaisnt harsh environment. Link &lt;a href="https://www.bourns.com/docs/technical-documents/technical-library/trimmers/application-notes/bourns_trimmers_interfacing_with_surveillance_system_sensors_appnote.pdf?sfvrsn=1deb5bf6_11" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Trimmer technology is designed for use in applications where the unit must be calibrated before it is shipped to a retailer, and eventually the end user. Typically, these pre-calibrated electronics use a trimmer for required adjustments to account for component variations over time. Medical and industrial designs frequently take advantage of the system calibration convenience of a trimmer. In surveillance systems, the trimmer is adjusted to obtain the best resolution of the sensors at an&lt;br&gt; installation point.&lt;/p&gt;&lt;/blockquote&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/11/05/app-note-trimmers-interfacing-with-surveillance-system-sensors/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>应用说明：线性固定电阻的基础知识</title>
+<link>http://dangerousprototypes.com/blog/2023/10/29/app-note-basics-of-linear-fixed-resistors/</link>
+<comments>http://dangerousprototypes.com/blog/2023/10/29/app-note-basics-of-linear-fixed-resistors/#respond</comments>
+<pubDate>Sun, 29 Oct 2023 13:22:18 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>app note</category>
+<category>resistors</category>
+<category>vishay</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103421</guid>
+<description>App note from Vishay going back to the fundamentals of humble fixed resistors. Link here (PDF) In the shadow of microelectronics, passive components such as discrete resistors would seem to have fallen out of the field of view in electronics. Yet, it is the rare circuit that can do without resistors. And a look at [&amp;#8230;]</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_vishay_basics.png" alt="" class="wp-image-103422" srcset="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_vishay_basics.png 429w, http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_vishay_basics-300x167.png 300w" sizes="(max-width: 429px) 100vw, 429px" /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;App note from Vishay going back to the fundamentals of humble fixed resistors. Link &lt;a href="https://www.vishay.com/doc?28771" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;In the shadow of microelectronics, passive components such as discrete resistors would seem to have fallen out of the field of view in electronics. Yet, it is the rare circuit that can do without resistors. And a look at a modern circuit board will show that it has become more difficult to locate them visually.&lt;/p&gt;&lt;/blockquote&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/10/29/app-note-basics-of-linear-fixed-resistors/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>应用笔记：Nexperia负载开关集成电路</title>
+<link>http://dangerousprototypes.com/blog/2023/10/22/app-note-nexperia-load-switch-ics/</link>
+<comments>http://dangerousprototypes.com/blog/2023/10/22/app-note-nexperia-load-switch-ics/#respond</comments>
+<pubDate>Sun, 22 Oct 2023 14:07:14 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>app note</category>
+<category>load switch</category>
+<category>nexperia</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103418</guid>
+<description>Nexperia&amp;#8217;s app note on their load switches, combining multiple load switch functions in to one chip. Link here (PDF) Nexperia load switch ICs are highly integrated Power Management Integrated Circuits (PMICs) designed to efficiently control power rails within electronic systems. Load switches serve as indispensable components for managing power distribution and enabling the smooth operation [&amp;#8230;]</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_nexperia_an90045-600x195.png" alt="" class="wp-image-103419" srcset="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_nexperia_an90045-600x195.png 600w, http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_nexperia_an90045-300x97.png 300w, http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_nexperia_an90045.png 737w" sizes="(max-width: 600px) 100vw, 600px" /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;Nexperia&amp;#8217;s app note on their load switches, combining multiple load switch functions in to one chip. Link &lt;a href="https://assets.nexperia.com/documents/application-note/AN90045.pdf" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;p&gt;Nexperia load switch ICs are highly integrated Power Management Integrated Circuits (PMICs) designed to efficiently control power rails within electronic systems. Load switches serve as indispensable components for managing power distribution and enabling the smooth operation of various loads.&lt;/p&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/10/22/app-note-nexperia-load-switch-ics/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>应用笔记：皮尔斯振荡器基础知识</title>
+<link>http://dangerousprototypes.com/blog/2023/10/15/app-note-pierce-oscillator-fundamentals/</link>
+<comments>http://dangerousprototypes.com/blog/2023/10/15/app-note-pierce-oscillator-fundamentals/#respond</comments>
+<pubDate>Sun, 15 Oct 2023 17:00:41 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>abracon</category>
+<category>app note</category>
+<category>Crystal oscillator</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103415</guid>
+<description>The most used oscillator type in microcontrollers is the pierce oscillator, Abracon introduces you to its circuit basics and how the oscillator works. Link here (PDF) Today, the majority of electronic circuits (including microprocessors, microcontrollers, FPGAs, and cPLds) are based on clocked logic, requiring a timing source. depending on the frequency accuracy requirements, some employ [&amp;#8230;]</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_abracon_pierce_fundamentals.png" alt="" class="wp-image-103416"/&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;The most used oscillator type in microcontrollers is the  pierce oscillator, Abracon introduces you to its circuit basics and how the oscillator works. Link &lt;a href="https://abracon.com/uploads/resources/PierceOscillator_Fundamentals.pdf" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Today, the majority of electronic circuits (including microprocessors, microcontrollers, FPGAs, and cPLds) are based on clocked logic, requiring a timing source. depending on the frequency accuracy requirements, some employ oscillators while others use off-the-shelf quartz crystals in conjunction with the builtin oscillator circuit embedded in most microcontrollers and microprocessors.&lt;br&gt; Most if not all embedded solutions use the Pierce oscillator configuration, integrated as part of the Soc (systemon-chip). the obvious advantages include cost, size, and power compared to a standalone oscillator. the key limitation is the proper matching of the quartz crystal with the on-board Pierce oscillator.&lt;/p&gt;&lt;/blockquote&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/10/15/app-note-pierce-oscillator-fundamentals/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>应用笔记：超级电容和改变能量存储和供电的潜力。</title>
+<link>http://dangerousprototypes.com/blog/2023/10/15/app-note-supercapacitors-and-the-potential-to-revolutionize-energy-storage-power-delivery/</link>
+<comments>http://dangerousprototypes.com/blog/2023/10/15/app-note-supercapacitors-and-the-potential-to-revolutionize-energy-storage-power-delivery/#respond</comments>
+<pubDate>Sun, 15 Oct 2023 13:00:21 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>abracon</category>
+<category>app note</category>
+<category>supercapacitors</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103411</guid>
+<description>All about supercapacitors explained in this app note from Abracon. Link here (PDF) While batteries have been a mature technology for over a century, the need for energy storage solutions with faster charging and discharging cycles than traditional batteries has led to the search for a new alternative. Although conventional capacitors offer the fastest charging [&amp;#8230;]</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_abracon_supercap.png" alt="" class="wp-image-103412" srcset="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_abracon_supercap.png 339w, http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_abracon_supercap-263x300.png 263w" sizes="(max-width: 339px) 100vw, 339px" /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;All about supercapacitors explained in this app note from Abracon. Link &lt;a rel="noreferrer noopener" aria-label="here (opens in a new tab)" href="https://abracon.com/uploads/resources/Supercapacitors-and-the-Potential-to-Revolutionize-Energy-Storage-Power-Delivery.pdf" target="_blank"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;While batteries have been a mature technology for over a century, the need for energy storage solutions with faster charging and discharging cycles than traditional batteries has led to the search for a new alternative. Although conventional capacitors offer the fastest charging and discharging cycles among energy storage solutions, they lack the high energy densities that batteries feature. Technological research in the domain of energy storage has given birth to a new class of solution that bridges the gap between the properties of both batteries and capacitors: supercapacitors.&lt;/p&gt;&lt;/blockquote&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/10/15/app-note-supercapacitors-and-the-potential-to-revolutionize-energy-storage-power-delivery/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>应用注释：铁氧体珠的基本操作和关键参数</title>
+<link>http://dangerousprototypes.com/blog/2023/10/08/app-note-ferrite-beads-basic-operations-and-key-parameters/</link>
+<comments>http://dangerousprototypes.com/blog/2023/10/08/app-note-ferrite-beads-basic-operations-and-key-parameters/#respond</comments>
+<pubDate>Sun, 08 Oct 2023 17:00:20 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>abracon</category>
+<category>app note</category>
+<category>EMI suppression</category>
+<category>Ferrite bead</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103408</guid>
+<description>Here&amp;#8217;s app note from Abracon for EMI suppression using ferrite beads. Link here (PDF) A ferrite bead is a passive electrical component used to suppress high-frequency noise, EMI, and crosstalk in electronic circuits. They come in different shapes and sizes; some beads are available in the form of clamp-on cores, like the ones found at [&amp;#8230;]</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_abracon_ferritebead-600x137.png" alt="" class="wp-image-103409" srcset="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_abracon_ferritebead-600x137.png 600w, http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_abracon_ferritebead-300x68.png 300w, http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_abracon_ferritebead.png 659w" sizes="(max-width: 600px) 100vw, 600px" /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;Here&amp;#8217;s app note from Abracon for EMI suppression using ferrite beads. Link &lt;a href="https://abracon.com/uploads/resources/Ferrite-Beads-White-Paper.pdf" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;A ferrite bead is a passive electrical component used to suppress high-frequency noise, EMI, and crosstalk in electronic circuits. They come in different shapes and sizes; some beads are available in the form of clamp-on cores, like the ones found at the ends of laptop chargers and digital signal cables. They can also be found as through-hole or SMD components, which are more suitable to be mounted on PCBs.&lt;/p&gt;&lt;/blockquote&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/10/08/app-note-ferrite-beads-basic-operations-and-key-parameters/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>应用注意事项：针对低待机电流应用的功率切换RP2040</title>
+<link>http://dangerousprototypes.com/blog/2023/10/08/app-note-power-switching-rp2040-for-low-standby-current-applications/</link>
+<comments>http://dangerousprototypes.com/blog/2023/10/08/app-note-power-switching-rp2040-for-low-standby-current-applications/#respond</comments>
+<pubDate>Sun, 08 Oct 2023 13:00:56 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>app note</category>
+<category>Raspberry Pi</category>
+<category>rp2040</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103405</guid>
+<description>Example circuits for minimal power upon waking up in RP2040 microcontroller present in this app note from Raspberry Pi. Link here (PDF) Even in deep sleep RP2040 draws a typical current of ~180μA, and sleep current is very dependent on PVT: process (current varies from chip to chip), voltage (current varies linearly with voltage), and [&amp;#8230;]</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_raspberrypi_pwrswitchrp2040.png" alt="" class="wp-image-103406" srcset="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_raspberrypi_pwrswitchrp2040.png 433w, http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_raspberrypi_pwrswitchrp2040-300x196.png 300w" sizes="(max-width: 433px) 100vw, 433px" /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;Example circuits for minimal power upon waking up in RP2040 microcontroller present in this app note from Raspberry Pi. Link &lt;a href="https://pip.raspberrypi.com/categories/685-whitepapers-app-notes/documents/RP-004339-WP/Power-switching-RP2040-for-low-standby-current-applications.pdf" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Even in deep sleep RP2040 draws a typical current of ~180μA, and sleep current is very dependent on PVT: process (current varies from chip to chip), voltage (current varies linearly with voltage), and temperature (current varies nonlinearly with temperature).&lt;br&gt; For many use cases where minimal current draw is required, the best option is to power off the system (or the RP2040 part of the system) completely if possible. This application note gives a couple of options for how this can be done, and these circuits are simple enough that a designer can adjust them for their own use case.&lt;/p&gt;&lt;/blockquote&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/10/08/app-note-power-switching-rp2040-for-low-standby-current-applications/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>应用笔记：可控硅和三极晶体管的门控、触发和保持</title>
+<link>http://dangerousprototypes.com/blog/2023/10/01/app-note-gating-latching-and-holding-of-scrs-and-triacs/</link>
+<comments>http://dangerousprototypes.com/blog/2023/10/01/app-note-gating-latching-and-holding-of-scrs-and-triacs/#respond</comments>
+<pubDate>Sun, 01 Oct 2023 17:00:20 +0000</pubDate>
+<dc:creator>DP</dc:creator>
+<category>app notes</category>
+<category>app note</category>
+<category>Littlefuse</category>
+<category>TRIAC</category>
+<guid isPermaLink="false">http://dangerousprototypes.com/blog/?p=103401</guid>
+<description>App note from Littelfuse about how to properly use Triacs and SCRs and knowing their operating modes for various application. Link here (PDF) Gating, latching, and holding currents of Thyristors are some of the most important parameters. These parameters and their interrelationship determine whether the SCRs and Triacs will function properly in various circuit applications.</description>
+<content:encoded>
+&lt;div class="wp-block-image"&gt;&lt;figure class="aligncenter"&gt;&lt;img src="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_littelfuse_an1002.png" alt="" class="wp-image-103402" srcset="http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_littelfuse_an1002.png 493w, http://dangerousprototypes.com/blog/wp-content/media/2023/10/an_littelfuse_an1002-300x192.png 300w" sizes="(max-width: 493px) 100vw, 493px" /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;App note from Littelfuse about how to properly use Triacs and SCRs and knowing their operating modes for various application. Link &lt;a href="https://www.littelfuse.com/media?resourcetype=application-notes&amp;amp;itemid=0a78b99f-fe06-4a32-b2aa-4d45f60ca536&amp;amp;filename=littelfuse-gating-latching-and-holding-of-scrs-and-triacs-application-note" target="_blank" rel="noreferrer noopener" aria-label="here (opens in a new tab)"&gt;here&lt;/a&gt; (PDF)&lt;/p&gt;
+
+
+
+&lt;blockquote class="wp-block-quote"&gt;&lt;p&gt;Gating, latching, and holding currents of Thyristors are some of the most important parameters. These parameters and their interrelationship determine whether the SCRs and Triacs will function properly in various circuit applications.&lt;/p&gt;&lt;/blockquote&gt;
+</content:encoded>
+<wfw:commentRss>http://dangerousprototypes.com/blog/2023/10/01/app-note-gating-latching-and-holding-of-scrs-and-triacs/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+</channel>
+</rss>

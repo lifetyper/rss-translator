@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>News ≈ Packet Storm</title>
+<description>Packet Storm - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers</description>
+<link>https://packetstormsecurity.com/</link>
+<language>en-us</language>
+<lastBuildDate>Wed, 22 Nov 2023 06:10:53 GMT</lastBuildDate>
+<image>
+<title>Packet Storm包风暴</title>
+<width>144</width><height>400</height>
+<link>https://packetstormsecurity.com/</link>
+<url>https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&amp;utmn=1207396895&amp;utmcs=ISO-8859-1&amp;utmsr=31337x31337&amp;utmsc=32-bit&amp;utmul=en-us&amp;utmje=0&amp;utmfl=-&amp;utmcn=1&amp;utmdt=News%u2248%20Packet%20Storm&amp;utmhn=packetstormsecurity.com&amp;utmr=-&amp;utmp=%2Fnews%2F&amp;utmac=UA-18885198-1&amp;utmcc=__utma%3D32867617.1207396895.1700633453.1700633453.1700633453.1%3B%2B__utmz%3D32867617.1700633453.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)</url>
+</image>
+<item>
+<title>加拿大军方和警方受数据泄露影响</title>
+<link>https://packetstormsecurity.com/news/view/35219/Canadian-Military-Police-Impacted-By-Data-Breach.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35219/Canadian-Military-Police-Impacted-By-Data-Breach.html</guid>
+<comments>https://packetstormsecurity.com/news/35219/Canadian-Military-Police-Impacted-By-Data-Breach.html</comments>
+<pubDate>Tue, 21 Nov 2023 15:47:50 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,government,privacy,canada,data loss</category>
+</item>
+<item>
+<title>Tor网络移除了与加密方案相关的高风险中继节点。</title>
+<link>https://packetstormsecurity.com/news/view/35218/Tor-Network-Removes-Risky-Relays-Associated-With-Crypto-Scheme.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35218/Tor-Network-Removes-Risky-Relays-Associated-With-Crypto-Scheme.html</guid>
+<comments>https://packetstormsecurity.com/news/35218/Tor-Network-Removes-Risky-Relays-Associated-With-Crypto-Scheme.html</comments>
+<pubDate>Tue, 21 Nov 2023 15:47:46 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,privacy,cybercrime,fraud,cryptography</category>
+</item>
+<item>
+<title>LummaC2 4.0信息窃取软件使用三角函数来避开沙箱环境</title>
+<link>https://packetstormsecurity.com/news/view/35217/LummaC2-4.0-Infostealer-Uses-Trigonometry-To-Avoid-Sandboxes.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35217/LummaC2-4.0-Infostealer-Uses-Trigonometry-To-Avoid-Sandboxes.html</guid>
+<comments>https://packetstormsecurity.com/news/35217/LummaC2-4.0-Infostealer-Uses-Trigonometry-To-Avoid-Sandboxes.html</comments>
+<pubDate>Tue, 21 Nov 2023 15:47:43 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,privacy,malware,data loss,science</category>
+</item>
+<item>
+<title>美国证券交易委员会（SEC）的四日漏洞披露规则在国会遭到反对。</title>
+<link>https://packetstormsecurity.com/news/view/35216/SECs-4-Day-Breach-Disclosure-Rule-Hits-Opposition-In-Congress.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35216/SECs-4-Day-Breach-Disclosure-Rule-Hits-Opposition-In-Congress.html</guid>
+<comments>https://packetstormsecurity.com/news/35216/SECs-4-Day-Breach-Disclosure-Rule-Hits-Opposition-In-Congress.html</comments>
+<pubDate>Tue, 21 Nov 2023 15:47:37 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,government,privacy,usa,data loss</category>
+</item>
+<item>
+<title>大多数OpenAI员工威胁称，微软聘请了Sam Altman后，他们将辞职。</title>
+<link>https://packetstormsecurity.com/news/view/35215/Most-OpenAI-Staff-Threaten-To-Quit-After-Microsoft-Hires-Sam-Altman.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35215/Most-OpenAI-Staff-Threaten-To-Quit-After-Microsoft-Hires-Sam-Altman.html</guid>
+<comments>https://packetstormsecurity.com/news/35215/Most-OpenAI-Staff-Threaten-To-Quit-After-Microsoft-Hires-Sam-Altman.html</comments>
+<pubDate>Mon, 20 Nov 2023 16:04:54 GMT</pubDate>
+<description> </description>
+<category>headline,microsoft</category>
+</item>
+<item>
+<title>摩根士丹利因公开客户信息被罚款650万美元。</title>
+<link>https://packetstormsecurity.com/news/view/35214/Morgan-Stanley-Fined-6.5-Million-For-Exposing-Customer-Info.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35214/Morgan-Stanley-Fined-6.5-Million-For-Exposing-Customer-Info.html</guid>
+<comments>https://packetstormsecurity.com/news/35214/Morgan-Stanley-Fined-6.5-Million-For-Exposing-Customer-Info.html</comments>
+<pubDate>Mon, 20 Nov 2023 16:04:49 GMT</pubDate>
+<description> </description>
+<category>headline,government,privacy,bank,usa,data loss</category>
+</item>
+<item>
+<title>Rhysida Ransomware Gang Attacked The British Library</title>
+<link>https://packetstormsecurity.com/news/view/35213/Rhysida-Ransomware-Gang-Attacked-The-British-Library.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35213/Rhysida-Ransomware-Gang-Attacked-The-British-Library.html</guid>
+<comments>https://packetstormsecurity.com/news/35213/Rhysida-Ransomware-Gang-Attacked-The-British-Library.html</comments>
+<pubDate>Mon, 20 Nov 2023 16:04:44 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,malware,britain,cybercrime,cryptography</category>
+</item>
+<item>
+<title>突然出现的董事会政变导致OpenAI首席执行官Sam Altman被解职，有关细节浮出水面。</title>
+<link>https://packetstormsecurity.com/news/view/35212/Details-Emerge-Of-Surprise-Board-Coup-That-Ousted-CEO-Sam-Altman-At-OpenAI.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35212/Details-Emerge-Of-Surprise-Board-Coup-That-Ousted-CEO-Sam-Altman-At-OpenAI.html</guid>
+<comments>https://packetstormsecurity.com/news/35212/Details-Emerge-Of-Surprise-Board-Coup-That-Ousted-CEO-Sam-Altman-At-OpenAI.html</comments>
+<pubDate>Mon, 20 Nov 2023 16:04:39 GMT</pubDate>
+<description> </description>
+<category>headline,botnet</category>
+</item>
+<item>
+<title>三星英国披露了为期一年的数据泄露事件，客户数据被泄露。</title>
+<link>https://packetstormsecurity.com/news/view/35211/Samsung-UK-Discloses-Year-Long-Breach-Leaked-Customer-Data.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35211/Samsung-UK-Discloses-Year-Long-Breach-Leaked-Customer-Data.html</guid>
+<comments>https://packetstormsecurity.com/news/35211/Samsung-UK-Discloses-Year-Long-Breach-Leaked-Customer-Data.html</comments>
+<pubDate>Fri, 17 Nov 2023 15:04:00 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,data loss,samsung</category>
+</item>
+<item>
+<title>Zimbra Zero-Day被利用来黑掉政府电子邮件</title>
+<link>https://packetstormsecurity.com/news/view/35210/Zimbra-Zero-Day-Exploited-To-Hack-Government-Emails.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35210/Zimbra-Zero-Day-Exploited-To-Hack-Government-Emails.html</guid>
+<comments>https://packetstormsecurity.com/news/35210/Zimbra-Zero-Day-Exploited-To-Hack-Government-Emails.html</comments>
+<pubDate>Fri, 17 Nov 2023 15:03:56 GMT</pubDate>
+<description> </description>
+<category>headline,government,email,flaw</category>
+</item>
+<item>
+<title>黑客组织向其自己的受害者提交证券交易委员会投诉文件</title>
+<link>https://packetstormsecurity.com/news/view/35209/Hacker-Group-Files-SEC-Complaint-Against-Its-Own-Victim.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35209/Hacker-Group-Files-SEC-Complaint-Against-Its-Own-Victim.html</guid>
+<comments>https://packetstormsecurity.com/news/35209/Hacker-Group-Files-SEC-Complaint-Against-Its-Own-Victim.html</comments>
+<pubDate>Fri, 17 Nov 2023 15:03:52 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,government,usa,data loss</category>
+</item>
+<item>
+<title>在AI / ML工具中发现了十几个可利用的漏洞</title>
+<link>https://packetstormsecurity.com/news/view/35208/Over-A-Dozen-Exploitable-Vulnerabilities-Found-In-AI-ML-Tools.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35208/Over-A-Dozen-Exploitable-Vulnerabilities-Found-In-AI-ML-Tools.html</guid>
+<comments>https://packetstormsecurity.com/news/35208/Over-A-Dozen-Exploitable-Vulnerabilities-Found-In-AI-ML-Tools.html</comments>
+<pubDate>Fri, 17 Nov 2023 15:03:44 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,botnet,flaw</category>
+</item>
+<item>
+<title>黑暗节点黑客论坛的管理员被判入狱</title>
+<link>https://packetstormsecurity.com/news/view/35207/Administrator-Of-Darkode-Hacking-Forum-Sentenced-To-Prison.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35207/Administrator-Of-Darkode-Hacking-Forum-Sentenced-To-Prison.html</guid>
+<comments>https://packetstormsecurity.com/news/35207/Administrator-Of-Darkode-Hacking-Forum-Sentenced-To-Prison.html</comments>
+<pubDate>Thu, 16 Nov 2023 14:35:25 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,cybercrime</category>
+</item>
+<item>
+<title>FBI局长：FISA 702授权要求实际上是一项禁令</title>
+<link>https://packetstormsecurity.com/news/view/35206/FBI-Director-FISA-702-Warrant-Requirement-A-De-Facto-Ban.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35206/FBI-Director-FISA-702-Warrant-Requirement-A-De-Facto-Ban.html</guid>
+<comments>https://packetstormsecurity.com/news/35206/FBI-Director-FISA-702-Warrant-Requirement-A-De-Facto-Ban.html</comments>
+<pubDate>Thu, 16 Nov 2023 14:35:23 GMT</pubDate>
+<description> </description>
+<category>headline,government,privacy,usa,spyware,fbi</category>
+</item>
+<item>
+<title>Clorox首席信息安全官在昂贵的网络攻击后自动冲洗</title>
+<link>https://packetstormsecurity.com/news/view/35205/Clorox-CISO-Flushes-Self-After-Expensive-Cyberattack.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35205/Clorox-CISO-Flushes-Self-After-Expensive-Cyberattack.html</guid>
+<comments>https://packetstormsecurity.com/news/35205/Clorox-CISO-Flushes-Self-After-Expensive-Cyberattack.html</comments>
+<pubDate>Thu, 16 Nov 2023 14:35:19 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,data loss</category>
+</item>
+<item>
+<title>开发人员似乎不能停止在代码中公开凭据</title>
+<link>https://packetstormsecurity.com/news/view/35204/Developers-Cant-Seem-To-Stop-Exposing-Credentials-In-Code.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35204/Developers-Cant-Seem-To-Stop-Exposing-Credentials-In-Code.html</guid>
+<comments>https://packetstormsecurity.com/news/35204/Developers-Cant-Seem-To-Stop-Exposing-Credentials-In-Code.html</comments>
+<pubDate>Thu, 16 Nov 2023 14:35:11 GMT</pubDate>
+<description> </description>
+<category>headline,data loss,flaw,password</category>
+</item>
+<item>
+<title>皇家邮政从勒索软件攻击中恢复将至少耗资1200万美元。</title>
+<link>https://packetstormsecurity.com/news/view/35203/Royal-Mails-Recovery-From-Ransomware-Attack-Will-Cost-Business-At-Least-12M.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35203/Royal-Mails-Recovery-From-Ransomware-Attack-Will-Cost-Business-At-Least-12M.html</guid>
+<comments>https://packetstormsecurity.com/news/35203/Royal-Mails-Recovery-From-Ransomware-Attack-Will-Cost-Business-At-Least-12M.html</comments>
+<pubDate>Thu, 16 Nov 2023 14:35:02 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,malware,britain,cryptography</category>
+</item>
+<item>
+<title>Google 搜索广告被滥用以传播勒索软件</title>
+<link>https://packetstormsecurity.com/news/view/35202/Google-Search-Ads-Abused-To-Spread-Ransomware.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35202/Google-Search-Ads-Abused-To-Spread-Ransomware.html</guid>
+<comments>https://packetstormsecurity.com/news/35202/Google-Search-Ads-Abused-To-Spread-Ransomware.html</comments>
+<pubDate>Thu, 16 Nov 2023 14:34:55 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,malware,google,cryptography</category>
+</item>
+<item>
+<title>美国宣布成功打击IPStorm僵尸网络并宣布其创造者认罪。</title>
+<link>https://packetstormsecurity.com/news/view/35201/US-Announces-IPStorm-Botnet-Takedown-And-Its-Creators-Guilty-Plea.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35201/US-Announces-IPStorm-Botnet-Takedown-And-Its-Creators-Guilty-Plea.html</guid>
+<comments>https://packetstormsecurity.com/news/35201/US-Announces-IPStorm-Botnet-Takedown-And-Its-Creators-Guilty-Plea.html</comments>
+<pubDate>Wed, 15 Nov 2023 13:44:33 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,usa,russia,botnet,cyberwar</category>
+</item>
+<item>
+<title>SAP修补了Business One产品中的致命漏洞</title>
+<link>https://packetstormsecurity.com/news/view/35200/SAP-Patches-Critical-Vulnerability-In-Business-One-Product.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35200/SAP-Patches-Critical-Vulnerability-In-Business-One-Product.html</guid>
+<comments>https://packetstormsecurity.com/news/35200/SAP-Patches-Critical-Vulnerability-In-Business-One-Product.html</comments>
+<pubDate>Wed, 15 Nov 2023 13:44:29 GMT</pubDate>
+<description> </description>
+<category>headline,flaw,patch</category>
+</item>
+<item>
+<title>FBI因未在MGM-Caesars案件中进行逮捕而受到行业的谴责</title>
+<link>https://packetstormsecurity.com/news/view/35199/FBI-Takes-Heat-From-Industry-For-Not-Making-Arrests-In-MGM-Caesars-Cases.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35199/FBI-Takes-Heat-From-Industry-For-Not-Making-Arrests-In-MGM-Caesars-Cases.html</guid>
+<comments>https://packetstormsecurity.com/news/35199/FBI-Takes-Heat-From-Industry-For-Not-Making-Arrests-In-MGM-Caesars-Cases.html</comments>
+<pubDate>Wed, 15 Nov 2023 13:44:23 GMT</pubDate>
+<description> </description>
+<category>headline,hacker,government,malware,usa,fbi,cryptography</category>
+</item>
+<item>
+<title>又有一批微软安全漏洞被利用的修复补丁</title>
+<link>https://packetstormsecurity.com/news/view/35198/Another-Bunch-Of-Fixes-For-Microsoft-Security-Bugs-Exploited-In-The-Wild.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35198/Another-Bunch-Of-Fixes-For-Microsoft-Security-Bugs-Exploited-In-The-Wild.html</guid>
+<comments>https://packetstormsecurity.com/news/35198/Another-Bunch-Of-Fixes-For-Microsoft-Security-Bugs-Exploited-In-The-Wild.html</comments>
+<pubDate>Wed, 15 Nov 2023 13:44:19 GMT</pubDate>
+<description> </description>
+<category>headline,microsoft,flaw,patch,zero day</category>
+</item>
+<item>
+<title>数百万个旧的比特币钱包存在重大的安全漏洞，专家们说道。</title>
+<link>https://packetstormsecurity.com/news/view/35197/Millions-Of-Old-Bitcoin-Wallets-Have-Critical-Security-Flaws-Experts-Say.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35197/Millions-Of-Old-Bitcoin-Wallets-Have-Critical-Security-Flaws-Experts-Say.html</guid>
+<comments>https://packetstormsecurity.com/news/35197/Millions-Of-Old-Bitcoin-Wallets-Have-Critical-Security-Flaws-Experts-Say.html</comments>
+<pubDate>Tue, 14 Nov 2023 21:55:36 GMT</pubDate>
+<description> </description>
+<category>headline,flaw,cryptography</category>
+</item>
+<item>
+<title>TETRA加密算法进入公共领域</title>
+<link>https://packetstormsecurity.com/news/view/35196/TETRA-Encryption-Algorithms-To-Enter-Public-Domain.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35196/TETRA-Encryption-Algorithms-To-Enter-Public-Domain.html</guid>
+<comments>https://packetstormsecurity.com/news/35196/TETRA-Encryption-Algorithms-To-Enter-Public-Domain.html</comments>
+<pubDate>Tue, 14 Nov 2023 21:55:33 GMT</pubDate>
+<description> </description>
+<category>headline,government,cryptography</category>
+</item>
+<item>
+<title>Intel在席卷式推出的修补程序中解决了特权升级漏洞。</title>
+<link>https://packetstormsecurity.com/news/view/35195/Intel-Out-Of-Band-Patch-Addresses-Privilege-Escalation-Flaw.html</link>
+<guid isPermaLink="true">https://packetstormsecurity.com/news/view/35195/Intel-Out-Of-Band-Patch-Addresses-Privilege-Escalation-Flaw.html</guid>
+<comments>https://packetstormsecurity.com/news/35195/Intel-Out-Of-Band-Patch-Addresses-Privilege-Escalation-Flaw.html</comments>
+<pubDate>Tue, 14 Nov 2023 21:55:18 GMT</pubDate>
+<description> </description>
+<category>headline,flaw,patch,intel</category>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
+<id>tag:theregister.com,2005:feed/theregister.com/security/</id>
+<title>The Register - Security</title>
+<link href="https://www.theregister.com/security/headlines.atom" rel="self" type="application/atom+xml"/>
+<link href="https://www.theregister.com/security/" rel="alternate" type="text/html"/>
+<rights>Copyright © 2023, Situation Publishing</rights>
+<author>
+<name>Team Register</name>
+<email>webmaster@theregister.co.uk</email>
+<uri>https://www.theregister.com/odds/about/contact/</uri>
+</author>
+<icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
+<subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
+<logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
+<updated>2023-11-22T01:11:29.00Z</updated>
+<entry>
+<id>tag:theregister.com,2005:story230895</id>
+<published>2023-11-22T01:02:30.00Z</published>
+<updated>2023-11-22T01:11:29.00Z</updated>
+<author>
+<name>Brandon Vigliarolo</name>
+<uri>https://search.theregister.com/?author=Brandon%20Vigliarolo</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/22/binance_ceo_settlement/" rel="alternate" type="text/html"/>
+<title type="html">Binance（币安）和首席执行官承认金融犯罪，数十亿美元被支付给美国政府。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Chief quits, pays own penalty after helping crooks launder cash, aiding sanctions evaders&lt;/h4&gt; &lt;p&gt;The world's largest cryptocurrency exchange just got a little smaller, with the US Department of Justice announcing Binance and its CEO Changpeng Zhao have both pleaded guilty to a multitude of financial crimes. As a result Binance will fork out $10 billion to Uncle Sam in fines and settlements.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230884</id>
+<published>2023-11-21T16:32:11.00Z</published>
+<updated>2023-11-21T16:32:11.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/21/sumo_logic_security_breach/" rel="alternate" type="text/html"/>
+<title type="html">Sumo Logic与安全漏洞搏斗，保护客户数据</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Compromised AWS account led to fears that user info could have been exposed to cybercriminals&lt;/h4&gt; &lt;p&gt;Sumo Logic has confirmed that no customer data was compromised as a result of the potential security breach it discovered on November 3.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230872</id>
+<published>2023-11-21T13:56:13.00Z</published>
+<updated>2023-11-21T13:56:13.00Z</updated>
+<author>
+<name>Elizabeth Coles</name>
+<uri>https://search.theregister.com/?author=Elizabeth%20Coles</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/21/the_great_xbom_vs_sbom/" rel="alternate" type="text/html"/>
+<title type="html">XBOM与SBOM辩论</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Why an eXtended Software Bill of Materials could be the next step up in cybersecurity&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Webinar&lt;/strong&gt;  A Software Bill of Materials (SBOM) has become a non-negotiable requirement to meet regulatory and buyer requirements. But does this provide enough protection if it can give only a partial view into interconnected and ever-changing application attack surfaces?…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230879</id>
+<published>2023-11-21T13:21:40.00Z</published>
+<updated>2023-11-21T13:21:40.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/21/thirdparty_data_breach_at_canadian/" rel="alternate" type="text/html"/>
+<title type="html">加拿大政府受到的第三方数据泄漏可能涉及1999年的数据。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Any govt staffers who used relocation services over past 24 years could be at risk&lt;/h4&gt; &lt;p&gt;The government of Canada has confirmed its data was accessed after two of its third-party service providers were attacked.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230874</id>
+<published>2023-11-21T10:51:19.00Z</published>
+<updated>2023-11-21T10:51:19.00Z</updated>
+<author>
+<name>David Gordon</name>
+<uri>https://search.theregister.com/?author=David%20Gordon</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/21/maintaining_a_state_of_readiness/" rel="alternate" type="text/html"/>
+<title type="html">保持对应对网络攻击的状态准备</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Continuous training can help improve EMEA organisations’ ability to fend off the cyber criminals in 2024&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Sponsored Post&lt;/strong&gt;  You can never afford to drop your guard when it comes to cyber security – hackers never do.  Any weakness in your organisation's defence is certain to be tested at some point.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230862</id>
+<published>2023-11-20T20:39:38.00Z</published>
+<updated>2023-11-20T20:39:38.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/20/moveit_victim_77m_medical/" rel="alternate" type="text/html"/>
+<title type="html">移动受害者数量最新：2.6K+个机构受害，77M+人的数据被盗</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Real-life impact of buggy software laid bare – plus: Avast tries to profit from being caught up in attacks&lt;/h4&gt; &lt;p&gt;Quick show of hands: whose data &lt;em&gt;hasn't&lt;/em&gt; been stolen in the mass exploitation of Progress Software's vulnerable MOVEit file transfer application? Anyone?…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230859</id>
+<published>2023-11-20T17:15:06.00Z</published>
+<updated>2023-11-20T17:15:06.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/20/former_infosec_coo_pleads_guilty/" rel="alternate" type="text/html"/>
+<title type="html">前信息安全首席运营官被逮捕，承认为了推动生意而对医院发起攻击。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Admits to taking phones used for 'code blue' emergencies offline and more&lt;/h4&gt; &lt;p&gt;An Atlanta tech company's former COO has pleaded guilty to a 2018 incident in which he deliberately launched online attacks on two hospitals, later citing the incidents in sales pitches.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230851</id>
+<published>2023-11-20T12:05:17.00Z</published>
+<updated>2023-11-20T13:03:48.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/20/rhysida_claims_british_library_ransomware/" rel="alternate" type="text/html"/>
+<title type="html">Rhysida ransomware gang: We attacked the British Library</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Crims post passport scans and internal forms up for 'auction' to prove it&lt;/h4&gt; &lt;p&gt;The Rhysida ransomware group says it's behind the highly disruptive October cyberattack on the British Library, leaking a snippet of stolen data in the process.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230835</id>
+<published>2023-11-20T02:33:12.00Z</published>
+<updated>2023-11-20T02:33:12.00Z</updated>
+<author>
+<name>Brandon Vigliarolo</name>
+<uri>https://search.theregister.com/?author=Brandon%20Vigliarolo</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/20/your_password_hygiene_is_still/" rel="alternate" type="text/html"/>
+<title type="html">您的密码卫生状况依然糟糕，NordPass说到。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;ALSO: FCC cracks down on SIM-swap scams, old ZeroLogon targeted by new ransomware, and critical vulnerabilities&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Infosec in brief&lt;/strong&gt;  It's that time of year again – NordPass has released its annual list of the most common passwords. And while it seems some of you took last year's chiding to heart, most of you arguably swapped bad for worse.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230828</id>
+<published>2023-11-17T18:04:11.00Z</published>
+<updated>2023-11-17T18:04:11.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/17/lockbit_cracks_whip_on_affiliates/" rel="alternate" type="text/html"/>
+<title type="html">LockBit在附属机构未能逼迫受害者后重新绘制谈判策略。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Cybercrime group worried over dwindling payments ... didn't they tell them to Always Be Closing?&lt;/h4&gt; &lt;p&gt;In response to growing frustrations inside the LockBit organization, its leaders have overhauled the way they negotiate with ransomware victims going forward.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230808</id>
+<published>2023-11-17T15:01:14.00Z</published>
+<updated>2023-11-17T15:01:14.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/17/sonicwall_solutions_granted_acquisition/" rel="alternate" type="text/html"/>
+<title type="html">SonicWall在网络安全需求激增之际吞并了解决方案提供公司</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;CEO Bob VanKirk makes near-20-year partnership official, teases big things coming to EMEA&lt;/h4&gt; &lt;p&gt;Channel-focused cybersecurity company SonicWall is buying Virginia-based MSSP Solutions Granted – its first acquisition in well over a decade.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230820</id>
+<published>2023-11-17T05:58:07.00Z</published>
+<updated>2023-11-17T20:00:25.00Z</updated>
+<author>
+<name>Laura Dobberstein</name>
+<uri>https://search.theregister.com/?author=Laura%20Dobberstein</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/17/uk_samsung_electronics_discloses_yearlong/" rel="alternate" type="text/html"/>
+<title type="html">三星英国披露长达一年的数据泄露，泄漏了客户数据</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Chaebol already the subject of suits for a pair of past indiscretions&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Updated&lt;/strong&gt;  The UK division of Samsung Electronics has allegedly alerted customers of a year-long data security breach – the third such incident the South Korean giant has experienced around the world in the past two years.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230815</id>
+<published>2023-11-17T00:11:16.00Z</published>
+<updated>2023-11-17T00:26:17.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/17/fbi_scattered_spider_action/" rel="alternate" type="text/html"/>
+<title type="html">小心，散落的蜘蛛。美国联邦调查局(FBI)投入“重大”的资源来捕捉窃取数据的团伙。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Absence of arrests doesn't mean nothing's happening, cyber-cops insist&lt;/h4&gt; &lt;p&gt;The FBI is applying "significant" resources to find members of the infamous Scattered Spider cyber-crime crew, which seemingly attacked a couple of high-profile casinos a few months ago and remains active, according to a senior bureau official.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230809</id>
+<published>2023-11-16T21:23:09.00Z</published>
+<updated>2023-11-17T01:59:56.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/16/rackspace_ransomware_expenses/" rel="alternate" type="text/html"/>
+<title type="html">清理勒索软件感染需要多少钱？对于Rackspace来说，大约需要1100万美元。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;And that's not counting the incoming lawsuits. Thank goodness for insurance, eh?&lt;/h4&gt; &lt;p&gt;Rackspace's costs from last year's ransomware infection continue to mount. The cloud hosting biz has told America's financial watchdog, the SEC, its total expenses to date regarding that cyberattack have now reached about $11 million, though insurance has helped cover half of that.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230799</id>
+<published>2023-11-16T15:45:07.00Z</published>
+<updated>2023-11-16T15:45:07.00Z</updated>
+<author>
+<name>Richard Speed</name>
+<uri>https://search.theregister.com/?author=Richard%20Speed</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/16/microsoft_windows_server_patch/" rel="alternate" type="text/html"/>
+<title type="html">Windows Server 2022 更新给 ESXi 主机的虚拟机带来了蓝屏问题。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Wild idea: Maybe Microsoft could introduce a Quality Copilot to stop pushing broken patches&lt;/h4&gt; &lt;p&gt;Something likely to be absent from Microsoft's Ignite event is talk of a fix rolled out to deal with malfunctioning Windows Server 2022 Virtual Machines following a problematic update from the company.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230795</id>
+<published>2023-11-16T14:45:06.00Z</published>
+<updated>2023-11-17T13:07:02.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/16/blackcat_ransomware_luring_corporate_targets/" rel="alternate" type="text/html"/>
+<title type="html">黑猫玩弄恶意广告陷阱，诱骗企业受害者。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Ads for Slack and Cisco AnyConnect actually downloaded Nitrogen malware&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Updated&lt;/strong&gt;  Affiliates of the ALPHV/BlackCat ransomware-as-a-service operation are turning to malvertising campaigns to establish an initial foothold in their victims' systems.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230797</id>
+<published>2023-11-16T12:31:12.00Z</published>
+<updated>2023-11-16T20:54:03.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/16/royal_mail_recovery_from_ransomware/" rel="alternate" type="text/html"/>
+<title type="html">皇家邮政从勒索软件攻击中的恢复至少将花费1200万美元的费用。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;First time hard figure given on recovery costs for January incident&lt;/h4&gt; &lt;p&gt;Royal Mail's parent International Distributions Services has revealed for the first time the infrastructure costs associated with its January ransomware attack.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230792</id>
+<published>2023-11-16T03:31:13.00Z</published>
+<updated>2023-11-16T03:31:13.00Z</updated>
+<author>
+<name>Simon Sharwood</name>
+<uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/16/qurium_cloned_websites_chinese_gambling/" rel="alternate" type="text/html"/>
+<title type="html">Hundreds of websites cloned to run ads for Chinese football gambling outfits</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Linked to org that UK authorities found once failed its anti-money-laundering obligations&lt;/h4&gt; &lt;p&gt;Swedish digital rights organization Qurium has discovered around 250 cloned websites and suggested they exist to drive people to China-linked gambling sites.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230790</id>
+<published>2023-11-16T00:43:50.00Z</published>
+<updated>2023-11-21T18:36:31.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/16/clorox_ciso_washes_out/" rel="alternate" type="text/html"/>
+<title type="html">Clorox首席信息安全官因千万美元的网络攻击而自炸</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Plus: Ransomware crooks file SEC complaint against victim&lt;/h4&gt; &lt;p&gt;The Clorox Company's chief security officer has left her job in the wake of a corporate network breach that cost the manufacturer hundreds of millions of dollars.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230776</id>
+<published>2023-11-15T18:30:07.00Z</published>
+<updated>2023-11-15T18:30:07.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/15/google_workspace_weaknesses_allow_plaintext/" rel="alternate" type="text/html"/>
+<title type="html">Google Workspace的弱点使得明文密码被盗</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Exploits come with caveats, but Google says no fixes as user security should do the heavy lifting here&lt;/h4&gt; &lt;p&gt;Novel weaknesses in Google Workspace have been exposed by researchers, with exploits potentially leading to ransomware attacks, data exfiltration, and password decryption.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230767</id>
+<published>2023-11-15T14:00:07.00Z</published>
+<updated>2023-11-15T18:23:07.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/15/fbi_director_fisa_section_702/" rel="alternate" type="text/html"/>
+<title type="html">FBI局长：FISA第702条要求的授权程序实际上是一种“事实禁令”。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;War of words escalates as deadline draws near&lt;/h4&gt; &lt;p&gt;FBI director Christopher Wray made yet another impassioned plea to US lawmakers to kill a proposed warrant requirement for so-called "US person queries" of data collected via the Feds' favorite snooping tool, FISA Section 702.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230725</id>
+<published>2023-11-15T13:52:04.00Z</published>
+<updated>2023-11-15T13:52:04.00Z</updated>
+<author>
+<name>Guy Matthews</name>
+<uri>https://search.theregister.com/?author=Guy%20Matthews</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/15/how_cyber_training_can_help/" rel="alternate" type="text/html"/>
+<title type="html">如何通过网络培训帮助您打败坏人</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;No matter what stage your security career is at, SANS has resources that will add to your knowledge&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Sponsored Post&lt;/strong&gt;  Fighting cybercrime demands constant vigilance and can be a huge drain on time and resources. So it's good to know that not every weapon in the armory of the cybersecurity professional has to cost the earth. In fact, there's quite a bit of free stuff out there if you know where to look for it.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230757</id>
+<published>2023-11-15T09:30:08.00Z</published>
+<updated>2023-11-15T14:00:19.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/15/ransomware_more_efficient_than_ever/" rel="alternate" type="text/html"/>
+<title type="html">勒索软件比以往任何时候都更高效，坏人们仍在追求你的记录。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Trying times for incident responders who battle fastest-ever ransomware blitz as attackers keep scrubbing evidence clean&lt;/h4&gt; &lt;p&gt;Organizations are still failing to implement adequate logging measures, increasing the difficulty faced by defenders and incident responders to identify the cause of infosec attacks.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230765</id>
+<published>2023-11-15T00:36:45.00Z</published>
+<updated>2023-11-16T01:50:02.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/15/november_2023_patch_tuesday/" rel="alternate" type="text/html"/>
+<title type="html">又是一个月，又有一堆修复微软安全漏洞的补丁在野外被利用。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Plus: VMware closes critical hole, Adobe fixes a whopping 76 flaws&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Patch Tuesday&lt;/strong&gt;  Heads up: Microsoft's November Patch Tuesday includes fixes for about 60 vulnerabilities – including three that have already been found and abused in the wild.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230763</id>
+<published>2023-11-14T23:23:51.00Z</published>
+<updated>2023-11-15T00:19:44.00Z</updated>
+<author>
+<name>Brandon Vigliarolo</name>
+<uri>https://search.theregister.com/?author=Brandon%20Vigliarolo</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/russian_ipstorm_botnet/" rel="alternate" type="text/html"/>
+<title type="html">俄罗斯国民承认建立已被拆除的IPStorm代理僵尸网络。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;23K nodes earned operator more than $500K – and now perhaps jail time&lt;/h4&gt; &lt;p&gt;The FBI says it has dismantled another botnet after collaring its operator, who admitted hijacking tens of thousands of machines around the world to create his network of obedient nodes.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230744</id>
+<published>2023-11-14T18:30:06.00Z</published>
+<updated>2023-11-16T01:45:00.00Z</updated>
+<author>
+<name>Thomas Claburn</name>
+<uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/amd_trusted_execution/" rel="alternate" type="text/html"/>
+<title type="html">AMD SEV OMG：被糟糕的虚拟化管理程序缓存干涉破坏的虚拟机中的可信执行</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Let's do the CacheWarp again&lt;/h4&gt; &lt;p&gt;Boffins in Germany and Austria have found a flaw in AMD's SEV trusted execution environment that makes it less than trustworthy.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230735</id>
+<published>2023-11-14T18:00:06.00Z</published>
+<updated>2023-11-15T19:42:05.00Z</updated>
+<author>
+<name>Thomas Claburn</name>
+<uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/intel_outofband_patch/" rel="alternate" type="text/html"/>
+<title type="html">英特尔发布补丁以消除使任何客户虚拟机崩溃主机服务器的芯片漏洞。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Sapphire Rapids, Alder Lake, Raptor Lake chip families treated for 'Redundant Prefix'&lt;/h4&gt; &lt;p&gt;Intel on Tuesday issued an out-of-band security update to address a privilege escalation vulnerability in recent server and personal computer chips.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230752</id>
+<published>2023-11-14T14:45:07.00Z</published>
+<updated>2023-11-17T17:15:48.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/us_confirms_royalblacksuit_ransomware_ties/" rel="alternate" type="text/html"/>
+<title type="html">勒索软件皇家：美国证实皇家与黑色套装有关连</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Royal alone scored $275M in past year as FBI, other agencies hot on merging trail&lt;/h4&gt; &lt;p&gt;The FBI and the US govt's Cybersecurity and Infrastructure Security Agency (CISA) have released fresh guidance on the Royal ransomware operation, saying that evidence suggests it may soon undergo a long-speculated rebrand.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230729</id>
+<published>2023-11-14T11:00:06.00Z</published>
+<updated>2023-11-14T11:00:06.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/novel_backdoor_persists_confluence/" rel="alternate" type="text/html"/>
+<title type="html">小说后门在关键的Confluence漏洞修复后仍然存在。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Got a Confluence server? Listen up. Malware said to have wide-ranging capabilities&lt;/h4&gt; &lt;p&gt;A new backdoor was this week found implanted in the environments of organizations to exploit the recently disclosed critical vulnerability in Atlassian Confluence.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230742</id>
+<published>2023-11-14T08:00:09.00Z</published>
+<updated>2023-11-14T08:00:09.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/tetra_encryption_algorithms_open_sourced/" rel="alternate" type="text/html"/>
+<title type="html">错误猎手们准备: TETRA无线电加密算法将进入公共领域</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Emergency comms standard had five nasty flaws but will be opened to academic research&lt;/h4&gt; &lt;p&gt;A set of encryption algorithms used to secure emergency radio communications will enter the public domain after an about-face by the European Telecommunications Standards Institute (ETSI).…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230734</id>
+<published>2023-11-14T07:02:14.00Z</published>
+<updated>2023-11-14T07:02:14.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/ncsc_cyber_readiness/" rel="alternate" type="text/html"/>
+<title type="html">国家网络安全中心表示，英国关键基础设施的网络准备工作还不够完善。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;And the world's getting more and more dangerous&lt;/h4&gt; &lt;p&gt;The UK's National Cyber Security Centre (NCSC) has once again sounded its concern over the rising threat level to the nation's critical national infrastructure (CNI).…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230747</id>
+<published>2023-11-14T05:59:06.00Z</published>
+<updated>2023-11-14T05:59:06.00Z</updated>
+<author>
+<name>Laura Dobberstein</name>
+<uri>https://search.theregister.com/?author=Laura%20Dobberstein</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/hikvision_fasting_identification/" rel="alternate" type="text/html"/>
+<title type="html">据报道，北京要求海康威视识别穆斯林占多数的省份中的禁食学生。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;University managment app also tracked library activity, holidays, and much more&lt;/h4&gt; &lt;p&gt;US-based research group IPVM has accused Chinese video surveillance equipment company Hikvision of engaging with a contract to develop technology that can identify Muslim students that are fasting during Ramadan, based on their dining records.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230738</id>
+<published>2023-11-14T02:38:14.00Z</published>
+<updated>2023-11-14T02:59:18.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/passive_ssh_key_compromise/" rel="alternate" type="text/html"/>
+<title type="html">被动SSH服务器私钥泄露是真实存在的...对于一些易受攻击的设备来说</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;OpenSSL, LibreSSL, OpenSSH users, don't worry – you can sit this one out&lt;/h4&gt; &lt;p&gt;An academic study has shown how it's possible for someone to snoop on certain devices' SSH connections and, with a bit of luck, impersonate that equipment after silently figuring out the hosts' private RSA keys.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230743</id>
+<published>2023-11-14T00:59:11.00Z</published>
+<updated>2023-11-14T20:41:13.00Z</updated>
+<author>
+<name>Katyanna Quach</name>
+<uri>https://search.theregister.com/?author=Katyanna%20Quach</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/14/google_sues_ai_scammer/" rel="alternate" type="text/html"/>
+<title type="html">谷歌起诉向人们兜售带有假恶意软件的 Bard 聊天机器人下载的骗子</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Plus: Chocolate Factory launches second lawsuit against false DMCA takedowns&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Updated&lt;/strong&gt;  Google has sued three scammers for offering a fake download of its Bard AI chatbot that contained malware capable of stealing credentials for small business' social media accounts.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230724</id>
+<published>2023-11-13T14:33:12.00Z</published>
+<updated>2023-11-13T18:58:22.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/13/inside_denmarks_hell_week_as/" rel="alternate" type="text/html"/>
+<title type="html">Inside Denmark’s hell week as critical infrastructure orgs faced cyberattacks</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Zyxel zero days and nation-state actors (maybe) had a hand in the sector’s worst cybersecurity event on record&lt;/h4&gt; &lt;p&gt;Danish critical infrastructure faced the biggest online attack in the country's history in May, according to SektorCERT, Denmark's specialist organization for the cybersecurity of critical kit.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230691</id>
+<published>2023-11-13T10:15:06.00Z</published>
+<updated>2023-11-13T10:15:06.00Z</updated>
+<author>
+<name>Rupert Goodwins</name>
+<uri>https://search.theregister.com/?author=Rupert%20Goodwins</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/13/data_diodes_comment/" rel="alternate" type="text/html"/>
+<title type="html">介绍使灯光保持亮着的技术</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Genuinely new ideas are rare in IT – this superhero is ready to make a real difference&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Opinion&lt;/strong&gt;  Cybersecurity has many supremely annoying aspects. It soaks up talent, time, and money like the English men's football squad, and like that benighted institution, the results never seem to change.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230710</id>
+<published>2023-11-13T06:31:13.00Z</published>
+<updated>2023-11-13T18:00:09.00Z</updated>
+<author>
+<name>Brandon Vigliarolo</name>
+<uri>https://search.theregister.com/?author=Brandon%20Vigliarolo</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/13/royal_mail_cybersecurity_still_a/" rel="alternate" type="text/html"/>
+<title type="html">皇家邮政的网络安全仍然有些问题，信息安全专家们声称。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Also: Most Mainers are MOVEit victims, NY radiology firm fined for not updating kit, and some critical vulnerabilities&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Infosec in brief&lt;/strong&gt;  After spending almost a year cleaning up after various security snafus, the UK's Royal Mail had an open redirect flaw on one of its sites, according to infosec types. We're told this vulnerability potentially exposes customers to malware infections and phishing attacks.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230717</id>
+<published>2023-11-13T00:45:21.00Z</published>
+<updated>2023-11-13T01:19:16.00Z</updated>
+<author>
+<name>Laura Dobberstein</name>
+<uri>https://search.theregister.com/?author=Laura%20Dobberstein</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/13/asia_tech_news_roundup/" rel="alternate" type="text/html"/>
+<title type="html">澳大利亚在港口遭受攻击后宣布“国家重大网络事件”。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;PLUS: Citrix quits China; Cambodia deports Japanese scammers; Chinese tech CEO disappears; and more&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Asia in brief&lt;/strong&gt;  Australia's National Cyber Security Coordinator has described an attack on logistics company DP World as a "nationally significant cyber incident."…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230708</id>
+<published>2023-11-10T20:21:02.00Z</published>
+<updated>2023-11-10T20:21:02.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/10/lockbit_leaks_boeing_files/" rel="alternate" type="text/html"/>
+<title type="html">迫不及待的LockBit表示，在勒索未成功之后，已经泄露了50GB的盗窃的波音文件。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Aerospace titan pores over data to see if dump is legit&lt;/h4&gt; &lt;p&gt;The LockBit crew is claiming to have leaked all of the data it stole from Boeing late last month, after the passenger jet giant apparently refused to pay the ransom demand.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230703</id>
+<published>2023-11-10T18:51:13.00Z</published>
+<updated>2023-11-10T18:51:13.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/10/justin_sun_poloniex_reward/" rel="alternate" type="text/html"/>
+<title type="html">Poloniex加密货币交易所会给予偷走了的120百万美元的金额的5%回报。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;White hat bounty looks more like a beg bounty&lt;/h4&gt; &lt;p&gt;The founder of the Poloniex has offered to pay off thieves who drained an estimated $120 million of user funds from the cryptocurrency exchange in a raid on Friday.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230698</id>
+<published>2023-11-10T15:36:09.00Z</published>
+<updated>2023-11-10T21:00:01.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/10/ransomedvc_shut_down/" rel="alternate" type="text/html"/>
+<title type="html">奇怪的是，没人想要购买一个引起警方注意的勒索软件团伙。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Ransomed.vc shuts after 20% discount fails to entice bids&lt;/h4&gt; &lt;p&gt;Short-lived ransomware outfit Ransomed.vc claims to have shut down for good after a number of suspected arrests.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230694</id>
+<published>2023-11-10T08:00:07.00Z</published>
+<updated>2023-11-10T17:38:03.00Z</updated>
+<author>
+<name>Laura Dobberstein</name>
+<uri>https://search.theregister.com/?author=Laura%20Dobberstein</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/10/icbc_ransomware/" rel="alternate" type="text/html"/>
+<title type="html">中国最大银行工商银行遭到勒索软件攻击，导致全球贸易受阻</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;CitrixBleed patch has been available for around a month&lt;/h4&gt; &lt;p&gt;China's largest bank, ICBC, was hit by ransomware that resulted in disruption of financial services (FS) systems on Thursday Beijing time, according to a notice on its website.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230688</id>
+<published>2023-11-09T22:20:44.00Z</published>
+<updated>2023-11-09T22:20:44.00Z</updated>
+<author>
+<name>Thomas Claburn</name>
+<uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/09/intel_downfall_lawsuit/" rel="alternate" type="text/html"/>
+<title type="html">下坠影响：诉讼声称英特尔知道AVX芯片存在安全问题，却置之不理。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Billions of data-leaking processors sold despite warnings and patch just made them slower, punters complain&lt;/h4&gt; &lt;p&gt;Intel has been sued by a handful of PC buyers who claim the x86 goliath failed to act when informed five years ago about faulty chip instructions that allowed the recent Downfall vulnerability, and during that period sold billions of insecure chips.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230678</id>
+<published>2023-11-09T17:03:11.00Z</published>
+<updated>2023-11-10T11:50:29.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/09/solarwinds_sec_filing/" rel="alternate" type="text/html"/>
+<title type="html">SolarWinds称SEC糟糕：监管机构“缺乏能力”来监管网络安全</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;IT software slinger publishes fierce response to lawsuit brought last month&lt;/h4&gt; &lt;p&gt;SolarWinds has come out guns blazing to defend itself following the US Securities and Exchange Commission's announcement that it will be suing both the IT software maker and its CISO over the 2020 SUNBURST cyberattack.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230672</id>
+<published>2023-11-09T12:36:52.00Z</published>
+<updated>2023-11-10T20:55:34.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/09/moveit_cybercriminals_behind_latest_sysaid/" rel="alternate" type="text/html"/>
+<title type="html">MOVEit網絡犯罪分子挖掘出一個新的零日漏洞，以利用本地的SysAid主機。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Second novel zero-day exploited by Lace Tempest this year offers notable demonstration of skill, especially for a ransomware affiliate&lt;/h4&gt; &lt;p&gt;The cybercriminals behind the stream of MOVEit attacks from earlier this year are making use of a zero-day vulnerability in on-prem instances of IT service and help desk software-slinger SysAid.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230667</id>
+<published>2023-11-09T08:00:09.00Z</published>
+<updated>2023-11-09T08:00:09.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/09/russias_sandworm_power_plant_attack/" rel="alternate" type="text/html"/>
+<title type="html">俄罗斯的Sandworm - 不仅是导弹袭击 - 也应该为乌克兰的电力中断负责</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Online attack coincided with major military action, Mandiant says&lt;/h4&gt; &lt;p&gt;Blackouts in Ukraine last year were not just caused by missile strikes on the nation but also by a seemingly coordinated cyberattack on one of its power plants. That's according to Mandiant's threat intel team, which said Russia's Sandworm crew was behind the two-pronged power-outage and data-wiping attack.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230662</id>
+<published>2023-11-09T06:56:13.00Z</published>
+<updated>2023-11-09T06:56:13.00Z</updated>
+<author>
+<name>Jessica Lyons Hardcastle</name>
+<uri>https://search.theregister.com/?author=Jessica%20Lyons%20Hardcastle</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/09/predatorai_infostealer_chatgpt/" rel="alternate" type="text/html"/>
+<title type="html">如何处理2023年的云入侵工具包？当然是在上面加一个聊天助手啦。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Don't worry, this half-baked Python script is for educational purposes onl-hahaha&lt;/h4&gt; &lt;p&gt;Infosec bods have detailed an underground cybersecurity tool dubbed Predator AI that not only can be used to compromise poorly secured cloud services and web apps, but has an optional chat-bot assistant that only kinda works.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230655</id>
+<published>2023-11-08T19:01:09.00Z</published>
+<updated>2023-11-08T19:01:09.00Z</updated>
+<author>
+<name>Brandon Vigliarolo</name>
+<uri>https://search.theregister.com/?author=Brandon%20Vigliarolo</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/08/microsoft_meta_election_disinformation/" rel="alternate" type="text/html"/>
+<title type="html">微软和Meta公司计划在2024年打击选举虚假信息</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Strategies differ, though both have gaps that could hurt efficacy&lt;/h4&gt; &lt;p&gt;Microsoft and Meta have very different initiatives to combat misinformation in 2024, slated to be a busy election year all over the globe, but whether they'll be effective is another issue.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230649</id>
+<published>2023-11-08T14:00:06.00Z</published>
+<updated>2023-11-08T18:25:19.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/08/atlassian_confluence_flaw_upgraded/" rel="alternate" type="text/html"/>
+<title type="html">Atlassian将Confluence授权漏洞的威胁指数提升到最大</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Attackers secure admin rights after vendor said they could only steal data&lt;/h4&gt; &lt;p&gt;Atlassian reassessed the severity rating of the recent improper authorization vulnerability in Confluence Data Center and Server, raising the CVSS score from 9.1 to a maximum of 10.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.com,2005:story230645</id>
+<published>2023-11-08T11:46:09.00Z</published>
+<updated>2023-11-08T17:49:52.00Z</updated>
+<author>
+<name>Connor Jones</name>
+<uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+</author>
+<link href="https://go.theregister.com/feed/www.theregister.com/2023/11/08/monero_project_developers_announce_breach/" rel="alternate" type="text/html"/>
+<title type="html">门罗币项目承认，盗贼在神秘的入侵中从一个钱包中窃取了六位数金额。</title>
+<summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;It's the latest in a string of unusual wallet-draining attacks that began in April&lt;/h4&gt; &lt;p&gt;The Monero Project is admitting that one of its wallets was drained by an unknown source in September, losing the equivalent of around $437,000 at today's exchange rate.…&lt;/p&gt;</summary>
+</entry>
+</feed>

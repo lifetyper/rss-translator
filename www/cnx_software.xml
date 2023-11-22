@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>CNX Software – Embedded Systems News</title>
+<atom:link href="https://www.cnx-software.com/feed/" rel="self" type="application/rss+xml"/>
+<link>https://www.cnx-software.com/</link>
+<description>Reviews, tutorials and the latest news about embedded systems, IoT, open-source hardware, SBC's, microcontrollers, processors, and more</description>
+<lastBuildDate>Wed, 22 Nov 2023 04:12:18 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+<sy:updateFrequency>
+	1	</sy:updateFrequency>
+<generator>https://wordpress.org/?v=6.4.1</generator>
+<image>
+<url>https://cdn.cnx-software.com/wp-content/uploads/2021/04/cropped-CNX-Software-Square-Logo-Light-Grey-1.png?lossy=1&amp;resize=32%2C32&amp;ssl=1</url>
+<title>CNX Software – Embedded Systems News</title>
+<link>https://www.cnx-software.com/</link>
+<width>32</width>
+<height>32</height>
+</image>
+<item>
+<title>联发科技发布了5G RedCap解决方案：M60 5G调制解调器和T300 Arm Cortex-A35 SoC。</title>
+<link>https://www.cnx-software.com/2023/11/22/mediatek-unveils-5g-redcap-solutions-m60-5g-iot-modem-and-t300-arm-cortex-a35-soc/</link>
+<comments>https://www.cnx-software.com/2023/11/22/mediatek-unveils-5g-redcap-solutions-m60-5g-iot-modem-and-t300-arm-cortex-a35-soc/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Wed, 22 Nov 2023 04:02:29 +0000</pubDate>
+<category>Mediatek MT2xxx</category>
+<category>5g</category>
+<category>industrial</category>
+<category>IoT</category>
+<category>mediatek</category>
+<category>wearables</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120892</guid>
+<description>&lt;div&gt;&lt;img width="720" height="441" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem.jpg?lossy=1&amp;amp;fit=720%2C441&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="MediaTek M60 5G RedCap Modem" style="margin-bottom: 10px;" decoding="async" fetchpriority="high" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem.jpg?lossy=1&amp;amp;ssl=1 1228w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem-720x441.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem-1200x736.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem-300x184.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem-768x471.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-M60-5G-RedCap-Modem.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;MediaTek has introduced its first 5G RedCap solutions with the M60 5G modem and the MediaTek T300 Arm Cortex-A35 SoC design to bring 5G-NR to wearables, light-weight AR devices, IoT modules, and consumer and industrial Edge AI devices. 5G RedCap (Reduced Capability), part of 3GPP Release 17, aims to keep some 5G features such as low latency, low power consumption, enhanced security, and network slicing while limiting the bandwidth (to around 85 Mbps) in order to be used in IoT devices and products that may not need the bandwidth required by smartphones and computers, but would benefit from longer battery life and a smaller footprint. MediaTek claims to be the first company to unveil 5G RedCap chips with the M60 modem and T300 SoC. MediaTek M60 key features and specifications: 3GPP Release 17 standard 5G modem R17 UE power saving R17 Coverage enhancement R17 Small data transmission LTE &amp;#38; NR-FR1 [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/22/mediatek-unveils-5g-redcap-solutions-m60-5g-iot-modem-and-t300-arm-cortex-a35-soc/"&gt;MediaTek unveils 5G RedCap solutions: M60 5G modem and T300 Arm Cortex-A35 SoC&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/22/mediatek-unveils-5g-redcap-solutions-m60-5g-iot-modem-and-t300-arm-cortex-a35-soc/feed/</wfw:commentRss>
+<slash:comments>2</slash:comments>
+</item>
+<item>
+<title>iKOOLCORE R2 迷你电脑和路由器评测 – 第一部分：规格、拆箱、拆解和首次启动</title>
+<link>https://www.cnx-software.com/2023/11/21/ikoolcore-r2-mini-pc-router-review-specs-unboxing-teardown-first-boot/</link>
+<comments>https://www.cnx-software.com/2023/11/21/ikoolcore-r2-mini-pc-router-review-specs-unboxing-teardown-first-boot/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Tue, 21 Nov 2023 10:55:28 +0000</pubDate>
+<category>Hardware</category>
+<category>Intel Core</category>
+<category>Intel Processor</category>
+<category>Testing</category>
+<category>2.5GbE</category>
+<category>alder lake</category>
+<category>bios</category>
+<category>firewall</category>
+<category>gateway</category>
+<category>mini pc</category>
+<category>networking</category>
+<category>Reviews</category>
+<category>router</category>
+<category>uefi</category>
+<category>wifi 6</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=121015</guid>
+<description>&lt;div&gt;&lt;img width="720" height="518" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway.jpg?lossy=1&amp;amp;fit=720%2C518&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Four 2.5GbE Mini PC Firewall Gateway" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway-720x518.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway-300x216.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway-768x553.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Four-2.5GbE-Mini-PC-Firewall-Gateway.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;iKOOLCORE R2 is an Intel Alder-Lake-N mini PC and network appliance (router/firewall/gateway) that comes with four 2.5GbE ports, up to 16GB RAM, NVMe storage, and the usual HDMI and USB ports, and offered with either Processor N95 or Core i3-N305 SoC. It&amp;#8217;s the successor of the iKOOLCORE R1 with four gigabit Ethernet ports and Intel Celeron N5095 or Jasper Lake processor, and the company sent us a sample for testing, so we&amp;#8217;ll start with listing the specifications, check out the mini PC and accessories with an unboxing, teardown the multilayer mini PC to check out the hardware design and explain how to update the SSD or install a wireless module, and check whether it can still boot to Windows 11 (default, preinstalled OS) after my adventurous teardown&amp;#8230; iKOOCORE R2 specifications Alder Lake-N SoC Intel Processor N95 quad-core processor @ up to 3.4 GHz (Turbo) with 6MB cache, 24EU Intel UHD [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/21/ikoolcore-r2-mini-pc-router-review-specs-unboxing-teardown-first-boot/"&gt;iKOOLCORE R2 mini PC and router review &amp;#8211; Part 1: Specs, unboxing, teardown, and first boot&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/21/ikoolcore-r2-mini-pc-router-review-specs-unboxing-teardown-first-boot/feed/</wfw:commentRss>
+<slash:comments>7</slash:comments>
+</item>
+<item>
+<title>STMicro STM32WL3次GHz无线MCU面向智能电表、智能建筑和工业监测。</title>
+<link>https://www.cnx-software.com/2023/11/21/stmicro-stm32wl3-sub-ghz-wireless-mcu-targets-smart-metering-smart-building-and-industrial-monitoring/</link>
+<comments>https://www.cnx-software.com/2023/11/21/stmicro-stm32wl3-sub-ghz-wireless-mcu-targets-smart-metering-smart-building-and-industrial-monitoring/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Tue, 21 Nov 2023 07:19:40 +0000</pubDate>
+<category>STMicro STM32</category>
+<category>802.15.4</category>
+<category>industrial</category>
+<category>low power</category>
+<category>lpwan</category>
+<category>mioty</category>
+<category>sigfox</category>
+<category>smart grid</category>
+<category>stm32</category>
+<category>stmicro</category>
+<category>wireless</category>
+<category>wize</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120989</guid>
+<description>&lt;div&gt;&lt;img width="720" height="407" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3.jpg?lossy=1&amp;amp;fit=720%2C407&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="STM32WL3" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3-720x407.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3-300x170.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3-768x434.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/STM32WL3.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;STMicroelectronics STM32WL3 is an Arm Cortex-M0+ low-power, long-range, multi-protocol wireless microcontroller working in sub-GHz ISM frequency bands, namely 413MHz &amp;#8211; 479MHz, 826MHz &amp;#8211; 958MHz, and soon 169MHz (2024) for protocols such as wireless M-Bus (mode N) and Wize. The multi-protocol and multi-modulation radio supports 4-(G)FSK up to 600kbit/s, 2-(G)FSK, (G)MSK, DBPSK, DSSS, OOK, ASK modulation schemes suitable for proprietary and standardized wireless protocols such as Sigfox, KNX, WiSun, mioty, M-Bus, and others. STMicro also claims to have implemented new power-saving features that extend the battery life to up to 15 years. &amp;#160; STM32WL3 key features and specifications: MCU Core &amp;#8211; Arm Cortex-M0+ up to 64 MHz Memory &amp;#8211; 16KB or 32KB SRAM with full retention Storage 128KB or 256KB flash 1 KB OTP flash (user data) Wireless RF bands &amp;#8211; 413-479 MHz, 826-958 MHz, and soon 169 MHz Data rate &amp;#8211; 0.1 to 600 kbit/s Tx power &amp;#8211; up to [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/21/stmicro-stm32wl3-sub-ghz-wireless-mcu-targets-smart-metering-smart-building-and-industrial-monitoring/"&gt;STMicro STM32WL3 sub-GHz wireless MCU targets smart metering, smart building, and industrial monitoring&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/21/stmicro-stm32wl3-sub-ghz-wireless-mcu-targets-smart-metering-smart-building-and-industrial-monitoring/feed/</wfw:commentRss>
+<slash:comments>5</slash:comments>
+</item>
+<item>
+<title>英特尔Lunar Lake混合移动处理器将集成片上LPDDR5X内存（MoP）</title>
+<link>https://www.cnx-software.com/2023/11/21/intel-lunar-lake-hybrid-mobile-processors-to-integrate-on-chip-lpddr5x-memory-mop/</link>
+<comments>https://www.cnx-software.com/2023/11/21/intel-lunar-lake-hybrid-mobile-processors-to-integrate-on-chip-lpddr5x-memory-mop/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Tue, 21 Nov 2023 03:33:01 +0000</pubDate>
+<category>Intel Core</category>
+<category>alder lake</category>
+<category>artificial intelligence</category>
+<category>displayport</category>
+<category>fanless</category>
+<category>gpu</category>
+<category>h.266</category>
+<category>hdmi</category>
+<category>intel</category>
+<category>laptop</category>
+<category>lunar lake</category>
+<category>meteor lake</category>
+<category>pcie</category>
+<category>thunderbolt</category>
+<category>wifi 7</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120982</guid>
+<description>&lt;div&gt;&lt;img width="720" height="393" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake.jpg?lossy=1&amp;amp;fit=720%2C393&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Intel Lunar Lake" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake.jpg?lossy=1&amp;amp;ssl=1 1434w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake-720x393.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake-1200x655.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake-300x164.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake-768x419.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Intel-Lunar-Lake.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;While Intel Meteor Lake mobile processors are yet to become available, we already have a leak that provides quite a lot of details about the next-generation Lunar Lake hybrid mobile processor family (LNL MX) with supports for 8W to 30W base power designs and 16GB or 32GB on-chip LPDDR5x memory (Memory-on-Package, or MoP) to deliver higher memory bandwidth at reduced footprint and power. Developed in collaboration with Microsoft, the new Lunar Lake processor will come with four P-cores and four low-power E-cores, a new generation NPU and GPU architecture for AI workloads, and improved power management for lower power consumption (40% scenario power reduction) and improved battery life. Four SKUs are currently planned with either 16GB or 32GB dual-channel LPDDR5X memory: Core 7 MS3 (+ MoP) &amp;#8211; Octa-core &amp;#8220;12M&amp;#8221; processor with 4x P-cores, 4x E-Cores, 8-core Xe2-LPG GPU, and 6-tile (12K9M) NPU Core 5 MS1 (+MoP) &amp;#8211; Octa-core &amp;#8220;8M&amp;#8221; processor [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/21/intel-lunar-lake-hybrid-mobile-processors-to-integrate-on-chip-lpddr5x-memory-mop/"&gt;Intel Lunar Lake hybrid mobile processors to integrate on-chip LPDDR5X memory (MoP)&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/21/intel-lunar-lake-hybrid-mobile-processors-to-integrate-on-chip-lpddr5x-memory-mop/feed/</wfw:commentRss>
+<slash:comments>5</slash:comments>
+</item>
+<item>
+<title>Black Friday 2023销售终于来临：终身版Office 2021仅售24.24美元，Windows 10和Windows 11 Pro最低仅需6美元！（赞助）</title>
+<link>https://www.cnx-software.com/2023/11/21/black-friday-2023-office-2021-windows-10-and-windows-11-pro/</link>
+<dc:creator>Sponsored Post</dc:creator>
+<pubDate>Tue, 21 Nov 2023 03:00:22 +0000</pubDate>
+<category>Windows 10</category>
+<category>Windows 11</category>
+<category>black friday</category>
+<category>windows 10</category>
+<category>windows 11</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120676</guid>
+<description>&lt;div&gt;&lt;img width="720" height="405" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24.jpg?lossy=1&amp;amp;fit=720%2C405&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Black Friday GoDeal24" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24.jpg?lossy=1&amp;amp;ssl=1 1280w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24-720x405.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24-1200x675.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24-300x169.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24-768x432.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Black-Friday-GoDeal24.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;Black Friday is the absolute best time to buy just about everything including software keys. This year, Black Friday falls on Friday, Nov. 24. If you&amp;#8217;re hoping to save as much money on the latest Software as possible this year, now is the time to start preparing. Godeal24 has already started their Black Friday Crazy SALE which lets you buy genuine Microsoft software at the lowest price to help you save up to 90% or more. You can buy Office 2021 Professional for just $24.24 or Windows 10 Pro for just $8.24, a one-time purchase that will keep you forever. To save more, buying Office 2021 5 PC with friends for $74.24 (only $14.85/PC) is suggested by Godeal24. Mac users can also get Office 2021 Home and Business for just $42.99. Of course, multi-keys will be much cheaper. Buy more, save more. Don&amp;#8217;t worry about the price being so low, [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/21/black-friday-2023-office-2021-windows-10-and-windows-11-pro/"&gt;Black Friday 2023 Sale Finally Coming: Lifetime Office 2021 is Only $24.24, Windows 10 and Windows 11 Pro as low as $6! (Sponsored)&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>SaraKIT – 一个基于Raspberry Pi CM4的板子，具有基于ChatGPT的语音控制、电机控制和丰富的传感器（众筹版）</title>
+<link>https://www.cnx-software.com/2023/11/20/sarakit-raspberry-pi-cm4-chatgpt-motor-control-sensors/</link>
+<comments>https://www.cnx-software.com/2023/11/20/sarakit-raspberry-pi-cm4-chatgpt-motor-control-sensors/#respond</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Mon, 20 Nov 2023 14:24:53 +0000</pubDate>
+<category>Broadcom BCMxxxx</category>
+<category>Debian</category>
+<category>Hardware</category>
+<category>Linux</category>
+<category>Microsemi</category>
+<category>Video</category>
+<category>audio</category>
+<category>automation</category>
+<category>C/C++</category>
+<category>camera</category>
+<category>chatgpt</category>
+<category>crowd supply</category>
+<category>motor</category>
+<category>Raspberry Pi</category>
+<category>robotics</category>
+<category>sensors</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120722</guid>
+<description>&lt;div&gt;&lt;img width="720" height="634" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board.jpg?lossy=1&amp;amp;fit=720%2C634&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Raspberry Pi CM4 ChatGPT board" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board.jpg?lossy=1&amp;amp;ssl=1 2000w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board-720x634.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board-1200x1057.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board-284x250.jpg?lossy=1&amp;amp;ssl=1 284w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board-768x677.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board-1536x1353.jpg?lossy=1&amp;amp;ssl=1 1536w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-CM4-ChatGPT-board.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;SaraKIT is a carrier board for the Raspberry Pi CM4 system-on-module with BLDC motor controllers and a range of sensors for robotics, support for ChatGPT-based voice control through three microphones and a ZL38063 audio chip, and two MIPI CSI connectors for cameras. The versatile board can be used for voice-controlled products, robots, home automation systems, and interfacing with smart home or office devices. The company also developed various demos such as a Smartphone-controlled LEGO RC car, a self-balancing LEGO robot, a pan-and-tilt camera, various AI demos using MediaPipe such as face tracking and object detection, as well as audio demos using ChatGPT, Alexa, and/or Google Home. SaraKIT specifications: Support system-on-modules &amp;#8211; Raspberry Pi Compute Module 4 (CM4) with future CM5 compatibility. MCU &amp;#8211; Microchip dsPIC33 16-bit microcontroller with 32 KB SRAM for motor control and LSM6DS3TR sensor Audio Microchip ZL38063 (previously MicroSemi) audio processor for microphone arrays. 3x Knowles SPH0655 [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/20/sarakit-raspberry-pi-cm4-chatgpt-motor-control-sensors/"&gt;SaraKIT &amp;#8211; An Raspberry Pi CM4 board with ChatGPT-based voice control, motor control, and plenty of sensors (Crowdfunding)&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/20/sarakit-raspberry-pi-cm4-chatgpt-motor-control-sensors/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>WeAct ESP32H2-N4 - 一款售价6美元的蓝牙5.2 LE、Zigbee 3.0和Thread开发板</title>
+<link>https://www.cnx-software.com/2023/11/20/weact-esp32h2-n4-a-6-bluetooth-5-2-le-zigbee-3-0-and-thread-development-board/</link>
+<comments>https://www.cnx-software.com/2023/11/20/weact-esp32h2-n4-a-6-bluetooth-5-2-le-zigbee-3-0-and-thread-development-board/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Mon, 20 Nov 2023 08:01:25 +0000</pubDate>
+<category>Espressif</category>
+<category>Hardware</category>
+<category>802.15.4</category>
+<category>arduino</category>
+<category>ble</category>
+<category>bluetooth</category>
+<category>development board</category>
+<category>esp32</category>
+<category>low power</category>
+<category>wireless</category>
+<category>zigbee</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120711</guid>
+<description>&lt;div&gt;&lt;img width="720" height="492" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board.jpg?lossy=1&amp;amp;fit=720%2C492&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="WeAct ESP32-H2 development board" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board.jpg?lossy=1&amp;amp;ssl=1 1272w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board-720x492.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board-1200x821.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board-300x205.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board-768x525.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WeAct-ESP32-H2-development-board.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;WeAct ESP32H2-N4 is a low-cost ESP32-H2 development board with Bluetooth 5.2 LE, Zigbee 3.0, and Thread connectivity with a design very similar to the one of Espressif Systems&amp;#8217; ESP32-H2-DevKitM-1 development board, but sold for just $5.70 plus shipping. The ESP32-H2 wireless microcontroller is basically the little brother of the ESP32-C6 without WiFi and aims at low-power nodes in short-range IoT networks. We have previously seen it in Espressif hardware like the aforementioned ESP32-H2-DevKitM-1 and the ESP Thread Border Router board combining ESP32-H2 &amp;#38; ESP32-S3 wireless chips, but so far not in third-party boards, and WeAct ESP32H2-N4 changes that. WeAct ESP32H2-N4 specifications: Wireless module – ESP32-H2-MINI-1 MCU – Espressif Systems ESP32-H2 32-bit RISC-V microcontroller at up to 96 MHz with 320 KB SRAM, 128 KB ROM, 4 KB LP memory, Bluetooth 5.2 LE/Mesh and 802.15.4 (Zigbee/Thread/Matter) radios. Storage – 4MB flash storage PCB antenna Dimensions – 13.2×16.6×2.4 mm USB – 2x [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/20/weact-esp32h2-n4-a-6-bluetooth-5-2-le-zigbee-3-0-and-thread-development-board/"&gt;WeAct ESP32H2-N4 &amp;#8211; A $6 Bluetooth 5.2 LE, Zigbee 3.0, and Thread development board&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/20/weact-esp32h2-n4-a-6-bluetooth-5-2-le-zigbee-3-0-and-thread-development-board/feed/</wfw:commentRss>
+<slash:comments>6</slash:comments>
+</item>
+<item>
+<title>联发科Filogic 860和Filogic 360 WiFi 7芯片组针对主流BE7200路由器和客户端。</title>
+<link>https://www.cnx-software.com/2023/11/20/mediatek-filogic-860-filogic-360-wifi-7-chipsets-target-mainstream-be7200-routers-and-clients/</link>
+<comments>https://www.cnx-software.com/2023/11/20/mediatek-filogic-860-filogic-360-wifi-7-chipsets-target-mainstream-be7200-routers-and-clients/#respond</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Mon, 20 Nov 2023 04:35:40 +0000</pubDate>
+<category>Linux</category>
+<category>MediaTek Filogic</category>
+<category>OpenWrt</category>
+<category>10GbE</category>
+<category>2.5GbE</category>
+<category>gateway</category>
+<category>IoT</category>
+<category>laptop</category>
+<category>mediatek</category>
+<category>mini pc</category>
+<category>networking</category>
+<category>router</category>
+<category>smartphone</category>
+<category>stb</category>
+<category>TV box</category>
+<category>wifi 7</category>
+<category>wireless</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120894</guid>
+<description>&lt;div&gt;&lt;img width="720" height="401" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860.jpg?lossy=1&amp;amp;fit=720%2C401&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="MediaTek Filogic 860" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860.jpg?lossy=1&amp;amp;ssl=1 1838w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860-720x401.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860-1200x668.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860-300x167.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860-768x427.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860-1536x855.jpg?lossy=1&amp;amp;ssl=1 1536w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MediaTek-Filogic-860.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;MediaTek has unveiled two new WiFi 7 chipsets with the Filogic 860 tri-core Arm Cortex-A73 SoC designed for up to BE7200 mainstream routers and gateways and Filogic 360 WiFi 7 and Bluetooth 5.4 chip for client devices such as smartphones, PCs, laptops, set-top boxes, OTT streaming boxes, etc&amp;#8230; for up to 2.9 Gbps bandwidth. The new Filogic 860 and Filogic 360 chipsets provide more cost-effective alternatives to the Filogic 880 SoC for up to BE36000 routers and Filogic 380 clients chip capable of up to  6.5 Gbps PHY data rate, both of which were introduced in May 2022. MediaTek Filogic 860 Filogic 860 specifications: CPU &amp;#8211; 3x Arm Cortex-A73 cores clocked at up to 1.8 GHz Network Processing Unit (NPU) &amp;#8211; Hardware QoS acceleration and Tunneling Offload Engine for VLAN / PPTP / L2TP / GRE Networking Crypto engine (EIP-197) &amp;#8211; For IPv4 NATP / IPv6 / DS-Lite / 6RD [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/20/mediatek-filogic-860-filogic-360-wifi-7-chipsets-target-mainstream-be7200-routers-and-clients/"&gt;MediaTek Filogic 860 &amp;#038; Filogic 360 WiFi 7 chipsets target mainstream BE7200 routers and clients&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/20/mediatek-filogic-860-filogic-360-wifi-7-chipsets-target-mainstream-be7200-routers-and-clients/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>美国和英国黑色星期五交易，适用于GEEKOM Mini IT11 迷你个人电脑（赞助）</title>
+<link>https://www.cnx-software.com/2023/11/20/us-uk-black-friday-deal-geekom-mini-it11-mini-pc/</link>
+<comments>https://www.cnx-software.com/2023/11/20/us-uk-black-friday-deal-geekom-mini-it11-mini-pc/#respond</comments>
+<dc:creator>Sponsored Post</dc:creator>
+<pubDate>Mon, 20 Nov 2023 04:00:49 +0000</pubDate>
+<category>Hardware</category>
+<category>Intel Core</category>
+<category>Linux</category>
+<category>Ubuntu</category>
+<category>Windows 11</category>
+<category>black friday</category>
+<category>geekom</category>
+<category>mini pc</category>
+<category>tiger lake</category>
+<category>ubuntu</category>
+<category>wifi 6</category>
+<category>windows 11</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120672</guid>
+<description>&lt;div&gt;&lt;img width="720" height="455" src="https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code.jpg?lossy=1&amp;amp;fit=720%2C455&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Mini IT11 Core i7-11390H mini PC coupon code" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code.jpg?lossy=1&amp;amp;ssl=1 1500w, https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code-720x455.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code-1200x758.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code-300x190.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code-768x485.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/10/Mini-IT11-Core-i7-11390H-coupon-code.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;GEEKOM has launched a Black Friday promotion with a deal for their Mini IT11 mini PC powered by an Intel Core i7-11390H quad-core/8-thread Tiger Lake processor with 32GB of RAM and a 1TB NVMe SSD for both US and UK customers. In the US, the GEEKOM Mini IT11 mini PC (32GB+1TB) now sells for just $449 US after using the coupon code cnxsoftware25, and British customers can also benefit from the offer by getting it for just ￡449 including taxes with the same coupon code. GEEKOM Mini IT11 (32GB+1TB) specifications: SoC – Intel Core i7-11390H quad-core/8-thread Tiger Lake processor @ up 2.9 GHz / 5.0 GHz (Turbo) with 12MB cache, 96EU Intel Iris Xe graphics @ 1.40 GHz; TDP: 28W/35W System Memory – 32GB DDR4 SO-DIMM dual-channel memory, upgradeable up to 64GB Storage 1TB SSD (2280 M.2 PCIe), upgradeable up to 2TB 2.5-inch SATA HDD bay (up to 7mm thick), [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/20/us-uk-black-friday-deal-geekom-mini-it11-mini-pc/"&gt;US and UK Black Friday Deal for GEEKOM Mini IT11 mini PC (Sponsored)&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/20/us-uk-black-friday-deal-geekom-mini-it11-mini-pc/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>2023年国际黑色星期五和网络星期一的特惠优惠和优惠码</title>
+<link>https://www.cnx-software.com/2023/11/19/international-black-friday-and-cyber-monday-2023-deals-and-coupon-codes/</link>
+<comments>https://www.cnx-software.com/2023/11/19/international-black-friday-and-cyber-monday-2023-deals-and-coupon-codes/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Sun, 19 Nov 2023 05:32:32 +0000</pubDate>
+<category>Alibaba T-Head</category>
+<category>GOWIN Semiconductor</category>
+<category>Hardware</category>
+<category>Intel Core</category>
+<category>STMicro STM32</category>
+<category>3d printer</category>
+<category>aliexpress</category>
+<category>arduino</category>
+<category>arylic</category>
+<category>audio</category>
+<category>black friday</category>
+<category>dfrobot</category>
+<category>discount</category>
+<category>diy</category>
+<category>fpga</category>
+<category>geekbuying</category>
+<category>geekom</category>
+<category>gl.inet</category>
+<category>IoT</category>
+<category>khadas</category>
+<category>mini pc</category>
+<category>radxa</category>
+<category>rakwireless</category>
+<category>risc-v</category>
+<category>router</category>
+<category>Single Board Computer</category>
+<category>sipeed</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120353</guid>
+<description>&lt;div&gt;&lt;img width="720" height="360" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023.jpg?lossy=1&amp;amp;fit=720%2C360&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Alixexpress Black Friday 2023" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023-720x360.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023-300x150.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023-768x384.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Alixexpress-Black-Friday-2023.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;We’ve been writing about international Black Friday and Cyber Monday deals and coupon codes since 2014, as US-centric promotions such as Amazon&amp;#8217;s Black Friday and Cyber Monday deals are not always available to the international audience of CNX Software. So once again, we&amp;#8217;ve searched at Black Friday and Cyber Monday 2023 international promotions and discount codes from specific manufacturers as well as popular online stores such as Aliexpress, Banggood, and others. Aliexpress Black Friday and Cyber Monday event Aliexpress will have a Black Friday (and Cyber Monday) event in 2023, but we have limited details at this time since it will only start on November 23, contrary to some of the other deals we&amp;#8217;ll feature below which are already up and running. But the event will have two periods: Nov 20-22 PT &amp;#8211; Warm Up event where users can find and add items to the cart before purchasing during the [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/19/international-black-friday-and-cyber-monday-2023-deals-and-coupon-codes/"&gt;International Black Friday and Cyber Monday 2023 deals and coupon codes&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/19/international-black-friday-and-cyber-monday-2023-deals-and-coupon-codes/feed/</wfw:commentRss>
+<slash:comments>6</slash:comments>
+</item>
+<item>
+<title>GEEKOM A5评论 - 第2部分：在搭载AMD Ryzen 7 5800H微型PC上测试Windows 11 Pro</title>
+<link>https://www.cnx-software.com/2023/11/18/geekom-a5-review-part-2-windows-11-pro-tested-on-an-amd-ryzen-7-5800h-mini-pc/</link>
+<comments>https://www.cnx-software.com/2023/11/18/geekom-a5-review-part-2-windows-11-pro-tested-on-an-amd-ryzen-7-5800h-mini-pc/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Sat, 18 Nov 2023 11:59:36 +0000</pubDate>
+<category>AMD Ryzen</category>
+<category>Hardware</category>
+<category>Testing</category>
+<category>Windows 11</category>
+<category>2.5GbE</category>
+<category>3dmark</category>
+<category>4k</category>
+<category>8k</category>
+<category>benchmarks</category>
+<category>geekom</category>
+<category>gpu</category>
+<category>mini pc</category>
+<category>networking</category>
+<category>passmark</category>
+<category>pcmark</category>
+<category>Reviews</category>
+<category>wifi 6</category>
+<category>windows 11</category>
+<category>youtube</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120820</guid>
+<description>&lt;div&gt;&lt;img width="720" height="437" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11.jpg?lossy=1&amp;amp;fit=720%2C437&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Geekom A5 review Windows 11" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11-720x437.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11-300x182.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11-768x467.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Geekom-A5-review-Windows11.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;After unboxing GEEKOM A5 mini PC, checking out the hardware, and booting the device in the first part of the review, we&amp;#8217;ve now had time to further test the AMD Ryzen 7 5800H mini PC with Windows 11 Pro operating system. The boot-up is quite fast and generally speaking the device performs well for the various tasks we ran on the mini PC. So in the second part of the GEEKOM A5 review, we will provide an overview of the system information, test features, perform benchmarks, check heat dissipation under load, and measure the power consumption of the mini PC while running on Windows 11 Pro. Software Overview and Feature Testing Going to System-&amp;#62;About in Windows settings, we can confirm that the GEEKOM A5 mini PC is equipped with an AMD Ryzen 7 5800H processor clocked at 3.20 GHz (base frequency)  and 32GB of RAM, and runs Windows 11 Pro [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/18/geekom-a5-review-part-2-windows-11-pro-tested-on-an-amd-ryzen-7-5800h-mini-pc/"&gt;GEEKOM A5 Review &amp;#8211; Part 2: Windows 11 Pro tested on an AMD Ryzen 7 5800H Mini PC&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/18/geekom-a5-review-part-2-windows-11-pro-tested-on-an-amd-ryzen-7-5800h-mini-pc/feed/</wfw:commentRss>
+<slash:comments>3</slash:comments>
+</item>
+<item>
+<title>全志公司的VPU现在已经获得了用于其H.264硬件视频编码器的开源Linux驱动程序。</title>
+<link>https://www.cnx-software.com/2023/11/17/allwinner-vpu-open-source-h264-hardware-video-encoder-linux-driver/</link>
+<comments>https://www.cnx-software.com/2023/11/17/allwinner-vpu-open-source-h264-hardware-video-encoder-linux-driver/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Fri, 17 Nov 2023 09:40:20 +0000</pubDate>
+<category>AllWinner V-Series</category>
+<category>Linux</category>
+<category>Software management</category>
+<category>allwinner</category>
+<category>bootlin</category>
+<category>camera</category>
+<category>h.264</category>
+<category>open source</category>
+<category>v4l2</category>
+<category>video</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120799</guid>
+<description>&lt;div&gt;&lt;img width="720" height="480" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver.jpg?lossy=1&amp;amp;fit=720%2C480&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Allwinner V3s open source Linux video encoding driver" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver-720x480.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver-300x200.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver-768x512.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Allwinner-V3s-open-source-Linux-video-encoding-driver.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;Long-time readers of CNX Software may remember Bootlin&amp;#8217;s crowdfunding campaign launched in 2018 to bring open-source Allwinner VPU drivers to take care of hardware video encoding and decoding in mainline Linux. They managed to raise enough funds (over 30,000 Euros) from small donors and several companies (Olimex, Pine64, Libre Computer, FriendlyELEC, and Orange Pi) to work on open-source VPU drivers for mainline Linux, but only for MPEG2, H264, and H265 decoding for in a range of Allwinner SoCs such as the A20 and H5, but not quite enough to cover the cost of H264 video encoding. Five years later, Bootlin took it upon themselves to complete the work without backing or support from Allwinner and have now released an open-source Linux-kernel based V4L2 driver to support the H.264 video encoder found in Allwinner V3, V3s, and S3 camera SoCs. The new driver builds upon earlier work by the company to [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/17/allwinner-vpu-open-source-h264-hardware-video-encoder-linux-driver/"&gt;Allwinner VPU gets open-source Linux driver for its H.264 hardware video encoder&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/17/allwinner-vpu-open-source-h264-hardware-video-encoder-linux-driver/feed/</wfw:commentRss>
+<slash:comments>20</slash:comments>
+</item>
+<item>
+<title>AAEON PICO-ADN4嵌入式主板采用 Alder Lake-N 架构，搭载 N50 到 Atom x7425E SoC 处理器。</title>
+<link>https://www.cnx-software.com/2023/11/17/aaeon-pico-adn4-pico-itx-alder-lake-n-sbc-features-processor-n50-to-atom-x7425e-soc/</link>
+<comments>https://www.cnx-software.com/2023/11/17/aaeon-pico-adn4-pico-itx-alder-lake-n-sbc-features-processor-n50-to-atom-x7425e-soc/#respond</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Fri, 17 Nov 2023 07:23:22 +0000</pubDate>
+<category>Hardware</category>
+<category>Intel Atom</category>
+<category>Intel Core</category>
+<category>Intel Processor</category>
+<category>Linux</category>
+<category>Ubuntu</category>
+<category>Windows 10</category>
+<category>2.5GbE</category>
+<category>4k</category>
+<category>aaeon</category>
+<category>automation</category>
+<category>displayport</category>
+<category>fanless</category>
+<category>industrial</category>
+<category>lvds</category>
+<category>rs485</category>
+<category>sata</category>
+<category>Single Board Computer</category>
+<category>ubuntu</category>
+<category>windows 10</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120786</guid>
+<description>&lt;div&gt;&lt;img width="720" height="504" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4.jpg?lossy=1&amp;amp;fit=720%2C504&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="AAEON PICO-ADN4" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4-720x504.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4-300x210.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4-768x538.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AAEON-PICO-ADN4.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;AAEON PICO-ADN4 Pico-ITX SBC comes with a choice of four Alder Lake-N processors &amp;#8211; Processor N50, Processor N97, Core i3-N305, or Atom x7425E &amp;#8211; and is available in SKUs with both standard (0°C ~ 60°C) and wide-temperature (-40°C ~ 85°C) ranges for industrial applications. The single board computer comes with up to 16GB LPDDR5, SATA and mSATA storage, three display interfaces (HDMI, eDP/LVDS, DDI), dual Ethernet with 2.5GbE and GbE RJ45 ports, USB 3.2 Gen 2 ports, and M.2 and mPCIe sockets for expansion. The board supports 12V DC power input by default, but AAEON company offers a 9V to 36V DC input option. PICO-ADN4 specifications: Alder Lake-N SoC (one or the other) Intel Processor N50 dual-core processor up to 3.4 GHz with 6MB cache, 16EU Intel UHD Graphics; TDP: 6W Intel Processor N97 quad-core processor up to 3.6 GHz with 6MB cache, 24EU Intel UHD Graphics; TDP: 12W Intel [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/17/aaeon-pico-adn4-pico-itx-alder-lake-n-sbc-features-processor-n50-to-atom-x7425e-soc/"&gt;AAEON PICO-ADN4 Pico-ITX Alder Lake-N SBC features Processor N50 to Atom x7425E SoC&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/17/aaeon-pico-adn4-pico-itx-alder-lake-n-sbc-features-processor-n50-to-atom-x7425e-soc/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>MessengerPi – 基于 Raspberry Pi RP2040 的 LoRa 信使和对讲机（众筹）</title>
+<link>https://www.cnx-software.com/2023/11/17/messengerpi-lora-messenger-and-walkie-talkie-raspberry-pi-rp2040/</link>
+<comments>https://www.cnx-software.com/2023/11/17/messengerpi-lora-messenger-and-walkie-talkie-raspberry-pi-rp2040/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Fri, 17 Nov 2023 03:52:30 +0000</pubDate>
+<category>Hardware</category>
+<category>Raspberry Pi</category>
+<category>Video</category>
+<category>battery</category>
+<category>keyboard</category>
+<category>kickstarter</category>
+<category>lora</category>
+<category>low power</category>
+<category>lpwan</category>
+<category>wireless</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120667</guid>
+<description>&lt;div&gt;&lt;img width="720" height="591" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky.jpg?lossy=1&amp;amp;fit=720%2C591&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="MessengerPi Walky Talky" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky-720x591.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky-300x246.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky-768x630.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/MessengerPi-Walky-Talky.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;SB Components MessengerPi is a DIY messenger and walkie-talkie based on a Raspberry Pi RP2040 that relies on LoRa communication for P2P messaging over distances of up to 5 kilometers and calls up to 300 meters away. The company actually provides two boards: the MessengerPi itself for both calls and messaging with a keyboard, and the smaller &amp;#8220;Walky Talky&amp;#8221; board for audio communication only and without a LoRa module. Messenger Pi specifications: MCU &amp;#8211; Raspberry Pi RP2040 dual-core Cortex-M0+ microcontroller @ 133 MHz with 264KB SRAM Storage &amp;#8211; MicroSD card slot Wireless Ebyte E22-900T22S LoRa module (also used in the company&amp;#8217;s LoRa HAT for Raspberry Pi) Based on the Semtech SX1262 transceiver Operates in the 850 MHz to 930 MHz band Up to 5km LoRa text messaging SB Components marked Walkie-Talkie module 16 FRS channels Tx Power &amp;#8211; Up to 17 dBm Rx sensitivity &amp;#8211; Up to -98dBm Audio communication [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/17/messengerpi-lora-messenger-and-walkie-talkie-raspberry-pi-rp2040/"&gt;MessengerPi &amp;#8211; A LoRa messenger and walkie-talkie based on Raspberry Pi RP2040 (Crowdfunding)&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/17/messengerpi-lora-messenger-and-walkie-talkie-raspberry-pi-rp2040/feed/</wfw:commentRss>
+<slash:comments>3</slash:comments>
+</item>
+<item>
+<title>LILYGO T-Display S3 Pro - 一个带外壳的2.33英寸ESP32-S3彩色触摸屏显示屏</title>
+<link>https://www.cnx-software.com/2023/11/16/lilygo-t-display-s3-pro-a-2-33-inch-esp32-s3-color-touchscreen-display-with-enclosure/</link>
+<comments>https://www.cnx-software.com/2023/11/16/lilygo-t-display-s3-pro-a-2-33-inch-esp32-s3-color-touchscreen-display-with-enclosure/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Thu, 16 Nov 2023 11:08:52 +0000</pubDate>
+<category>Espressif</category>
+<category>Hardware</category>
+<category>Video</category>
+<category>arduino</category>
+<category>battery</category>
+<category>ble</category>
+<category>display</category>
+<category>esp32</category>
+<category>low power</category>
+<category>micropython</category>
+<category>touchscreen</category>
+<category>ttgo</category>
+<category>wifi</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120713</guid>
+<description>&lt;div&gt;&lt;img width="720" height="600" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro.jpg?lossy=1&amp;amp;fit=720%2C600&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="T-Display S3 Pro" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro-720x600.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro-300x250.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro-768x640.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/T-Display-S3-Pro.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;LILYGO T-Display S3 Pro is another ESP32-S3 powered WiFi and Bluetooth display from the company with a 2.33-inch color touchscreen LCD, a plastic enclosure, support for USB-OTG, two QWIIC connectors, and a 470 mAh battery. We&amp;#8217;re told the T-Display S3 Pro is an update to the T-Display S3 (and by extension of the T-Display S3 Touch and T-Display S3 AMOLED models) but the display is quite bigger at 2.33-inch and with higher resolution (480&amp;#215;222), it comes with an ABS case with an integrated battery by default, adds support for USB OTG, and also includes a few sensors that are missing from the earlier models. T-Display S3 Pro specifications: Wireless MCU – Espressif Systems ESP32-S3R8 dual-core Tensilica LX7 @ up to 240 MHz with vector instructions for AI acceleration, 512KB RAM, 8MB PSRAM, wireless connectivity Storage – 16MB flash, microSD card slot Connectivity via ESP32-S3 2.4 GHz 802.11 b/g/n Wi-Fi 4 [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/16/lilygo-t-display-s3-pro-a-2-33-inch-esp32-s3-color-touchscreen-display-with-enclosure/"&gt;LILYGO T-Display S3 Pro &amp;#8211; A 2.33-inch ESP32-S3 color touchscreen display with enclosure&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/16/lilygo-t-display-s3-pro-a-2-33-inch-esp32-s3-color-touchscreen-display-with-enclosure/feed/</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+<item>
+<title>树莓派5号获得了一款M.2 PCIe HAT——见识PineBerry Pi HatDrive。</title>
+<link>https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/</link>
+<comments>https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Thu, 16 Nov 2023 08:19:41 +0000</pubDate>
+<category>Hardware</category>
+<category>m.2</category>
+<category>nvme</category>
+<category>Raspberry Pi</category>
+<category>ssd</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120745</guid>
+<description>&lt;div&gt;&lt;img width="720" height="446" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT.jpg?lossy=1&amp;amp;fit=720%2C446&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Raspberry Pi 5 PineBerry Pi M.2 HAT" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT.jpg?lossy=1&amp;amp;ssl=1 1680w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT-720x446.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT-1200x744.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT-300x186.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT-768x476.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT-1536x952.jpg?lossy=1&amp;amp;ssl=1 1536w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Raspberry-Pi-5-PineBerry-Pi-M.2-HAT.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;The Raspberry Pi 5 SBC comes with a PCIe 2.1 x1 interface that has not been overly useful so far since it&amp;#8217;s exposed through a non-standard FPC connector. Raspberry Pi Ltd is working on its own HATs to make use of the PCIe connector, but PineBerry Pi may have beaten them to it with the launch of the HatDrive M.2 HAT for Raspberry Pi 5. The HatDrive comes with an M.2 Key-M socket with a PCIe x1 interface and support for 2230 and 2242 modules, so you can install an SSD, an AI accelerator, or another compatible M.2 module. The HAT is connected through a 40mm long 16-pin FPC cable (that supports up to PCIe Gen3) as well as the 40-pin Raspberry Pi GPIO header for the I2C EEPROM required by compliant HATs, plus power supply monitoring and diagnostics, and to let users add another HAT on top if needed. [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/"&gt;Raspberry Pi 5 gets an M.2 PCIe HAT &amp;#8211; Meet PineBerry Pi HatDrive&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/16/raspberry-pi-5-m-2-hat-meet-pineberry-pi-hatdrive/feed/</wfw:commentRss>
+<slash:comments>14</slash:comments>
+</item>
+<item>
+<title>北欧推出了nRF7002 EK WiFi 6 Arduino Shield，这是一款nRF7000基于SSID的Wi-Fi定位芯片。</title>
+<link>https://www.cnx-software.com/2023/11/16/nordic-nrf7002-ek-wifi-6-arduino-shield-nrf7000-ssid-based-wi-fi-locationing/</link>
+<comments>https://www.cnx-software.com/2023/11/16/nordic-nrf7002-ek-wifi-6-arduino-shield-nrf7000-ssid-based-wi-fi-locationing/#respond</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Thu, 16 Nov 2023 07:26:26 +0000</pubDate>
+<category>Hardware</category>
+<category>Linux</category>
+<category>Nordic Semi</category>
+<category>Video</category>
+<category>arduino</category>
+<category>cellular</category>
+<category>devkit</category>
+<category>gps</category>
+<category>IoT</category>
+<category>nordic</category>
+<category>Raspberry Pi</category>
+<category>wifi 6</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120728</guid>
+<description>&lt;div&gt;&lt;img width="720" height="396" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield.jpg?lossy=1&amp;amp;fit=720%2C396&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="WiFi 6 Arduino Shield" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield-720x396.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield-300x165.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield-768x422.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/WiFi-6-Arduino-Shield.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;Nordic Semi has launched the nRF7002 EK based on the company&amp;#8217;s nRF7002 dual-band WiFi 6 IoT chip and in the form of an Arduino shield that works with other Nordic development kits such as the nRF52840 DK, nRF5340 DK, and nRF9160 DK, and separately, the company launched the nRF7000 SSID-based Wi-Fi locationing chip. nRF7002 EK Earlier this year, the company launched the nRF7002 DK, a complete development kit with the nRF7002 WiFi 6 chip and the nRF5340 dual-core Arm Cortex-M33 wireless microcontroller, but for developers who already own nRF devkits, they&amp;#8217;ve now introduced the nRF7002 EK Arduino Shield. nRF7002 EK specifications: Wireless chip &amp;#8211; Nordic Semi nRF7002 Dual-band Wi-Fi 6 (802.11ax) WiFi station mode Target Wake Time (TWT) 20 MHz channel bandwidth Antenna &amp;#8211; 2.4 and 5 GHz antenna for WiFi SWF port for RF measurement Host interface &amp;#8211; SPI or QSPI interfaces Dimensions &amp;#8211; Arduino shield form factor The [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/16/nordic-nrf7002-ek-wifi-6-arduino-shield-nrf7000-ssid-based-wi-fi-locationing/"&gt;Nordic introduces nRF7002 EK WiFi 6 Arduino Shield, nRF7000 SSID-based Wi-Fi locationing chip&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/16/nordic-nrf7002-ek-wifi-6-arduino-shield-nrf7000-ssid-based-wi-fi-locationing/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Renesas RZ/G2UL Arm Cortex-A55/Cortex-M33 工业系统单板模块在大量销售中的价格低至17美元。</title>
+<link>https://www.cnx-software.com/2023/11/15/renesas-rz-g2ul-arm-cortex-a55-cortex-m33-industrial-system-on-module/</link>
+<comments>https://www.cnx-software.com/2023/11/15/renesas-rz-g2ul-arm-cortex-a55-cortex-m33-industrial-system-on-module/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Wed, 15 Nov 2023 14:01:29 +0000</pubDate>
+<category>Hardware</category>
+<category>Linux</category>
+<category>OpenWrt</category>
+<category>Renesas MCU</category>
+<category>can</category>
+<category>hmi</category>
+<category>industrial</category>
+<category>myir</category>
+<category>networking</category>
+<category>oenwrt</category>
+<category>renesas</category>
+<category>rs485</category>
+<category>som</category>
+<category>yocto</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120684</guid>
+<description>&lt;div&gt;&lt;img width="720" height="550" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Renesas-RZ-G2UL-development-board.jpg?lossy=1&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Renesas RZ/G2UL development board" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Renesas-RZ-G2UL-development-board.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Renesas-RZ-G2UL-development-board-300x229.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Renesas-RZ-G2UL-development-board.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Renesas-RZ-G2UL-development-board.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Renesas-RZ-G2UL-development-board.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Renesas-RZ-G2UL-development-board.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;MYiR Tech MYC-YG2UL is a tiny (39x37mm) system-on-module based on the Renesas RZ/G2UL SoC with a 1GHz Arm Cortex-A55 application core and 200MHz real-time Cortex-M33 cores designed for industrial HMIs and gateways, and the company has also launched the MYD-YG2UL development board with the module and interfaces such dual gigabit Ethernet, RS485, RS232, CAN Bus, and more. MYC-YG2UL Renesas RZ/G2UL CPU module Specifications: SoC &amp;#8211; Renesas RZ/G2UL (Type-I) CPU &amp;#8211; Arm Cortex-A55 processor at up to 1 GHz MCU &amp;#8211; Arm Cortex-M33 clocked at up to 200 MHz GPU &amp;#8211; 2D graphics (Image Scaling Unit) System Memory &amp;#8211; 512MB DDR3L Storage &amp;#8211; 4GB eMMC flash, 4KB EEPROM 1.0mm pitch 140-pin castellated holes and 50-pin LGA Display &amp;#8211; RGB LCD interface Camera &amp;#8211; MIPI CSI interface Networking &amp;#8211; 2x RGMII (gigabit Ethernet) USB &amp;#8211; 2x USB 2.0 Analog &amp;#8211; 2x ADC Other I/Os &amp;#8211; 5x SCIF, 2x SCI, 2x CAN FD, 4x [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/15/renesas-rz-g2ul-arm-cortex-a55-cortex-m33-industrial-system-on-module/"&gt;Renesas RZ/G2UL Arm Cortex-A55/Cortex-M33 industrial system-on-module sells for as low as $17 in volume&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/15/renesas-rz-g2ul-arm-cortex-a55-cortex-m33-industrial-system-on-module/feed/</wfw:commentRss>
+<slash:comments>4</slash:comments>
+</item>
+<item>
+<title>AMD Ryzen内嵌7000 Zen 4 SoC集成了Radeon RDNA 2图形，最多支持28条PCIe 5连接通道。</title>
+<link>https://www.cnx-software.com/2023/11/15/amd-ryzen-embedded-7000-zen-4-soc-radeon-rdna-2-graphics-28-lanes-pcie-5/</link>
+<comments>https://www.cnx-software.com/2023/11/15/amd-ryzen-embedded-7000-zen-4-soc-radeon-rdna-2-graphics-28-lanes-pcie-5/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Wed, 15 Nov 2023 07:43:01 +0000</pubDate>
+<category>AMD Ryzen</category>
+<category>Linux</category>
+<category>Ubuntu</category>
+<category>Windows 10</category>
+<category>Windows 11</category>
+<category>amd</category>
+<category>automation</category>
+<category>embedded</category>
+<category>industrial</category>
+<category>machine vision</category>
+<category>pcie</category>
+<category>robotics</category>
+<category>ryzen</category>
+<category>server</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120599</guid>
+<description>&lt;div&gt;&lt;img width="720" height="416" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000.jpg?lossy=1&amp;amp;fit=720%2C416&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="AMD Ryzen Embedded 7000" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000-720x416.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000-300x173.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000-768x444.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/AMD-Ryzen-Embedded-7000.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;AMD Ryzen Embedded 7000 Series is a new “Zen 4” processor with integrated Radeon RDNA 2 graphics designed for high-performance embedded systems targetting industrial automation, machine vision, robotics, and edge servers. The last two Ryzen Embedded families from AMD, namely the Ryzen Embedded V3000 and Ryzen Embedded 5000, mostly targeted headless networking and storage applications since the processors lacked any 3D GPU. But the new Ryzen Embedded 7000 processors bring back graphics with a Radeon RDNA 2 GPU clocked at up to 2.2 GHz and also come with up to 12 Zen4 cores clocked at up to 5.4 GHz, and feature up to 28 lanes of PCIe 5 connectivity. Ryzen Embedded 7000 Series specifications: CPU &amp;#8211; Up to 12-core/24-thread “Zen 4” processor GPU &amp;#8211; Radeon RDNA 2 graphics 1WGP @ 2.2GHz max with support for AV1/VP9 decode, H.264/HEVC decode/cncode Cache &amp;#8211; Up to 1MB L2 cache/Core, up to 32MB L3 [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/15/amd-ryzen-embedded-7000-zen-4-soc-radeon-rdna-2-graphics-28-lanes-pcie-5/"&gt;AMD Ryzen Embedded 7000 Zen 4 SoC integrates Radeon RDNA 2 graphics, up to 28 lanes of PCIe 5 connectivity&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/15/amd-ryzen-embedded-7000-zen-4-soc-radeon-rdna-2-graphics-28-lanes-pcie-5/feed/</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+<item>
+<title>2023年赠品周的获奖者已经公布！</title>
+<link>https://www.cnx-software.com/2023/11/15/giveaway-week-2023-winners-announced/</link>
+<comments>https://www.cnx-software.com/2023/11/15/giveaway-week-2023-winners-announced/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Wed, 15 Nov 2023 04:05:39 +0000</pubDate>
+<category>Espressif</category>
+<category>Hardware</category>
+<category>Linux</category>
+<category>Mediatek MT8xxx</category>
+<category>Nordic Semi</category>
+<category>NXP i.MX</category>
+<category>Qualcomm Atheros</category>
+<category>WCH</category>
+<category>development board</category>
+<category>devkit</category>
+<category>display</category>
+<category>elecrow</category>
+<category>esp32</category>
+<category>giveaway</category>
+<category>gl.inet</category>
+<category>rakwireless</category>
+<category>smart home</category>
+<category>som</category>
+<category>sonoff</category>
+<category>tbs</category>
+<category>tuner</category>
+<category>voipac</category>
+<category>wch</category>
+<category>yocto</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120489</guid>
+<description>&lt;div&gt;&lt;img width="720" height="480" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes.jpg?lossy=1&amp;amp;fit=720%2C480&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="CNX Software Giveaway Week 2023 Prizes" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes.jpg?lossy=1&amp;amp;ssl=1 2048w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes-720x480.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes-1200x800.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes-300x200.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes-768x512.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes-1536x1024.jpg?lossy=1&amp;amp;ssl=1 1536w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CNX-Software-Giveaway-Week-2023-Prizes.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;CNX Software’s Giveaway Week 2023 is now over and we&amp;#8217;re ready to announce the winners. We offered some of the review samples we tested (or not) in the last year, and like the last two years, we were also joined by RAKwireless who offered two IoT development kits. All items given away are shown in the photo below, minus some accessories, and if you count more than seven you’d be right, as some are kits with multiple items like the GL.iNet GL-S200 Thread Border router which comes with three development boards, and more importantly, we also organized Giveaway Week on CNX Software Thailand for the second year running. We had seven winners on CNX Software: VOIPAC iMX8M industrial development kit – Kraingsak, Thailand TBS7901 mini PCIe DVB-S2X/S2 module  – Frank, Singapore RAKWireless WisBlock IoT Starter Kit – Andy, Russia GL.iNet GL-S200 Thread Border router kit – Augustin, Argentina WCH CH583M-R0-1v1 [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/15/giveaway-week-2023-winners-announced/"&gt;Giveaway Week 2023 winners announced!&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/15/giveaway-week-2023-winners-announced/feed/</wfw:commentRss>
+<slash:comments>10</slash:comments>
+</item>
+<item>
+<title>u-blox MAYA-W3 工业无线模块支持 WiFi 6/6E 和 Bluetooth 5.4，并支持低功耗音频（LE Audio）。</title>
+<link>https://www.cnx-software.com/2023/11/14/u-blox-maya-w3-industrial-wireless-module-supports-wifi-6-6e-and-bluetooth-5-4-with-le-audio/</link>
+<comments>https://www.cnx-software.com/2023/11/14/u-blox-maya-w3-industrial-wireless-module-supports-wifi-6-6e-and-bluetooth-5-4-with-le-audio/#respond</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Tue, 14 Nov 2023 14:30:34 +0000</pubDate>
+<category>Hardware</category>
+<category>Infineon</category>
+<category>automation</category>
+<category>ble</category>
+<category>bluetooth</category>
+<category>health</category>
+<category>industrial</category>
+<category>IoT</category>
+<category>module</category>
+<category>smart home</category>
+<category>ublox</category>
+<category>wifi 6</category>
+<category>wireless</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120113</guid>
+<description>&lt;div&gt;&lt;img width="720" height="504" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3.jpg?lossy=1&amp;amp;fit=720%2C504&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="u-blox MAYA-W3" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3.jpg?lossy=1&amp;amp;ssl=1 1276w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3-720x504.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3-1200x841.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3-300x210.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3-768x538.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/u-blox-MAYA-W3.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;We&amp;#8217;ve also covered two IoT-focused WiFi 6 and Bluetooth LE chips in the last week with Synaptics SYN43711 chipset and Gigadevice GD32VW553 RISC-V WiSoC, but there&amp;#8217;s more and u-blox has recently introduced the MAYA-W3 WiFi 6/6E and Bluetooth 5.4 module with LE Audio support and designed for industrial applications. The MAYA-W3 module offers some flexibility as it&amp;#8217;s designed on the upcoming Infineon AIROC CYW5551x WiFi 6E and Bluetooth 5.4 chip family supporting 2.4 GHz only (CYW55511), 2.4 GHz and 5 GHz (CYW55512), and a 2.4 GHz, 5 GHz, and 6 GHz with the tri-band CYW55512 chipset. u-blox also provides three antenna options for each model with two U.FL connectors, two antenna pin connectors, or an embedded PCB antenna. u-Blox MAYA-W3 specifications: Chipset &amp;#8211; Infineon AIROC CYW5551x CYW55511 for 2.4 GHz WiFi 6 CYW55512 for 2.4 and 5 GHz WiFi 6 CYW55513 for 2.4, 5, and 6 GHz WiFi 6E Wireless [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/14/u-blox-maya-w3-industrial-wireless-module-supports-wifi-6-6e-and-bluetooth-5-4-with-le-audio/"&gt;u-blox MAYA-W3 industrial wireless module supports WiFi 6/6E and Bluetooth 5.4 with LE Audio&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/14/u-blox-maya-w3-industrial-wireless-module-supports-wifi-6-6e-and-bluetooth-5-4-with-le-audio/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>ODROID-M1S是一款较小、更便宜、更高效的Rockchip RK3566 SBC，具有额外的GPIO接口。</title>
+<link>https://www.cnx-software.com/2023/11/14/odroid-m1s-smaller-cheaper-more-efficient-rockchip-rk3566-sbc-with-additional-gpios/</link>
+<comments>https://www.cnx-software.com/2023/11/14/odroid-m1s-smaller-cheaper-more-efficient-rockchip-rk3566-sbc-with-additional-gpios/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Tue, 14 Nov 2023 10:36:58 +0000</pubDate>
+<category>Android</category>
+<category>Hardware</category>
+<category>Linux</category>
+<category>Rockchip RK35xx</category>
+<category>Ubuntu</category>
+<category>can bus</category>
+<category>display</category>
+<category>fanless</category>
+<category>hardkernel</category>
+<category>low power</category>
+<category>panfrost</category>
+<category>Raspberry Pi</category>
+<category>Single Board Computer</category>
+<category>touchscreen</category>
+<category>ubuntu</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120583</guid>
+<description>&lt;div&gt;&lt;img width="720" height="463" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC.jpg?lossy=1&amp;amp;fit=720%2C463&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="ODROID M1S RK3566 SBC" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC.jpg?lossy=1&amp;amp;ssl=1 1400w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC-720x463.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC-1200x771.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC-300x193.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC-768x494.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/ODROID-M1S-RK3566-SBC.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;Designed for Hardkernle&amp;#8217;s 15th anniversary, the ODROID-M1S is a smaller, cheaper ($49 and up), and more efficient single computer board compared to the ODROID-M1 single board computer introduced last year with a Rockchip RK3568 SoC. The new ODROID-M1S SBC features a Rockchip RK3566 SoC which is similar to the RK3568, but with fewer peripheral interfaces, 4GB or 8GB LPDDR4 memory, a 64GB eMMC flash solder on the board (instead of an eMMC flash connector), HDMI 2.0 and MIPI DSI video interfaces, gigabit Ethernet, a few USB ports, and two GPIO headers. It does lose a few features compared to the ODROID-M1, as its memory is clocked at a lower speed, the M.2 socket only supports PCIe 2.1, the SPI flash and SATA port are gone, and so is the MIPI CSI camera connector. The power supply has also changed from a 12V DC jack to a 5V USB-C port. ODROID-M1S [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/14/odroid-m1s-smaller-cheaper-more-efficient-rockchip-rk3566-sbc-with-additional-gpios/"&gt;ODROID-M1S is a smaller, cheaper, and more efficient Rockchip RK3566 SBC with additional GPIOs&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/14/odroid-m1s-smaller-cheaper-more-efficient-rockchip-rk3566-sbc-with-additional-gpios/feed/</wfw:commentRss>
+<slash:comments>17</slash:comments>
+</item>
+<item>
+<title>基于Linux的DIN导轨智能控制器可与Zigbee、Z-Wave、KNX和Ajax Systems安全解决方案配合使用。</title>
+<link>https://www.cnx-software.com/2023/11/14/linux-based-din-rail-smart-controller-works-with-zigbee-z-wave-knx-and-ajax-systems-security-solutions/</link>
+<comments>https://www.cnx-software.com/2023/11/14/linux-based-din-rail-smart-controller-works-with-zigbee-z-wave-knx-and-ajax-systems-security-solutions/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Mon, 13 Nov 2023 17:01:41 +0000</pubDate>
+<category>Hardware</category>
+<category>Linux</category>
+<category>automation</category>
+<category>knx</category>
+<category>node-red</category>
+<category>rs485</category>
+<category>smart city</category>
+<category>smart home</category>
+<category>ubuntu</category>
+<category>z-wave</category>
+<category>zigbee</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=119963</guid>
+<description>&lt;div&gt;&lt;img width="720" height="566" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system.jpg?lossy=1&amp;amp;fit=720%2C566&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="YOCTOCONNECT Smart Home DIN Rail system" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system-720x566.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system-300x236.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system-768x604.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/YOCTOCONNECT-Smart-Home-DIN-Rail-system.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;CONNECT Y1 Smart Controller in a DIN Rail gateway running Ubuntu Linux and acting as the main control of YoctoCONNECT&amp;#8217;s Smart Home/Smart Building solution with YoctoBus (RS485) and Ethernet interfaces, support for expansion blocks, and third-party integration with Zigbee, Z-Wave, KNX, and Ajax Systems security and smart home solutions. The Y1 Smart Controller handles automation algorithms and RS485, Ethernet, and USB communication for automated control systems for lighting, power distribution equipment, ventilation systems, climate control, and other electrical loads in various sectors such as Industry 4.0, Smart Homes, and Smart Cities. CONNECT Y1 Smart Controller specifications: SoC &amp;#8211; Quad-core processor @ 1.2 to 2.4 GHz System Memory &amp;#8211; 512MB, 1GB, or 2GB DDR3 RAM Storage &amp;#8211; 16GB or 32 GB eMMC flash Audio &amp;#8211; 3.5mm audio output jack; AirPlay support Connectivity YoctoBUS (RS485) interface via 3-pole terminal block 10/100M Ethernet RJ45 port USB 2.0 interface for Z-Wave or Zigbee Ajax [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/14/linux-based-din-rail-smart-controller-works-with-zigbee-z-wave-knx-and-ajax-systems-security-solutions/"&gt;Linux-based DIN Rail smart controller works with Zigbee, Z-Wave, KNX, and Ajax Systems security solutions&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/14/linux-based-din-rail-smart-controller-works-with-zigbee-z-wave-knx-and-ajax-systems-security-solutions/feed/</wfw:commentRss>
+<slash:comments>4</slash:comments>
+</item>
+<item>
+<title>Youyeetoo X1评测 - 在一台配备英特尔Celeron N5105 x86 SBC和7英寸触摸屏显示器上运行Ubuntu 22.04</title>
+<link>https://www.cnx-software.com/2023/11/13/youyeetoo-x1-review-ubuntu-22-04-intel-celeron-n5105-x86-sbc-7-inch-touchscreen-display/</link>
+<comments>https://www.cnx-software.com/2023/11/13/youyeetoo-x1-review-ubuntu-22-04-intel-celeron-n5105-x86-sbc-7-inch-touchscreen-display/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Mon, 13 Nov 2023 05:00:14 +0000</pubDate>
+<category>Hardware</category>
+<category>Intel Celeron</category>
+<category>Linux</category>
+<category>Testing</category>
+<category>Ubuntu</category>
+<category>Video</category>
+<category>benchmark</category>
+<category>display</category>
+<category>jasper lake</category>
+<category>networking</category>
+<category>phoronix</category>
+<category>Reviews</category>
+<category>Single Board Computer</category>
+<category>touchscreen</category>
+<category>ubuntu</category>
+<category>wifi</category>
+<category>x86</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120318</guid>
+<description>&lt;div&gt;&lt;img width="720" height="540" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1.jpg?lossy=1&amp;amp;fit=720%2C540&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Youyeetoo X1 review ubuntu 22.04" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1-720x540.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1-300x225.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1-768x576.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Youyeetoo-X1-review-ubuntu-22.04-1.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;Youyeetoo X1 is an x86 single board computer (SBC) powered by an 11th Gen Intel Celeron N5105 quad-core Jasper Lake processor clocked up to 2.9GHz with 4GB to 16GB RAM and up to 256GB eMMC. The board comes with a variety of connectivity options such as M.2 M key and E key sockets for connecting Wi-Fi, 4G LTE or SSD modules, as well as MIPI DSI and HDMI interfaces for up to 4K resolution display, and I/Os such as UART, I2C, and SPI Whether you are a maker, an IoT developer, or a system integrator, the Youyeetoo X1 SBC board can be integrated into various applications such as industrial automation, IoT gateways, robots, and others. Since the Youyeetoo X1 SBC is based on an x86 processor, there is no need to worry about operating system or application compatibility as would be the case on systems based on the Arm architecture, [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/13/youyeetoo-x1-review-ubuntu-22-04-intel-celeron-n5105-x86-sbc-7-inch-touchscreen-display/"&gt;Youyeetoo X1 review &amp;#8211; Ubuntu 22.04 on an Intel Celeron N5105 x86 SBC with a 7-inch touchscreen display&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/13/youyeetoo-x1-review-ubuntu-22-04-intel-celeron-n5105-x86-sbc-7-inch-touchscreen-display/feed/</wfw:commentRss>
+<slash:comments>7</slash:comments>
+</item>
+<item>
+<title>Dockcase 7合1 USB-C扩展坞具有彩色信息显示（众筹）</title>
+<link>https://www.cnx-software.com/2023/11/13/dockcase-7-in-1-usb-c-dock-color-information-display/</link>
+<comments>https://www.cnx-software.com/2023/11/13/dockcase-7-in-1-usb-c-dock-color-information-display/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Mon, 13 Nov 2023 01:00:44 +0000</pubDate>
+<category>Hardware</category>
+<category>Video</category>
+<category>display</category>
+<category>hdmi</category>
+<category>indiegogo</category>
+<category>usb</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120473</guid>
+<description>&lt;div&gt;&lt;img width="720" height="656" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display.jpg?lossy=1&amp;amp;fit=720%2C656&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Dockcase USB hub with built-in information display" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display.jpg?lossy=1&amp;amp;ssl=1 1700w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display-720x656.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display-1200x1094.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display-274x250.jpg?lossy=1&amp;amp;ssl=1 274w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display-768x700.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display-1536x1400.jpg?lossy=1&amp;amp;ssl=1 1536w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Dockcase-USB-hub-with-built-in-information-display.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;USB-C docks have become somewhat boring, but Dockcase 7-in-1 USB-C dock is a little different with a transparent top cover made of tempered glass and an integrated color display that looks neat and may end up being useful by providing relevant information. The USB-C dock also comes with three 5Gbps USB 3.2 Gen 1 ports, a 4Kp60 capable HDMI 2.0 video output, SD card &amp;#38; microSD card slots, support for 100W USB PD, and a 10 Gbps USB Type-C port for connection to the host. Dockcase 7-in-1 USB-C dock specifications: Display &amp;#8211; 1.33-inch color LCD display with 240 x 240 resolution Storage &amp;#8211; SD and microSD (UHS-I) card slots HDMI output up to 4Kp60 (3840&amp;#215;2160) USB Input &amp;#8211; 10Gbps USB-C port with cable Output &amp;#8211; 3x USB 3.2 Gen 1 (5 Gbps) ports Misc &amp;#8211; Control button Power Input &amp;#8211; 100W (20V/5A) USB PD Dimensions &amp;#8211; 122 x 40 x [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/13/dockcase-7-in-1-usb-c-dock-color-information-display/"&gt;Dockcase 7-in-1 USB-C dock features a color information display (Crowdfunding)&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/13/dockcase-7-in-1-usb-c-dock-color-information-display/feed/</wfw:commentRss>
+<slash:comments>2</slash:comments>
+</item>
+<item>
+<title>Synaptics SYN43711 WiFi 6E和蓝牙5.3芯片组针对物联网设备、视频流媒体和机器人技术。</title>
+<link>https://www.cnx-software.com/2023/11/13/synaptics-syn43711-wifi-6e-bluetooth-5-3-chipset-targets-iot-devices-video-streaming-robotics/</link>
+<comments>https://www.cnx-software.com/2023/11/13/synaptics-syn43711-wifi-6e-bluetooth-5-3-chipset-targets-iot-devices-video-streaming-robotics/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Sun, 12 Nov 2023 17:01:01 +0000</pubDate>
+<category>Synaptics</category>
+<category>auracast</category>
+<category>automation</category>
+<category>ble</category>
+<category>bluetooth</category>
+<category>camera</category>
+<category>industrial</category>
+<category>IoT</category>
+<category>robotics</category>
+<category>synaptics</category>
+<category>wifi 6</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120386</guid>
+<description>&lt;div&gt;&lt;img width="720" height="508" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset.jpg?lossy=1&amp;amp;fit=720%2C508&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="SYN43711 WiFi 6E Bluetooth 5.3 IoT chipset" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset-720x508.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset-300x212.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset-768x542.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/SYN43711-WiFi-6E-Bluetooth-5.3-IoT-chipset.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;Synaptics SYN43711 is a new WiFi 6E and Bluetooth 5.3 &amp;#8220;SoC&amp;#8221; designed for &amp;#8220;IoT applications&amp;#8221; such as high-end home appliances with video streaming capabilities, surveillance cameras, robots, and other secure smart consumer, industrial, and enterprise systems. It&amp;#8217;s a more cost-effective version of the company&amp;#8217;s SYN4382 SoC that supports 1,200 Mbps 2&amp;#215;2 MIMO Wi-Fi 6E, Bluetooth 5.3, and 802.15.4 connectivity. Designed for small form factor devices, the new SYN43711 tri-band chipset supports 600 Mbps WiFI 6E, Wi-Fi Sensing (human presence detection), and Bluetooth 5.3 with LE Audio for multiple concurrent Bluetooth connections and audio streams, including Auracast audio sharing. SYN43711 key features and specifications: Wireless Tri-band (2.4, 5, 6 GHz) Wi-Fi 4, 5, 6, 6E up to 600 Mbps (1&amp;#215;1 antenna arrangement) Bluetooth 5.3 LE with LE Audio support Integrated PAs and LNAs (external PA and LNA optional) with high transmit (Tx) power level and receive (Rx) sensitivity Synaptics Smart Co-Ex [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/13/synaptics-syn43711-wifi-6e-bluetooth-5-3-chipset-targets-iot-devices-video-streaming-robotics/"&gt;Synaptics SYN43711 WiFi 6E &amp;#038; Bluetooth 5.3 chipset targets IoT devices, video streaming, robotics&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/13/synaptics-syn43711-wifi-6e-bluetooth-5-3-chipset-targets-iot-devices-video-streaming-robotics/feed/</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+<item>
+<title>GEEKOM A5 AMD Ryzen 7 5800H 迷你电脑评测 - 第一部分: 开箱、拆解和初次启动</title>
+<link>https://www.cnx-software.com/2023/11/12/geekom-a5-amd-ryzen-7-5800h-mini-pc-review-unboxing-teardown-first-boot/</link>
+<comments>https://www.cnx-software.com/2023/11/12/geekom-a5-amd-ryzen-7-5800h-mini-pc-review-unboxing-teardown-first-boot/#respond</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Sun, 12 Nov 2023 08:25:37 +0000</pubDate>
+<category>AMD Ryzen</category>
+<category>Hardware</category>
+<category>Testing</category>
+<category>Windows 11</category>
+<category>2.5GbE</category>
+<category>4k</category>
+<category>geekom</category>
+<category>mini pc</category>
+<category>nvme</category>
+<category>Reviews</category>
+<category>sata</category>
+<category>wifi 6</category>
+<category>windows 11</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120497</guid>
+<description>&lt;div&gt;&lt;img width="720" height="497" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11.jpg?lossy=1&amp;amp;fit=720%2C497&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="GEEKOM A5 Windows 11" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11-720x497.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11-300x207.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11-768x530.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GEEKOM-A5-Windows-11.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;GEEKOM A5 is a Windows 11 Pro mini PC based on an eight-core, sixteen-thread AMD Ryzen 7 5800H processor with up to 64GB RAM, NVMe/SATA SSD support up to 2TB, and interfaces such as dual HDMI 2.0,  five USB 3.2 Gen 2 10 Gbps ports, 2.5GbE, as well as support a WiFi 6 and Bluetooth 5.2 wireless module. The company has sent us a review sample of the GEEKOM A5 mini PC with 32GB RAM and a 512GB SSD. Today, we will look at the Mini PC&amp;#8217;s specifications, go through an unboxing, followed by a teardown, and quickly check out if it works properly with a first boot to Windows 11 Pro. In the next part of the GEEKOM A5 review, we will test performance and features with Windows 11 Pro, followed by an evaluation of the mini PC with Ubuntu 22.04 in the final and third part of the [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/12/geekom-a5-amd-ryzen-7-5800h-mini-pc-review-unboxing-teardown-first-boot/"&gt;GEEKOM A5 AMD Ryzen 7 5800H  mini PC review &amp;#8211; Part 1: Unboxing, teardown, and first boot&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/12/geekom-a5-amd-ryzen-7-5800h-mini-pc-review-unboxing-teardown-first-boot/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>2023年赠品周-搭载联发科Genio 1200 Cortex-A78/A55 SoC的i-Pi SMARC 1200开发套件</title>
+<link>https://www.cnx-software.com/2023/11/12/giveaway-week-2023-i-pi-smarc-1200-devkit-with-mediatek-genio-1200-cortex-a78-a55-soc/</link>
+<comments>https://www.cnx-software.com/2023/11/12/giveaway-week-2023-i-pi-smarc-1200-devkit-with-mediatek-genio-1200-cortex-a78-a55-soc/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Sun, 12 Nov 2023 03:00:13 +0000</pubDate>
+<category>Android</category>
+<category>Hardware</category>
+<category>Linux</category>
+<category>Mediatek MT8xxx</category>
+<category>Ubuntu</category>
+<category>adlink</category>
+<category>artificial intelligence</category>
+<category>development board</category>
+<category>devkit</category>
+<category>giveaway</category>
+<category>som</category>
+<category>ubuntu</category>
+<category>yocto</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120215</guid>
+<description>&lt;div&gt;&lt;img width="720" height="480" src="https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark.jpg?lossy=1&amp;amp;fit=720%2C480&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="i-Pi SMARC 1200 Yocto Linux glmark2 benchmark" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark-720x480.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark-300x200.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark-768x512.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark-24x16.jpg?lossy=1&amp;amp;ssl=1 24w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark-36x24.jpg?lossy=1&amp;amp;ssl=1 36w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark-48x32.jpg?lossy=1&amp;amp;ssl=1 48w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/06/i-Pi-SMARC-1200-Yocto-Linux-glmark2-benchmark.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;We&amp;#8217;ll end this year&amp;#8217;s Giveaway Week with a pretty powerful development kit &amp;#8211; ADLINK i-Pi SMARC 1200 &amp;#8211; powered by a MediaTek Genio 1200 octa-core processor with four Cortex-A78 cores @ up to 2.2 GHz, four Cortex-A55 cores, an Arm Mali Mali-G57 MC5 GPU, 4K hardware video decoding and decoding support, and a 4.8 TOPS NPU. The mainboard is comprised of a SMARC 2.1-compliant system-on-module with 4GB LPDDR4 memory and 64GB UFS storage and fitted with a heatsink for cooling as well as a carrier board with a 4Kp60 capable HDMI 2.0 port, two Gigabit Ethernet ports, two USB 3.0 ports, two USB 2.0 ports, a 3.5mm audio jack, two 40-pin headers for I/Os including one compatible with the 40-pin Raspberry Pi GPIO header, plus LVDS connectors, MIPI CSI camera connectors, and M.2 expansion slots for storage and/or wireless expansion. I tested the MediaTek Genio 1200 devkit with a Yocto [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/12/giveaway-week-2023-i-pi-smarc-1200-devkit-with-mediatek-genio-1200-cortex-a78-a55-soc/"&gt;Giveaway Week 2023 &amp;#8211; i-Pi SMARC 1200 devkit with Mediatek Genio 1200 Cortex-A78/A55 SoC&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/12/giveaway-week-2023-i-pi-smarc-1200-devkit-with-mediatek-genio-1200-cortex-a78-a55-soc/feed/</wfw:commentRss>
+<slash:comments>247</slash:comments>
+</item>
+<item>
+<title>2023年赠品周 - Elecrow ESP32终端，带有3.5英寸触摸屏显示和OV2640相机</title>
+<link>https://www.cnx-software.com/2023/11/11/giveaway-week-2023-elecrow-esp32-terminal-with-a-3-5-inch-touchscreen-display-and-ov2640-camera/</link>
+<comments>https://www.cnx-software.com/2023/11/11/giveaway-week-2023-elecrow-esp32-terminal-with-a-3-5-inch-touchscreen-display-and-ov2640-camera/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Sat, 11 Nov 2023 03:00:28 +0000</pubDate>
+<category>Espressif</category>
+<category>Graphics</category>
+<category>Hardware</category>
+<category>Video</category>
+<category>arduino</category>
+<category>camera</category>
+<category>display</category>
+<category>esp32</category>
+<category>giveaway</category>
+<category>micropython</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120209</guid>
+<description>&lt;div&gt;&lt;img width="720" height="425" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway.jpg?lossy=1&amp;amp;fit=720%2C425&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Elecrow ESP32 Terminal giveaway" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway-720x425.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway-300x177.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway-768x454.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Elecrow-ESP32-Terminal-giveaway.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;If I remember correctly, Elecrow sent me an end-of-year gift with a notebook (paper style), a pen, and a 3.5-inch ESP32 terminal. I had completely forgotten about it, and while wondering what I would give for Giveaway Week 2023, and looking around in drawers and on shelves, I found an &amp;#8220;ESP32 Terminal&amp;#8221; package, and I was like &amp;#8220;What the F is that and where is it coming from?&amp;#8221;. Long story short, the 6th prize of this year&amp;#8217;s giveaway week is Elecrow&amp;#8217;s ESP32 Terminal with a 3.5-inch touchscreen display that also comes with a front-facing OV2640 camera and six Crowtail connectors for expansion plus a LiPo battery connector. Elecrow ESP32 terminal specifications: Wireless module &amp;#8211; ESP32-S3 2.4 GHz Wi-Fi and Bluetooth 5 (LE) module with 16MB flash and 8MB PSRAM Storage &amp;#8211; MicroSD card slot Display &amp;#8211; 3.5-inch TFT LCD display with 480&amp;#215;320 resolution (ILI9488 driver), capacitive touchscreen Camera &amp;#8211; 2MP [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/11/giveaway-week-2023-elecrow-esp32-terminal-with-a-3-5-inch-touchscreen-display-and-ov2640-camera/"&gt;Giveaway Week 2023 &amp;#8211; Elecrow ESP32 Terminal with a 3.5-inch touchscreen display and OV2640 camera&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/11/giveaway-week-2023-elecrow-esp32-terminal-with-a-3-5-inch-touchscreen-display-and-ov2640-camera/feed/</wfw:commentRss>
+<slash:comments>208</slash:comments>
+</item>
+<item>
+<title>Ubuntu Touch 20.04 OTA-3发布增加了对PinePhone和PineTab设备的支持。</title>
+<link>https://www.cnx-software.com/2023/11/10/ubuntu-touch-20-04-ota-3-release-adds-support-for-pinephone-and-pinetab-devices/</link>
+<comments>https://www.cnx-software.com/2023/11/10/ubuntu-touch-20-04-ota-3-release-adds-support-for-pinephone-and-pinetab-devices/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Fri, 10 Nov 2023 10:16:24 +0000</pubDate>
+<category>Allwinner A-Series</category>
+<category>Linux</category>
+<category>Rockchip RK33xx</category>
+<category>Rockchip RK35xx</category>
+<category>Ubuntu</category>
+<category>fairphone</category>
+<category>google</category>
+<category>pine64</category>
+<category>smartphone</category>
+<category>tablet</category>
+<category>ubuntu</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120392</guid>
+<description>&lt;div&gt;&lt;img width="720" height="668" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro.jpg?lossy=1&amp;amp;fit=720%2C668&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Ubuntu Touch 20.04 OTA 3 PinePhone Pro" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro.jpg?lossy=1&amp;amp;ssl=1 1400w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro-720x668.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro-1200x1113.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro-269x250.jpg?lossy=1&amp;amp;ssl=1 269w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro-768x713.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/Ubuntu-Touch-20.04-OTA-3-PinePhone-Pro.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;UBPorts has just released Ubuntu Touch 20.04 OTA-3 based on Ubuntu 20.04 LTS with the latest security updates and beta support for PinePhone, PinePhone Pro, PineTab, and PineTab 2, adding to the smartphones already supported by Ubuntu Touch 20.04 OTA-2. As a reminder, Ubuntu Touch was initially handled by Canonical for desktop/mobile convergence, but it was dropped when the company decided to refocus its efforts on cloud and IoT, and the UBPorts community took over and eventually outed the first stable Ubuntu Touch release in June 2017. The developers kept on improving the OS since then with new releases from time to time, but note that it should still be considered experimental only for most devices, and will not be suitable as a daily driver for the majority of people. The PinePhone and PineTab have been supported by Ubuntu Touch for a few years, but they had their own branch [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/10/ubuntu-touch-20-04-ota-3-release-adds-support-for-pinephone-and-pinetab-devices/"&gt;Ubuntu Touch 20.04 OTA-3 release adds support for PinePhone and PineTab devices&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/10/ubuntu-touch-20-04-ota-3-release-adds-support-for-pinephone-and-pinetab-devices/feed/</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+<item>
+<title>Gigadevice GD32VW553 是一款支持WiFi 6和蓝牙5.2 LE的RISC-V微控制器。</title>
+<link>https://www.cnx-software.com/2023/11/10/gigadevice-gd32vw553-risc-v-microcontroller-wifi-6-bluetooth-5-2-le/</link>
+<comments>https://www.cnx-software.com/2023/11/10/gigadevice-gd32vw553-risc-v-microcontroller-wifi-6-bluetooth-5-2-le/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Fri, 10 Nov 2023 07:42:03 +0000</pubDate>
+<category>Gigadevice</category>
+<category>ble</category>
+<category>bluetooth</category>
+<category>development board</category>
+<category>gigadevice</category>
+<category>iar systems</category>
+<category>IoT</category>
+<category>low power</category>
+<category>risc-v</category>
+<category>sdk</category>
+<category>segger</category>
+<category>smart home</category>
+<category>wifi 6</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120415</guid>
+<description>&lt;div&gt;&lt;img width="720" height="347" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE.jpg?lossy=1&amp;amp;fit=720%2C347&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="GD32VW553 WiFi 6 Bluetooth 5.2 LE" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE-720x347.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE-300x145.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE-768x370.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/GD32VW553-WiFi-6-Bluetooth-5.2-LE.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;Gigadevice GD32VW553 is a new 160MHz RISC-V microcontroller for IoT applications with support for WiFi 6 (802.11ax) and Bluetooth 5.2 Low Energy (LE) and available in QFN32 and QFN40 packages with up to 28 GPIOs. As an IoT chip, the chip supports various power modes and target wake time (TWT) for low power consumption, as well as WiFi features such as WPA3 and WiFi direct, while the radio can handle Bluetooth 5.2 LE bit rates of up to 2 Mbps and support the Long Range mode. Gigadevice GD32VW553 specifications: MCU core &amp;#8211; 32-bit Nuclei N307 RISC-V core @ up to 160 MHz with RV32I / M / A / F / D / C / P / B instruction extensions Memory &amp;#8211; 320KB SRAM Storage &amp;#8211; 2048KB or 4096KB flash Wireless WiFI 6 802.11b/g/n/ax HT20 up to 114.7Mbps 802.11e QoS Enhancement (WMM). 802.11i (WPA, WPA2, WPA3). Open, shared key, and [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/10/gigadevice-gd32vw553-risc-v-microcontroller-wifi-6-bluetooth-5-2-le/"&gt;Gigadevice GD32VW553 RISC-V microcontroller supports WiFi 6 and Bluetooth 5.2 LE&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/10/gigadevice-gd32vw553-risc-v-microcontroller-wifi-6-bluetooth-5-2-le/feed/</wfw:commentRss>
+<slash:comments>8</slash:comments>
+</item>
+<item>
+<title>2023年赠品周活动 – WCH CH583M-R0 开发板以及一些RISC-V微控制器</title>
+<link>https://www.cnx-software.com/2023/11/10/giveaway-week-2023-wch-ch583m-r0-development-board-and-some-risc-v-microcontrollers/</link>
+<comments>https://www.cnx-software.com/2023/11/10/giveaway-week-2023-wch-ch583m-r0-development-board-and-some-risc-v-microcontrollers/#comments</comments>
+<dc:creator>Jean-Luc Aufranc (CNXSoft)</dc:creator>
+<pubDate>Fri, 10 Nov 2023 03:00:17 +0000</pubDate>
+<category>Hardware</category>
+<category>WCH</category>
+<category>development board</category>
+<category>giveaway</category>
+<category>mcu</category>
+<category>risc-v</category>
+<guid isPermaLink="false">https://www.cnx-software.com/?p=120203</guid>
+<description>&lt;div&gt;&lt;img width="720" height="403" src="https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board.jpg?lossy=1&amp;amp;fit=720%2C403&amp;amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="CH853M-R0 development board" style="margin-bottom: 10px;" decoding="async" srcset="https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board.jpg?lossy=1&amp;amp;ssl=1 1200w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board-720x403.jpg?lossy=1&amp;amp;ssl=1 720w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board-300x168.jpg?lossy=1&amp;amp;ssl=1 300w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board-768x429.jpg?lossy=1&amp;amp;ssl=1 768w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board.jpg?lossy=1&amp;amp;w=105&amp;amp;ssl=1 105w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board.jpg?lossy=1&amp;amp;w=210&amp;amp;ssl=1 210w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board.jpg?lossy=1&amp;amp;w=420&amp;amp;ssl=1 420w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board.jpg?lossy=1&amp;amp;w=525&amp;amp;ssl=1 525w, https://cdn.cnx-software.com/wp-content/uploads/2023/11/CH853M-R0-development-board.jpg?lossy=1&amp;amp;w=1050&amp;amp;ssl=1 1050w" sizes="100vw" /&gt;&lt;/div&gt;
+&lt;p&gt;Early this year, WCH sent me a few of their RISC-V MCU boards and chips to thank me for writing about their products. I gave one for review with some chips but it went to review heaven, or in other words, no review was ever written. I also sold a couple locally, and since I don&amp;#8217;t think I&amp;#8217;ll ever have time for a review, we are now giving away the remaining boards and chips here and on CNX Software Thailand. Today&amp;#8217;s giveaway is the WCH CH583M-R0-1v1 board, also known as CH583EVT or CH583M-EVT-R0, based on the CH583 RISC-V Bluetooth 5.3 LE microcontroller that exposes all I/Os from the chip, a few buttons, and USB ports, and also features an SWD/UART header for debugging. You&amp;#8217;ll find the documentation, code samples, an Android app and other resources to get started on GitHub. I&amp;#8217;ll also throw all the remaining chips I have left [...]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.cnx-software.com/2023/11/10/giveaway-week-2023-wch-ch583m-r0-development-board-and-some-risc-v-microcontrollers/"&gt;Giveaway Week 2023 &amp;#8211; WCH CH583M-R0 development board and some RISC-V microcontrollers&lt;/a&gt; appeared first on &lt;a href="https://www.cnx-software.com"&gt;CNX Software - Embedded Systems News&lt;/a&gt;.&lt;/p&gt;
+</description>
+<wfw:commentRss>https://www.cnx-software.com/2023/11/10/giveaway-week-2023-wch-ch583m-r0-development-board-and-some-risc-v-microcontrollers/feed/</wfw:commentRss>
+<slash:comments>104</slash:comments>
+</item>
+</channel>
+</rss>

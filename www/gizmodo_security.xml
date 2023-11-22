@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Gizmodo</title>
+<link>https://gizmodo.com</link>
+<atom:link href="https://gizmodo.com" rel="self" type="application/rss+xml"/>
+<description>The Future Is Here</description>
+<language>en</language>
+<item>
+<title>亚马逊推出“通行密钥”以应大型科技时代告别密码的需求</title>
+<link>https://gizmodo.com/amazon-rolls-out-passkeys-farewell-to-passwords-1850950207</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/304ea33334f34dcf388c7a3a7168a43e.jpg"/&gt;&lt;p&gt;You can now use passkeys to sign into your Amazon account, the company announced on Monday. Amazon is &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/google-adds-passkey-sign-in-as-default-1850914367"&gt;following suit&lt;/a&gt; from other big tech players who are moving away from passwords and towards biometrics, such as your fingerprint or face, as well as pins to secure your digital identity.&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/amazon-rolls-out-passkeys-farewell-to-passwords-1850950207"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>amazon</category>
+<category>nintendo</category>
+<category>23andme</category>
+<category>passwordless authentication</category>
+<category>identity management</category>
+<category>paypal</category>
+<category>whole foods</category>
+<category>skey</category>
+<category>technology internet</category>
+<category>dave treadwell</category>
+<category>security</category>
+<category>computer security</category>
+<category>passkey</category>
+<category>tiktok</category>
+<category>biometrics</category>
+<category>password</category>
+<category>google</category>
+<pubDate>Mon, 23 Oct 2023 17:45:00 GMT</pubDate>
+<guid isPermaLink="false">1850950207</guid>
+<dc:creator>Maxwell Zeff</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/304ea33334f34dcf388c7a3a7168a43e.jpg"/>
+</item>
+<item>
+<title>一种新型的以人工智能驱动的网络攻击可以通过听你打字来窃取你的数据</title>
+<link>https://gizmodo.com/ai-acoustic-cyberattack-deep-learning-hackers-1850714550</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/60b711210b61611f3a42209fa67ad2ee.jpg"/&gt;&lt;p&gt;A recently published &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://arxiv.org/pdf/2308.01074.pdf" target="_blank" rel="noopener noreferrer"&gt;study&lt;/a&gt; reveals a hypothetical cyberattack in which a hacker could leverage recorded audio of a person typing to steal their personal data. The attack uses a home-made deep-learning-based algorithm that can acoustically analyze keystroke noises and automatically decode what that person is typing.…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/ai-acoustic-cyberattack-deep-learning-hackers-1850714550"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>cyberattack</category>
+<category>security</category>
+<category>typing</category>
+<category>cybercrime</category>
+<category>password</category>
+<category>computer keyboard</category>
+<category>technology internet</category>
+<pubDate>Mon, 07 Aug 2023 22:40:00 GMT</pubDate>
+<guid isPermaLink="false">1850714550</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/60b711210b61611f3a42209fa67ad2ee.jpg"/>
+</item>
+<item>
+<title>法国通过新法案，允许警方远程激活公民手机上的摄像头。</title>
+<link>https://gizmodo.com/france-bill-allows-police-access-phones-camera-gps-1850609772</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7a405ffcbce2cda954b5fc075985a859.jpg"/&gt;&lt;p&gt;Amidst ongoing protests in France, the country has just passed a new bill that will allow police to remotely  access suspects’ cameras, microphones, and GPS on cell phones and other devices.&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/france-bill-allows-police-access-phones-camera-gps-1850609772"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>police</category>
+<category>nahel merzouk</category>
+<category>emmanuel macron</category>
+<category>nanterre</category>
+<category>surveillance</category>
+<category>national security</category>
+<category>killing of nahel merzouk</category>
+<category>la quadrature du net</category>
+<category>law enforcement</category>
+<category>security</category>
+<category>crime prevention</category>
+<category>tiktok</category>
+<category>snapchat</category>
+<category>eric dupond moretti</category>
+<pubDate>Thu, 06 Jul 2023 14:55:00 GMT</pubDate>
+<guid isPermaLink="false">1850609772</guid>
+<dc:creator>Kevin Hurler</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7a405ffcbce2cda954b5fc075985a859.jpg"/>
+</item>
+<item>
+<title>贾马尔·卡舒吉的遗孀表示臭名昭著的间谍软件使她“无法复原”。</title>
+<link>https://gizmodo.com/jamal-khashoggi-widow-sues-nso-pegasus-spyware-1850547915</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5090bf723f710de1ce74cf029afaf73a.png"/&gt;&lt;p&gt;The &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/nso-spyware-was-used-to-target-jamal-khashoggis-wife-d-1848251552"&gt;widow of Jamal Khashoggi&lt;/a&gt;—a Saudi journalist brutally executed by intelligence agents for writing critically about the regime—is suing the &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042"&gt;NSO Group&lt;/a&gt;, an Israeli surveillance company allegedly responsible for creating malicious spyware surreptitiously installed on her and her late husband’s devices. Hanan Elatr…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/jamal-khashoggi-widow-sues-nso-pegasus-spyware-1850547915"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>jamal khashoggi</category>
+<category>spyware</category>
+<category>cyberwarfare</category>
+<category>pegasus surveillance software</category>
+<category>emirates airlines</category>
+<category>pegasus</category>
+<category>computer network security</category>
+<category>hanan elatr</category>
+<category>security</category>
+<category>computer security</category>
+<category>shalev hulio</category>
+<category>nso group</category>
+<category>espionage</category>
+<category>gizmodo</category>
+<category>internet privacy</category>
+<category>citizen lab</category>
+<pubDate>Fri, 16 Jun 2023 17:02:00 GMT</pubDate>
+<guid isPermaLink="false">1850547915</guid>
+<dc:creator>Mack DeGeurin</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5090bf723f710de1ce74cf029afaf73a.png"/>
+</item>
+<item>
+<title>联邦机构表示，面部识别技术确认在田纳西州居住的波斯尼亚战争罪犯。</title>
+<link>https://gizmodo.com/facial-recognition-bosnia-war-criminal-sead-miljkovic-1850538786</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f79ae532b87aecc386c6041581eede73.jpg"/&gt;&lt;p&gt;Homeland Security agents used facial recognition to identify and arrest a man living in Tennessee they say stands committed war crimes during the Bosnian War nearly thirty years ago. The arrested man, who went by the name Sead Dukic for the past 24 years, was actually Sead Miljkovic, an alleged criminal long wanted by…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/facial-recognition-bosnia-war-criminal-sead-miljkovic-1850538786"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>bosnian war</category>
+<category>national security</category>
+<category>forbes</category>
+<category>prevention</category>
+<category>law enforcement</category>
+<category>law crime</category>
+<category>united states department of homeland security</category>
+<category>surveillance</category>
+<category>sead</category>
+<category>sead dukic</category>
+<category>borders of the united states</category>
+<category>sead miljkovic</category>
+<category>us customs and border protection</category>
+<category>security</category>
+<category>government</category>
+<category>crime prevention</category>
+<pubDate>Wed, 14 Jun 2023 16:42:00 GMT</pubDate>
+<guid isPermaLink="false">1850538786</guid>
+<dc:creator>Mack DeGeurin</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f79ae532b87aecc386c6041581eede73.jpg"/>
+</item>
+<item>
+<title>新应用雇佣了搭便车司机同时携带武器</title>
+<link>https://gizmodo.com/rideshare-black-wolf-uber-lyft-protection-1850462880</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5ce6b5f2896f3d617af97212dba99790.jpg"/&gt;&lt;p&gt;A rideshare app allowing drivers to carry guns launched in Atlanta, Georgia last week. The people behind the app say it’s meant to combat the rising levels of gun violence in the U.S. The app, Black Wolf, boasts that it hires drivers who are trained in private security to give passengers peace of mind on their next…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/rideshare-black-wolf-uber-lyft-protection-1850462880"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>kerry kingbrown</category>
+<category>lyft</category>
+<category>bodyguard</category>
+<category>gun violence</category>
+<category>location based software</category>
+<category>uberisation</category>
+<category>gun violence in the united states</category>
+<category>security</category>
+<category>black wolf</category>
+<category>commuting</category>
+<category>uber</category>
+<category>service industries</category>
+<category>transportation network companies</category>
+<category>carsharing</category>
+<category>prevention</category>
+<category>gizmodo</category>
+<pubDate>Mon, 22 May 2023 21:10:00 GMT</pubDate>
+<guid isPermaLink="false">1850462880</guid>
+<dc:creator>Nikki Main</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5ce6b5f2896f3d617af97212dba99790.jpg"/>
+</item>
+<item>
+<title>如何切換到使用密碼鍵來設置您的Google帳戶</title>
+<link>https://gizmodo.com/passkeys-google-how-to-passwords-iphone-android-mac-win-1850436313</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/fa439fbe9aacbf36a5d588c97fce047d.jpg"/&gt;&lt;p&gt;The future is passkeys, not passwords: Google accounts &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/google-passkeys-fido-alliance-apple-microsoft-security-1850399289"&gt;are the latest&lt;/a&gt; to make the switch, following similar moves by &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/android-ios-iphone-passkeys-passwords-how-to-when-what-1849743904"&gt;Apple&lt;/a&gt; and &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://support.microsoft.com/en-us/account-billing/set-up-a-security-key-as-your-verification-method-2911cacd-efa5-4593-ae22-e09ae14c6698" target="_blank" rel="noopener noreferrer"&gt;Microsoft&lt;/a&gt; over the last couple of years (with other smaller names also making the switch). It means more convenience and more security for your account, and no need to have to remember dozens…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/passkeys-google-how-to-passwords-iphone-android-mac-win-1850436313"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>google</category>
+<category>multi factor authentication</category>
+<category>computer access control</category>
+<category>iphone</category>
+<category>google account</category>
+<category>identity management</category>
+<category>android</category>
+<category>technology internet</category>
+<category>security</category>
+<category>smartphones</category>
+<category>password</category>
+<category>federated identity</category>
+<category>microsoft</category>
+<category>computing</category>
+<category>operating systems</category>
+<category>iphone</category>
+<pubDate>Sat, 20 May 2023 14:00:00 GMT</pubDate>
+<guid isPermaLink="false">1850436313</guid>
+<dc:creator>David Nield</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/fa439fbe9aacbf36a5d588c97fce047d.jpg"/>
+</item>
+<item>
+<title>Creepshow：FTC罚款Premom将经期数据交给中国公司和谷歌。</title>
+<link>https://gizmodo.com/premom-period-tracker-data-google-ftc-fine-consent-1850449785</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8db7fb53d6892662a9a9ba1f487fbb5a.jpg"/&gt;&lt;p&gt;If you’re looking to get pregnant, you can punch data about your periods into an app called Premom, which tells you when you’re ovulating. But why keep the news to yourself? The good folks at Premom know a bunch of advertising companies who’d love to know more about your health, so they shared user data with a bunch…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/premom-period-tracker-data-google-ftc-fine-consent-1850449785"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>google</category>
+<category>goodrx</category>
+<category>corporate crime</category>
+<category>law</category>
+<category>federal trade commission</category>
+<category>ftc regulation of behavioral advertising</category>
+<category>data breach</category>
+<category>privacy law</category>
+<category>terms of service</category>
+<category>united states v google inc</category>
+<category>internet privacy</category>
+<category>easy healthcare corporation</category>
+<category>security</category>
+<category>appsflyer</category>
+<category>health insurance portability and accountability act</category>
+<category>samuel levine</category>
+<pubDate>Thu, 18 May 2023 18:28:00 GMT</pubDate>
+<guid isPermaLink="false">1850449785</guid>
+<dc:creator>Thomas Germain</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8db7fb53d6892662a9a9ba1f487fbb5a.jpg"/>
+</item>
+<item>
+<title>美国司法部悬赏1千万美元寻求关于被指责的俄罗斯勒索软件黑客的信息。</title>
+<link>https://gizmodo.com/russia-ransomware-mikhail-pavlovich-matveev-wazawaka-1850442895</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9ffe5d560398fe366dc5748a4aefed0d.jpg"/&gt;&lt;p&gt;A Russian national has been charged for his alleged role in the &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/tech/cybersecurity?"&gt;cyberattacks&lt;/a&gt; against law enforcement, government agencies, hospitals, and schools. The U.S. Department of Justice unsealed two indictments on Tuesday against Mikhail Pavlovich Matveev, who is known online as Wazawaka, claiming he demanded a total of $400…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/russia-ransomware-mikhail-pavlovich-matveev-wazawaka-1850442895"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>ransomware</category>
+<category>philip r sellinger</category>
+<category>kenneth a polite jr</category>
+<category>kenneth a polite</category>
+<category>cybercrime</category>
+<category>politics</category>
+<category>law crime</category>
+<category>us department of justice</category>
+<category>computer security</category>
+<category>prevention</category>
+<category>mikhail pavlovich matveev</category>
+<category>crime</category>
+<category>security</category>
+<pubDate>Tue, 16 May 2023 21:25:00 GMT</pubDate>
+<guid isPermaLink="false">1850442895</guid>
+<dc:creator>Nikki Main</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/9ffe5d560398fe366dc5748a4aefed0d.jpg"/>
+</item>
+<item>
+<title>AI相机正在部署，以追究英国驾车人的乱丢垃圾问题的责任</title>
+<link>https://gizmodo.com/ai-litter-cameras-highways-uk-1850420999</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/74a0337a102f84c64efe306af1c59afb.jpg"/&gt;&lt;p&gt;&lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/tech/artificial-intelligence"&gt;Artificial Intelligence&lt;/a&gt; cameras are being installed in the United Kingdom to combat the ongoing littering problem on the region’s highways. The UK government is rolling out the cameras in a trial run in the South East of England which will be programmed to identify and fine drivers who litter on the highway.&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/ai-litter-cameras-highways-uk-1850420999"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>richard holden</category>
+<category>applications of computer vision</category>
+<category>sanitation</category>
+<category>national security</category>
+<category>prevention</category>
+<category>law crime</category>
+<category>closed circuit television</category>
+<category>john reade</category>
+<category>security</category>
+<category>video surveillance</category>
+<category>surveillance</category>
+<category>litter in the united states</category>
+<category>litter</category>
+<pubDate>Tue, 09 May 2023 21:36:18 GMT</pubDate>
+<guid isPermaLink="false">1850420999</guid>
+<dc:creator>Nikki Main</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/74a0337a102f84c64efe306af1c59afb.jpg"/>
+</item>
+<item>
+<title>Uber的前安全主管因掩盖大规模黑客攻击而未被判入狱，离开法庭时没有监禁时间。</title>
+<link>https://gizmodo.com/uber-security-joe-sullivan-sentenced-prison-data-breach-1850403347</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/98a4f9fa209cee8f4b9842b7550030af.jpg"/&gt;&lt;p&gt;&lt;strong&gt;Update 05/05/23: &lt;/strong&gt;Late on Thursday, federal judge William Orrick declared Uber’s former head of cybersecurity Joseph Sullivan would suffer no prison time for covering up a massive security breach at the ride-hailing company seven years ago. He is instead being put on probation and must complete 200 hours of community…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/uber-security-joe-sullivan-sentenced-prison-data-breach-1850403347"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>security</category>
+<category>uber</category>
+<category>cyberwarfare</category>
+<category>carsharing</category>
+<category>secure communication</category>
+<category>security engineering</category>
+<category>joseph sullivan</category>
+<category>bug bounty program</category>
+<category>google</category>
+<category>facebook</category>
+<category>prevention</category>
+<category>uberisation</category>
+<category>computer security</category>
+<category>meta</category>
+<category>orrick</category>
+<category>location based software</category>
+<category>data breach</category>
+<category>law crime</category>
+<category>craig clark</category>
+<category>anthony levandowski</category>
+<category>william orrick</category>
+<category>dara khosrowshahi</category>
+<pubDate>Fri, 05 May 2023 12:29:24 GMT</pubDate>
+<guid isPermaLink="false">1850403347</guid>
+<dc:creator>Kyle Barr</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/98a4f9fa209cee8f4b9842b7550030af.jpg"/>
+</item>
+<item>
+<title>Ransomware Gang Hijacks College's Emergency Broadcast System to Threaten Students</title>
+<link>https://gizmodo.com/bluefield-university-hacked-avos-ransomware-emergency-1850405104</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2fe08562ec37fea6f0b678e39dac088b.jpg"/&gt;&lt;p&gt;Colleges and schools are &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.govtech.com/security/why-school-systems-the-rise-of-ransomware-in-public-schools.html" target="_blank" rel="noopener noreferrer"&gt;a big target&lt;/a&gt; for cybercriminals, so the fact that a ransomware gang hacked a university in Virginia last month isn’t exactly surprising. What is surprising is what the ransomware gang did next. In a bold move, the gang hijacked the school’s emergency communications system, using it to spam…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/bluefield-university-hacked-avos-ransomware-emergency-1850405104"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>ransomware</category>
+<category>yahoo</category>
+<category>prevention</category>
+<category>computer virus</category>
+<category>education</category>
+<category>security</category>
+<category>safety</category>
+<category>computer security</category>
+<category>cybercrime</category>
+<category>security breaches</category>
+<pubDate>Thu, 04 May 2023 20:25:00 GMT</pubDate>
+<guid isPermaLink="false">1850405104</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2fe08562ec37fea6f0b678e39dac088b.jpg"/>
+</item>
+<item>
+<title>这些纽约人希望阻止房东使用面部识别技术。</title>
+<link>https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/532d2605600e5fb6b48f117eb031be29.jpg"/&gt;&lt;p&gt;Brooklyn resident Fabian Rogers knew he had to act in 2018 when his penny-pinching landlord suddenly attempted to install a facial recognition camera in the entrance of a rent-stabilized building he’d called home for years. Under the new security system, all tenants and their loved ones would be forced to submit to a…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/nyc-msg-facial-recognition-landlords-ban-law-hearing-1850401997"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>recognition</category>
+<category>jennifer gutierrez</category>
+<category>learning</category>
+<category>al sharpton</category>
+<category>face id</category>
+<category>surveillance</category>
+<category>national security</category>
+<category>national action network</category>
+<category>robert holden</category>
+<category>prevention</category>
+<category>carlina rivera</category>
+<category>data security</category>
+<category>fabian rogers</category>
+<category>internet privacy</category>
+<category>biometrics</category>
+<category>privacy</category>
+<category>alli finn</category>
+<category>albert fox cahn</category>
+<category>security</category>
+<category>derek perkinson</category>
+<category>facial recognition system</category>
+<pubDate>Thu, 04 May 2023 00:04:00 GMT</pubDate>
+<guid isPermaLink="false">1850401997</guid>
+<dc:creator>Mack DeGeurin</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/532d2605600e5fb6b48f117eb031be29.jpg"/>
+</item>
+<item>
+<title>谷歌推出通行证以（最终）淘汰密码</title>
+<link>https://gizmodo.com/google-passkeys-fido-alliance-apple-microsoft-security-1850399289</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d6a3759b68a38672a4b7d0de1a32a06f.png"/&gt;&lt;p&gt;Google has announced what it calls the “beginning of the end” for passwords, rolling out a new security mechanism that it says will ultimately come to replace PWs in the years to come: the passkey. “We’ve taken a giant step forward on the journey towards a passwordless future,” Google said &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/" target="_blank" rel="noopener noreferrer"&gt;in a blog post&lt;/a&gt; published…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/google-passkeys-fido-alliance-apple-microsoft-security-1850399289"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>computer access control</category>
+<category>security engineering</category>
+<category>webauthn</category>
+<category>cryptography</category>
+<category>google account</category>
+<category>microsoft</category>
+<category>skey</category>
+<category>technology internet</category>
+<category>security</category>
+<category>identification</category>
+<category>password</category>
+<category>federated identity</category>
+<category>computer security</category>
+<category>fido alliance</category>
+<pubDate>Wed, 03 May 2023 21:35:00 GMT</pubDate>
+<guid isPermaLink="false">1850399289</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d6a3759b68a38672a4b7d0de1a32a06f.png"/>
+</item>
+<item>
+<title>根据大赦国际的报告，巴勒斯坦人遭受“普遍存在”的面部识别技术。</title>
+<link>https://gizmodo.com/israel-palestine-facial-recognition-amnesty-omnipresent-1850395820</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3a07e182985a6acf0f6fbe0f9806767d.jpg"/&gt;&lt;p&gt;The Israeli military is increasingly deploying  experimental new &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/can-we-make-non-racist-face-recognition-1827639249"&gt;facial recognition software&lt;/a&gt; to monitor Palestinians and “supercharge segregation” in the West Bank, according to a new Amnesty International report released Tuesday. Amnesty found that Israeli authorities are using a little-known advanced surveillance…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/israel-palestine-facial-recognition-amnesty-omnipresent-1850395820"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>hikvision</category>
+<category>blue wolf</category>
+<category>learning</category>
+<category>amazon</category>
+<category>amnesty international</category>
+<category>israelipalestinian conflict</category>
+<category>pack</category>
+<category>war conflict</category>
+<category>israeli occupied territories</category>
+<category>politics</category>
+<category>prevention</category>
+<category>microsoft</category>
+<category>technology internet</category>
+<category>closed circuit television</category>
+<category>security</category>
+<category>crime prevention</category>
+<category>facial recognition system</category>
+<category>west bank</category>
+<category>agnes callamard</category>
+<category>video surveillance</category>
+<category>surveillance</category>
+<category>eyad</category>
+<pubDate>Tue, 02 May 2023 18:00:00 GMT</pubDate>
+<guid isPermaLink="false">1850395820</guid>
+<dc:creator>Mack DeGeurin</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3a07e182985a6acf0f6fbe0f9806767d.jpg"/>
+</item>
+<item>
+<title>黑客泄露了明尼阿波利斯学生的心理报告，指控有虐待行为</title>
+<link>https://gizmodo.com/ransomware-gang-medusa-data-breach-minneapolis-school-a-1850380421</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8b67ccb48c94eee5434b8aa82e7d5ee9.jpg"/&gt;&lt;p&gt;After hacking the Minneapolis public school system in March, a ransomware gang proceeded this week to leak students’ personal information to the web. Included in the tranche were the usual deluge of personal data points—including students’ birthdays and social security numbers. But NBC, which reviewed the leaks, &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.nbcnews.com/tech/security/students-psychological-reports-abuse-allegations-leaked-ransomware-hac-rcna79414" target="_blank" rel="noopener noreferrer"&gt;now…&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/ransomware-gang-medusa-data-breach-minneapolis-school-a-1850380421"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>wikileaks</category>
+<category>whistleblowing</category>
+<category>ransomware</category>
+<category>security breaches</category>
+<category>prevention</category>
+<category>nbc</category>
+<category>hacking</category>
+<category>education</category>
+<category>news leaks</category>
+<category>foreign electoral intervention</category>
+<category>security</category>
+<pubDate>Thu, 27 Apr 2023 00:35:00 GMT</pubDate>
+<guid isPermaLink="false">1850380421</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/8b67ccb48c94eee5434b8aa82e7d5ee9.jpg"/>
+</item>
+<item>
+<title>谁是被指责在Discord上泄露五角大楼文件的Jack Teixeira？</title>
+<link>https://gizmodo.com/jack-teixeira-discord-pentagon-leaked-documents-1850338094</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ac967f12f328a1c6737d8ea273a64307.png"/&gt;&lt;p&gt;Last week, the U.S. government &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/jack-teixeira-pentagon-leaks-discord-massachusetts-air-1850332980"&gt;arrested&lt;/a&gt; a man accused of one the worst leaks of national security material in years.&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/jack-teixeira-discord-pentagon-leaked-documents-1850338094"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>jack teixeira</category>
+<category>trump</category>
+<category>information sensitivity</category>
+<category>national security</category>
+<category>united states government secrecy</category>
+<category>russo</category>
+<category>politics</category>
+<category>espionage</category>
+<category>contents</category>
+<category>chelsea manning</category>
+<category>security clearance</category>
+<category>security</category>
+<category>government</category>
+<category>classified information</category>
+<category>the new york times</category>
+<category>daniel ellsberg</category>
+<category>wikileaks</category>
+<category>edward snowden</category>
+<category>nicholas grossman</category>
+<category>jeffrey fields</category>
+<category>teixiera</category>
+<category>the times</category>
+<category>julian assange</category>
+<category>news leaks</category>
+<category>holmes</category>
+<pubDate>Mon, 17 Apr 2023 22:15:00 GMT</pubDate>
+<guid isPermaLink="false">1850338094</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ac967f12f328a1c6737d8ea273a64307.png"/>
+</item>
+<item>
+<title>中国监控巨头知道其摄像机对维吾尔人进行监视，战争罪调查员说。</title>
+<link>https://gizmodo.com/hikvision-uyghurs-china-cctv-cameras-spying-detained-1850344113</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ee07fa5e2feb3358643562db4e82d82c.jpg"/&gt;&lt;p&gt;Hikvision, a Chinese surveillance camera company &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://techcrunch.com/2022/11/28/fcc-huawei-zte-hikvision-hytera-dahua-ban/#:~:text=Security-,US%20government%20bans%20Huawei%2C%20ZTE%20and,tech%20over%20'unacceptable'%20spying%20fears&amp;text=The%20U.S.%20government%20said%20it,protect%20the%20nation's%20communications%20network." target="_blank" rel="noopener noreferrer"&gt;restricted&lt;/a&gt; in parts of the US and the UK, knew its tech was &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/u-s-considers-export-ban-on-surveillance-company-that-1834942021"&gt;used to monitor&lt;/a&gt; the country’s Uyghur Muslim minority &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.businessinsider.com/hikvision-denies-role-uyghur-mps-call-uk-ban-2021-8" target="_blank" rel="noopener noreferrer"&gt;despite previously denials of exactly that&lt;/a&gt;, according to a war crimes investigator hired by Hikvision itself. New leaked recordings give more credibility to…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/hikvision-uyghurs-china-cctv-cameras-spying-detained-1850344113"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>uyghurs</category>
+<category>surveillance</category>
+<category>islam in china</category>
+<category>huawei</category>
+<category>richard pierre prosper</category>
+<category>xinjiang</category>
+<category>prevention</category>
+<category>federal communications commission</category>
+<category>camcorders</category>
+<category>closed circuit television</category>
+<category>tiktok</category>
+<category>chinese government</category>
+<category>video surveillance</category>
+<category>hikvision</category>
+<category>security</category>
+<category>crime prevention</category>
+<category>safety</category>
+<pubDate>Mon, 17 Apr 2023 17:43:00 GMT</pubDate>
+<guid isPermaLink="false">1850344113</guid>
+<dc:creator>Mack DeGeurin</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ee07fa5e2feb3358643562db4e82d82c.jpg"/>
+</item>
+<item>
+<title>五角大楼泄密显示俄罗斯黑客活动分子声称曾针对加拿大的一条管道进行攻击。</title>
+<link>https://gizmodo.com/russian-hackers-zarya-canadian-pipeline-pentagon-leak-1850318999</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b62c4454f09171e5a953a2d13be3dd0d.jpg"/&gt;&lt;p&gt;A leaked intelligence briefing that emerged over the weekend seems to reveal a hacking episode carried out by a pro-Russian hacktivist group against a major Canadian gas pipeline.&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/russian-hackers-zarya-canadian-pipeline-pentagon-leak-1850318999"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>cyberwarfare</category>
+<category>cyberwarfare in the united states</category>
+<category>national security</category>
+<category>cybercrime</category>
+<category>security hacker</category>
+<category>kim zetter</category>
+<category>hacking</category>
+<category>hacktivism</category>
+<category>articles</category>
+<category>security</category>
+<category>computer security</category>
+<pubDate>Mon, 10 Apr 2023 21:25:00 GMT</pubDate>
+<guid isPermaLink="false">1850318999</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b62c4454f09171e5a953a2d13be3dd0d.jpg"/>
+</item>
+<item>
+<title>创世纪市场的终结，该市场销售被盗身份信息，进一步延续了暗网的失败纪录。</title>
+<link>https://gizmodo.com/fbi-justice-department-dark-web-genesis-merrick-garland-1850303558</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/897f938353db704008a600c62c7691bf.jpg"/&gt;&lt;p&gt;This week, the FBI and a coalition of European police partners took aim at one of the biggest illegal markets on the internet. Genesis, known for &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.cbsnews.com/news/genesis-cybercriminal-market-ransomware/" target="_blank" rel="noopener noreferrer"&gt;selling stolen data&lt;/a&gt; to the highest bidder, has officially been dismantled. The crackdown is yet another attempt by the government to disrupt and deter the dark web’s worst…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/fbi-justice-department-dark-web-genesis-merrick-garland-1850303558"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>dark web</category>
+<category>yuliya novikova</category>
+<category>lisa o monaco</category>
+<category>darknet market</category>
+<category>adrianus warmenhoven</category>
+<category>merrick b garland</category>
+<category>information technology</category>
+<category>prevention</category>
+<category>brian krebs</category>
+<category>technology internet</category>
+<category>kaspersky</category>
+<category>computer security</category>
+<category>ransomware</category>
+<category>http cookie</category>
+<category>e commerce</category>
+<category>cybercrime</category>
+<category>security breaches</category>
+<category>internet privacy</category>
+<category>law crime</category>
+<category>troy hunt</category>
+<category>security</category>
+<pubDate>Wed, 05 Apr 2023 22:10:00 GMT</pubDate>
+<guid isPermaLink="false">1850303558</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/897f938353db704008a600c62c7691bf.jpg"/>
+</item>
+<item>
+<title>未知的政府机构违抗白宫，使用前台公司购买被禁止的间谍软件。</title>
+<link>https://gizmodo.com/nso-group-landmark-spyware-agency-disobeyed-white-house-1850295796</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/529c81a60030f638eb7779cd9d6a3c93.jpg"/&gt;&lt;p&gt;Anybody paying close attention to the surveillance industry over the past several years knows that the NSO Group, a notorious spyware maker from Israel, is a major source of ongoing &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/report-nso-groups-pegasus-spyware-can-break-into-cloud-1836560630"&gt;drama&lt;/a&gt;. The seller of frighteningly &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/how-nso-groups-iphone-hacking-malware-works-1848223337"&gt;powerful surveillance tools&lt;/a&gt;, the firm has—for years—been linked to shady clients (read: &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/israeli-cyber-intelligence-firm-denies-role-in-khashogg-1831705137"&gt;despotic…&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/nso-group-landmark-spyware-agency-disobeyed-white-house-1850295796"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>spyware</category>
+<category>nso group</category>
+<category>cyberwarfare</category>
+<category>l3harris</category>
+<category>online advertising</category>
+<category>riva networks</category>
+<category>bill malone</category>
+<category>espionage</category>
+<category>cleopatra holdings</category>
+<category>computer network security</category>
+<category>novalpina capital</category>
+<category>robin gamble</category>
+<category>security</category>
+<category>computer security</category>
+<category>deception</category>
+<category>pegasus</category>
+<pubDate>Mon, 03 Apr 2023 20:55:00 GMT</pubDate>
+<guid isPermaLink="false">1850295796</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/529c81a60030f638eb7779cd9d6a3c93.jpg"/>
+</item>
+<item>
+<title>美国出台了严格的商业间谍软件使用规定，此举是在一连串黑客攻击的背景下进行的。</title>
+<link>https://gizmodo.com/spyware-joe-biden-cybersecurity-nso-group-executive-ord-1850271494</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e69ec369f172501f5c9301ccedf9df77.jpg"/&gt;&lt;p&gt;The Biden administration passed an executive order Monday that seeks to implement strict new guidelines for what kind of commercial spyware U.S. government agencies are allowed to use. &lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/spyware-joe-biden-cybersecurity-nso-group-executive-ord-1850271494"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>spyware</category>
+<category>nso group</category>
+<category>cyberwarfare</category>
+<category>identity theft</category>
+<category>deception</category>
+<category>computer and network surveillance</category>
+<category>politics</category>
+<category>espionage</category>
+<category>computer network security</category>
+<category>security</category>
+<category>computer security</category>
+<category>joe biden</category>
+<category>online advertising</category>
+<pubDate>Tue, 28 Mar 2023 14:01:00 GMT</pubDate>
+<guid isPermaLink="false">1850271494</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e69ec369f172501f5c9301ccedf9df77.jpg"/>
+</item>
+<item>
+<title>Meta安全高管被《掠夺者》间谍软件入侵并跟踪了一年</title>
+<link>https://gizmodo.com/facebook-meta-security-seaford-predator-spyware-greece-1850243980</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/eba21fc10d9fe0fdc185ee7ef87d510a.jpg"/&gt;&lt;p&gt;A former executive on Meta’s security policy team was hacked by the Greek government using sophisticated spyware known as “Predator,” which tracked her for a whole year. &lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/facebook-meta-security-seaford-predator-spyware-greece-1850243980"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>security</category>
+<category>meta</category>
+<category>spyware</category>
+<category>giannis oikonomou</category>
+<category>security breaches</category>
+<category>citizen lab</category>
+<category>computer security</category>
+<category>artemis seaford</category>
+<category>rogue software</category>
+<category>online advertising</category>
+<category>john scott railton</category>
+<category>deception</category>
+<category>espionage</category>
+<category>prevention</category>
+<category>malware</category>
+<category>computer network security</category>
+<pubDate>Mon, 20 Mar 2023 19:40:00 GMT</pubDate>
+<guid isPermaLink="false">1850243980</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/eba21fc10d9fe0fdc185ee7ef87d510a.jpg"/>
+</item>
+<item>
+<title>A Ransomware Gang Claims It Hacked Amazon's Ring</title>
+<link>https://gizmodo.com/amazon-ring-ransomware-gang-claims-hack-1850223835</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2e766dada857bf077a5c712513a07411.jpg"/&gt;&lt;p&gt;The ransomware gang known as &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware/" target="_blank" rel="noopener noreferrer"&gt;ALPHV&lt;/a&gt; has claimed a successful attack on &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/amazon-ring-politico-story-hoax-police-privacy-1850202572"&gt;Amazon-owned&lt;/a&gt; home security company Ring. A cybercriminal group known for its &lt;a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://therecord.media/ransomware-lehigh-valley-alphv-black-cat" target="_blank" rel="noopener noreferrer"&gt;despicable tactics&lt;/a&gt;, the gang is now threatening to publish the company’s sensitive data if its financial demands are not met. &lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/amazon-ring-ransomware-gang-claims-hack-1850223835"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>ransomware</category>
+<category>secure communication</category>
+<category>cryptography</category>
+<category>emsisoft</category>
+<category>prevention</category>
+<category>emma daniels</category>
+<category>alph</category>
+<category>internet privacy</category>
+<category>technology internet</category>
+<category>computer security</category>
+<category>cybercrime</category>
+<category>security breaches</category>
+<category>brett callow</category>
+<category>security</category>
+<pubDate>Tue, 14 Mar 2023 19:03:00 GMT</pubDate>
+<guid isPermaLink="false">1850223835</guid>
+<dc:creator>Lucas Ropek</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2e766dada857bf077a5c712513a07411.jpg"/>
+</item>
+<item>
+<title>国会的社保号码在健康数据泄露事件中遭泄露</title>
+<link>https://gizmodo.com/social-security-numbers-congress-leaked-dc-health-link-1850207441</link>
+<description>&lt;img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2f867b096ca5977c3b4fb1534e87cb82.jpg"/&gt;&lt;p&gt;In a classic “whoopsie” situation, a health data breach affecting members of the US House of Representatives and their staff exposed social security numbers, names of family members, emails, phone numbers, and home addresses, which are now for sale on the dark web. Senators and their staff were also affected, but…&lt;/p&gt;&lt;p&gt;&lt;a href="https://gizmodo.com/social-security-numbers-congress-leaked-dc-health-link-1850207441"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+<category>security</category>
+<category>breach</category>
+<category>data breach</category>
+<category>secure communication</category>
+<category>prevention</category>
+<category>catherine szpindor</category>
+<category>technology internet</category>
+<category>computer security</category>
+<category>data security</category>
+<pubDate>Thu, 09 Mar 2023 16:35:41 GMT</pubDate>
+<guid isPermaLink="false">1850207441</guid>
+<dc:creator>Thomas Germain</dc:creator>
+<media:thumbnail url="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2f867b096ca5977c3b4fb1534e87cb82.jpg"/>
+</item>
+</channel>
+</rss>

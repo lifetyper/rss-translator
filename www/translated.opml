@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<opml version="2.0">
+  <head>
+    <docs>http://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="中文翻译RSS">
+      <outline text="hackernews" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/hackernews.xml"/>
+      <outline text="hackaday" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/hackaday.xml"/>
+      <outline text="cnx_software" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/cnx_software.xml"/>
+      <outline text="guardian_editorial" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/guardian_editorial.xml"/>
+      <outline text="linuxgizmos" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/linuxgizmos.xml"/>
+      <outline text="dangerousprototypes" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/dangerousprototypes.xml"/>
+      <outline text="bbc_news" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/bbc_news.xml"/>
+      <outline text="techcrunch" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/techcrunch.xml"/>
+      <outline text="mashable" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/mashable.xml"/>
+      <outline text="wired" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/wired.xml"/>
+      <outline text="gizmodo" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/gizmodo.xml"/>
+      <outline text="theverge" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/theverge.xml"/>
+      <outline text="engadget" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/engadget.xml"/>
+      <outline text="cnetnews" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/cnetnews.xml"/>
+      <outline text="zdnet" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/zdnet.xml"/>
+      <outline text="techplanet" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/techplanet.xml"/>
+      <outline text="spyopinion" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/spyopinion.xml"/>
+      <outline text="techhive" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/techhive.xml"/>
+      <outline text="sladhdot" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/sladhdot.xml"/>
+      <outline text="lifehacker" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/lifehacker.xml"/>
+      <outline text="itsecurityguru" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/itsecurityguru.xml"/>
+      <outline text="cyberscoop" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/cyberscoop.xml"/>
+      <outline text="gizmodo_security" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/gizmodo_security.xml"/>
+      <outline text="google_security" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/google_security.xml"/>
+      <outline text="grahamcluleys" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/grahamcluleys.xml"/>
+      <outline text="packetstorm_security" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/packetstorm_security.xml"/>
+      <outline text="securityaffairs" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/securityaffairs.xml"/>
+      <outline text="securityweek" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/securityweek.xml"/>
+      <outline text="theregister_security" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/theregister_security.xml"/>
+      <outline text="threatpost" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/threatpost.xml"/>
+      <outline text="trendmicro_security" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/trendmicro_security.xml"/>
+      <outline text="thezdi" type="rss" xmlUrl="https://tools.yamcloud.com/rss_translator/feed/thezdi.xml"/>
+    </outline>
+  </body>
+</opml>

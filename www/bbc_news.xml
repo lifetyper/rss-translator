@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>BBC News - World</title>
+<description>BBC News - World</description>
+<link>https://www.bbc.co.uk/news/</link>
+<image>
+<url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+<title>BBC News - World</title>
+<link>https://www.bbc.co.uk/news/</link>
+</image>
+<generator>RSS for Node</generator>
+<lastBuildDate>Wed, 22 Nov 2023 06:03:34 GMT</lastBuildDate>
+<copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>
+<language>en-gb</language>
+<ttl>15</ttl>
+<item>
+<title>Omegle: 我如何关闭危险的聊天网站</title>
+<description>"Alice" speaks exclusively to the BBC after her successful lawsuit against Omegle forced it offline.</description>
+<link>https://www.bbc.co.uk/news/technology-67485561?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/technology-67485561</guid>
+<pubDate>Wed, 22 Nov 2023 06:01:36 GMT</pubDate>
+</item>
+<item>
+<title>荷兰选举：选民在胶着的角逐中选择新领导者</title>
+<description>The head of the centre right, Dilan Yesilgöz, is tipped to become the Netherlands' first female PM.</description>
+<link>https://www.bbc.co.uk/news/world-europe-67487777?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67487777</guid>
+<pubDate>Wed, 22 Nov 2023 01:19:03 GMT</pubDate>
+</item>
+<item>
+<title>微软提供与OpenAI所有员工的工资匹配</title>
+<description>The tech giant offers jobs to any workers who want to leave over Sam Altman's sacking.</description>
+<link>https://www.bbc.co.uk/news/technology-67484455?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/technology-67484455</guid>
+<pubDate>Tue, 21 Nov 2023 16:19:13 GMT</pubDate>
+</item>
+<item>
+<title>中国：人权观察指责北京关闭和摧毁清真寺</title>
+<description>The crackdown is part of a "systematic effort" to curb the practice of Islam, Human Rights Watch says.</description>
+<link>https://www.bbc.co.uk/news/world-asia-china-67483202?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-67483202</guid>
+<pubDate>Wed, 22 Nov 2023 00:29:34 GMT</pubDate>
+</item>
+<item>
+<title>感恩节旅行：暴风雨延误数千航班</title>
+<description>More than 4,800 flights were behind schedule as rain and strong winds buffeted the US east coast.</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67489861?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67489861</guid>
+<pubDate>Wed, 22 Nov 2023 03:32:26 GMT</pubDate>
+</item>
+<item>
+<title>加拿大QAnon“女王”离开了村庄，但她并没有走远。</title>
+<description>Romana Didulo and her band of followers have left a Canadian village that wanted them out.</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67446806?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67446806</guid>
+<pubDate>Wed, 22 Nov 2023 01:46:27 GMT</pubDate>
+</item>
+<item>
+<title>朝鲜声称在之前的几次失败之后，成功发射了间谍卫星。</title>
+<description>Its recent success comes as Russia had earlier offered Pyongyang help with its space programme.</description>
+<link>https://www.bbc.co.uk/news/world-asia-67482405?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-67482405</guid>
+<pubDate>Wed, 22 Nov 2023 02:07:03 GMT</pubDate>
+</item>
+<item>
+<title>币安首席执行官赵长鹏承认洗钱罪名</title>
+<description>Changpeng Zhao will also step down as chief executive of the world's largest crypto-exchange.</description>
+<link>https://www.bbc.co.uk/news/technology-67492753?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/technology-67492753</guid>
+<pubDate>Tue, 21 Nov 2023 21:47:36 GMT</pubDate>
+</item>
+<item>
+<title>Four Las Vegas teens charged with murder in schoolmate's beating death</title>
+<description>Las Vegas police say Jonathan Lewis Jr was beaten to death over a set of headphones stolen from him.</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67492831?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67492831</guid>
+<pubDate>Tue, 21 Nov 2023 22:56:34 GMT</pubDate>
+</item>
+<item>
+<title>美国法院撤回关键选举权保护措施</title>
+<description>Only the US attorney general, not individuals, can appeal racist voting practices, a federal court finds.</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67480042?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67480042</guid>
+<pubDate>Tue, 21 Nov 2023 17:50:47 GMT</pubDate>
+</item>
+<item>
+<title>刚果-布拉柴维尔踩踏事件：在军队招募活动中，数十人丧生</title>
+<description>At least 37 people have died in a crush during an army recruitment drive, Brazzaville officials say.</description>
+<link>https://www.bbc.co.uk/news/world-africa-67476484?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67476484</guid>
+<pubDate>Tue, 21 Nov 2023 17:34:12 GMT</pubDate>
+</item>
+<item>
+<title>视频据称显示A$AP Rocky持枪</title>
+<description>The rapper will stand trial on charges that he fired a pistol in a feud with a former childhood friend in 2021.</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67459290?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67459290</guid>
+<pubDate>Tue, 21 Nov 2023 18:22:47 GMT</pubDate>
+</item>
+<item>
+<title>乌塔拉坎德邦隧道坍塌：首个视频现身，印度被困工人</title>
+<description>The 41 workers have been trapped in an under-construction tunnel in northern India since 12 November.</description>
+<link>https://www.bbc.co.uk/news/world-asia-india-67482481?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-67482481</guid>
+<pubDate>Tue, 21 Nov 2023 12:30:34 GMT</pubDate>
+</item>
+<item>
+<title>超过60万人因索马里洪水而流离失所</title>
+<description>The number of displaced people by the rains in Somalia has gone up by 100,000 in just one week, bringing the number to close to 650,000 people.</description>
+<link>https://www.bbc.co.uk/news/world-africa-67480790?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67480790</guid>
+<pubDate>Tue, 21 Nov 2023 10:47:28 GMT</pubDate>
+</item>
+<item>
+<title>Nicki Minaj回应尼日利亚粉丝对巡演场馆的抱怨</title>
+<description>A fan of the rapper is overwhelmed at her responding after asking Minaj to add Nigeria to her tour.</description>
+<link>https://www.bbc.co.uk/news/world-africa-67486159?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67486159</guid>
+<pubDate>Tue, 21 Nov 2023 14:15:36 GMT</pubDate>
+</item>
+<item>
+<title>黎巴嫩总理表示，以色列的袭击导致记者丧生</title>
+<description>Two journalists and two other civilians are killed as exchanges of fire intensify along the border.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67485276?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67485276</guid>
+<pubDate>Tue, 21 Nov 2023 17:48:16 GMT</pubDate>
+</item>
+<item>
+<title>Yahya Sinwar: 谁是加沙地带的哈马斯领导人？</title>
+<description>Thousands of Israeli troops are trying to find the man who heads the organisation's political wing.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67473719?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67473719</guid>
+<pubDate>Tue, 21 Nov 2023 02:23:48 GMT</pubDate>
+</item>
+<item>
+<title>BBC评估以色列公布的人质和隧道的影像资料</title>
+<description>BBC Verify assesses footage of a tunnel and hostages released by Israel to prove Hamas used Gaza's al-Shifa hospital as a command centre.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67478425?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67478425</guid>
+<pubDate>Mon, 20 Nov 2023 20:45:23 GMT</pubDate>
+</item>
+<item>
+<title>美国表示以色列人质交易“比以往更接近”</title>
+<description>A deal to release Israeli hostages held in Gaza is "closer than ever before", a senior US official says.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67478227?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67478227</guid>
+<pubDate>Mon, 20 Nov 2023 22:42:29 GMT</pubDate>
+</item>
+<item>
+<title>观看：以色列政治家与加沙人质家属的会议陷入喧闹之中</title>
+<description>Politicians have been contemplating the death penalty for 7 October attackers, but some hostages' relatives say this could have repercussions.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67482262?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67482262</guid>
+<pubDate>Tue, 21 Nov 2023 06:03:04 GMT</pubDate>
+</item>
+<item>
+<title>Israeli tanks surround north Gaza's Indonesian Hospital</title>
+<description>At least 12 Palestinians are reported to have been killed by Israeli fire at the hospital overnight.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67474549?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67474549</guid>
+<pubDate>Mon, 20 Nov 2023 23:46:16 GMT</pubDate>
+</item>
+<item>
+<title>以色列表示，闭路电视录像显示人质被带到加沙医院。</title>
+<description>Israel says the video - which the BBC has not verified - shows captives were taken to al-Shifa on 7 October.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67469591?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67469591</guid>
+<pubDate>Sun, 19 Nov 2023 22:22:40 GMT</pubDate>
+</item>
+<item>
+<title>自从哈马斯袭击以来，约旦河西岸地区在以色列的严格封锁之下。</title>
+<description>In the fortified H2 area of Hebron, Palestinian residents are being forced off the street at gunpoint.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67463162?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67463162</guid>
+<pubDate>Sun, 19 Nov 2023 14:10:26 GMT</pubDate>
+</item>
+<item>
+<title>哈马斯人质：哈马斯从以色列夺走的人质故事</title>
+<description>From elderly grandparents to young children, these are the people known to have been taken captive.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67053011?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67053011</guid>
+<pubDate>Wed, 22 Nov 2023 03:59:29 GMT</pubDate>
+</item>
+<item>
+<title>封锁如何激发对月经贫困的斗争</title>
+<description>Inside a project tackling period poverty, with an army of thousands of volunteers across the world.</description>
+<link>https://www.bbc.co.uk/news/business-67440824?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/business-67440824</guid>
+<pubDate>Tue, 21 Nov 2023 00:03:56 GMT</pubDate>
+</item>
+<item>
+<title>视频显示车内被一只被困的熊肆意破坏</title>
+<description>Wildlife officials in Colorado say the animal likely entered the vehicle searching for food.</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67459289?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67459289</guid>
+<pubDate>Tue, 21 Nov 2023 16:45:08 GMT</pubDate>
+</item>
+<item>
+<title>拜登在土耳其仪式上把布兰妮和泰勒搞混了。</title>
+<description>The US president pardoned 'Liberty' and 'Bell' ahead of Thanksgiving, and joked about his age.</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67459288?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67459288</guid>
+<pubDate>Mon, 20 Nov 2023 22:03:01 GMT</pubDate>
+</item>
+<item>
+<title>阿尔巴尼亚：反对派政治家在议会点燃彩色烟雾弹</title>
+<description>The smoke flares and fire were part of an attempt to try and stop the chamber voting on the 2024 budget.</description>
+<link>https://www.bbc.co.uk/news/world-europe-67479830?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67479830</guid>
+<pubDate>Mon, 20 Nov 2023 17:15:24 GMT</pubDate>
+</item>
+<item>
+<title>罗莎琳·卡特作为第一夫人的不平凡人生时刻</title>
+<description>Former First Lady of the US and wife of ex-President Jimmy Carter, has died at the age of 96.</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67470996?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67470996</guid>
+<pubDate>Mon, 20 Nov 2023 03:27:28 GMT</pubDate>
+</item>
+<item>
+<title>撤离的早产儿抵达加沙医院</title>
+<description>The babies were moved from al-Shifa hospital to receive urgent care in a neonatal intensive care unit.</description>
+<link>https://www.bbc.co.uk/news/world-middle-east-67469987?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-67469987</guid>
+<pubDate>Sun, 19 Nov 2023 21:29:06 GMT</pubDate>
+</item>
+<item>
+<title>泰勒·斯威夫特在里约音乐会上显得气喘吁吁。</title>
+<description>Video showed the singer gasping for air in between songs during her performance in the stifling heat.</description>
+<link>https://www.bbc.co.uk/news/world-latin-america-67469778?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-67469778</guid>
+<pubDate>Sun, 19 Nov 2023 17:32:26 GMT</pubDate>
+</item>
+<item>
+<title>我们距离解决JFK的暗杀案还更近吗？</title>
+<description>Recent revelations by an ex-Secret Service agent throw new light onto a now 60-year-old shooting.</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67493398?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67493398</guid>
+<pubDate>Wed, 22 Nov 2023 00:30:49 GMT</pubDate>
+</item>
+<item>
+<title>气候变化：村民们建造100英尺高的冰塔</title>
+<description>The people of Ladakh in the Indian Himalayas have used maths to solve a water shortage.</description>
+<link>https://www.bbc.co.uk/news/world-asia-india-67469222?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-67469222</guid>
+<pubDate>Wed, 22 Nov 2023 00:39:37 GMT</pubDate>
+</item>
+<item>
+<title>罗希特•莎玛：印度队长，虽然输掉了板球世界杯，但赢得了人们的心。</title>
+<description>Rohit Sharma led a cricket team that was undefeated until the final but couldn't cross the last hurdle.</description>
+<link>https://www.bbc.co.uk/news/world-asia-india-67482722?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-67482722</guid>
+<pubDate>Wed, 22 Nov 2023 00:31:36 GMT</pubDate>
+</item>
+<item>
+<title>为什么肯尼亚-乌干达的石油争议引发了地区的紧张情绪</title>
+<description>Landlocked Uganda has accused Kenyan middlemen of inflating petrol prices by up to 58%.</description>
+<link>https://www.bbc.co.uk/news/world-africa-67366652?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-67366652</guid>
+<pubDate>Wed, 22 Nov 2023 02:44:08 GMT</pubDate>
+</item>
+<item>
+<title>理查德·腾格：谁是币安的新老板？</title>
+<description>Richard Teng rapidly climbed the ranks after joining the world's largest crypto-exchange two years ago.</description>
+<link>https://www.bbc.co.uk/news/business-67493289?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/business-67493289</guid>
+<pubDate>Wed, 22 Nov 2023 05:25:51 GMT</pubDate>
+</item>
+<item>
+<title>为什么特朗普在爱荷华州的竞争对手们仍然认为他们可以赢得胜利</title>
+<description>Despite trailing far behind in the polls, the former president's rivals are spending millions. Why?</description>
+<link>https://www.bbc.co.uk/news/world-us-canada-67477560?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-67477560</guid>
+<pubDate>Tue, 21 Nov 2023 19:43:00 GMT</pubDate>
+</item>
+<item>
+<title>OpenAI如何为混乱创造了完美的条件</title>
+<description>The company's idiosyncratic structure may be behind the sweeping changes seen in recent days.</description>
+<link>https://www.bbc.co.uk/news/technology-67481548?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/technology-67481548</guid>
+<pubDate>Tue, 21 Nov 2023 00:01:21 GMT</pubDate>
+</item>
+<item>
+<title>荷兰选举承诺激烈竞争和政治新时代</title>
+<description>Two new leaders are among the front-runners, and one is tipped to be the first female Dutch PM.</description>
+<link>https://www.bbc.co.uk/news/world-europe-67399766?at_medium=RSS&amp;at_campaign=KARANGA</link>
+<guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-67399766</guid>
+<pubDate>Tue, 21 Nov 2023 13:31:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

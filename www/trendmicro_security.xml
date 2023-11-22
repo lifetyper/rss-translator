@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:docs="http://schemas.google.com/docs/2007" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:twitter="http://api.twitter.com" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>Trend Micro Research, News and Perspectives</title>
+<link>http://feed.informer.com/digests/G5HRN3DTV4/feeder</link>
+<description/>
+<copyright>Respective post owners and feed distributors</copyright>
+<pubDate>Tue, 09 Nov 2021 16:45:03 +0000</pubDate>
+<generator>Feed Informer http://feed.informer.com/</generator>
+<atom:link href="http://feed.informer.com/digests/G5HRN3DTV4/feeder" rel="self" type="application/rss+xml"/>
+<item>
+<title>加速安全风险管理</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/e/security-risk-management.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:b362fc7e-c7ce-df53-ab51-512a80148968</guid>
+<pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+<description>In response to the expanding attack surface, Mike Milner, Trend Micro VP of Cloud Technology, explores the role security risk management plays in this new era of cybersecurity and how IT leaders are accelerating innovation.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/security-risk-management:Large?qlt=80"/>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Compliance</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Digital Transformation</category>
+<category>Trend Micro CISO : Cloud</category>
+<author>Mike Milner</author>
+</item>
+<item>
+<title>CVE-2023-46604（Apache ActiveMQ）被利用以感染系统并注入加密货币挖矿程序和rootkit。</title>
+<link>https://www.trendmicro.com/en_us/research/23/k/cve-2023-46604-exploited-by-kinsing.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:1d0311c8-1151-e864-8dd0-a5140bdbc679</guid>
+<pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+<description>We uncovered the active exploitation of the Apache ActiveMQ vulnerability CVE-2023-46604 to download and infect Linux systems with the Kinsing malware (also known as h2miner) and cryptocurrency miner.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/CVE-2023-46604-cover:Large?qlt=80"/>
+<category>Trend Micro Research : Exploits &amp; Vulnerabilities</category>
+<category>Trend Micro Research : Research</category>
+<category>Trend Micro Research : Network</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Peter Girnus</author>
+</item>
+<item>
+<title>ALPHV/BlackCat Take Extortion Public</title>
+<link>https://www.trendmicro.com/en_us/research/23/k/alphv-blackcat-take-extortion-public.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:aa0b8aeb-844d-cf36-0a77-85232c881bb7</guid>
+<pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+<description>Learn more about ALPHV filing a complaint with the Security and Exchange Commission (SEC) against their victim, which appears to be an attempt to influence MeridianLink to pay the ransom sooner than later.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/alphv-blackcat-take-extortion-public:Large?qlt=80"/>
+<category>Trend Micro Research : Cloud</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Ransomware</category>
+<category>Trend Micro Research : Expert Perspective</category>
+<category>Trend Micro Research : Network</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Jon Clay</author>
+</item>
+<item>
+<title>针对时间紧迫：网络事故应急响应计划</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/e/cyber-incident-response.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:08eb8a18-ccc5-f64a-d351-ce6b12fc988b</guid>
+<pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+<description>Conventional wisdom says most organizations will experience a cybersecurity breach at some point—if they haven’t already. That makes having a ready-to-launch incident response process crucial when an attack is detected, as this fictionalized scenario shows.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/cyber-incident-response-1:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Cyber Insurance</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<author>Chris LaFleur</author>
+</item>
+<item>
+<title>深入挖掘ChatGPT在自动化恶意软件创建中的角色</title>
+<link>https://www.trendmicro.com/en_us/research/23/k/a-closer-look-at-chatgpt-s-role-in-automated-malware-creation.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:d5a21b8e-f1e2-e051-b467-d17b38cf5ef6</guid>
+<pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+<description>This blog entry explores the effectiveness of ChatGPT's safety measures, the potential for AI technologies to be misused by criminal actors, and the limitations of current AI models.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/A-Closer-Look-at-ChatGPTS-Role-in-Automatic-Malware-Creation:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<category>Trend Micro Research : Research</category>
+<author>Veronica Chierzi</author>
+</item>
+<item>
+<title>100个盈利的季度：一位Trender的见解</title>
+<link>https://www.trendmicro.com/en_us/research/23/k/insights-trend-micro-100-profitable-quarters.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:9abc258b-c694-6f42-b491-5526d6397076</guid>
+<pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+<description>Learn what 100 straight quarters of profitability means to a Trender who has been here for every one of them.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/insights-trend-micro-100-profitable-quarters  -01:Large?qlt=80"/>
+<category>Trend Micro Research : Cloud</category>
+<category>Trend Micro Research : Latest News</category>
+<category>Trend Micro Research : Cyber Crime</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Network</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Jon Clay</author>
+</item>
+<item>
+<title>威胁行为者利用文件共享服务和反向代理进行凭证收集。</title>
+<link>https://www.trendmicro.com/en_us/research/23/k/threat-actors-leverage-file-sharing-service-and-reverse-proxies.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:1b646558-9eab-2aa2-676e-ba52e806b697</guid>
+<pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+<description>We analyzed a phishing campaign involving malicious emails containing a link to a file-sharing solution, which further leads to a PDF document with a secondary link designed to steal login info and session cookies.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/reverse-proxy-cover:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Research</category>
+<category>Trend Micro Research : Phishing</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Buddy Tancio</author>
+</item>
+<item>
+<title>前10个DevOps失误及其避免方法</title>
+<link>https://www.trendmicro.com/en_us/devops/23/k/crucial-devops-mistakes-manage-cyber-risk.html</link>
+<source url="https://www.trendmicro.com/en_us/devops.html">DevOps Resource Center</source>
+<guid isPermaLink="false">urn:uuid:e7b4b186-48f1-e771-f3ac-7716f82ea571</guid>
+<pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+<description>Integrating the necessary DevOps practices, tools, and cultures in an organization is difficult, even for experts. Learn how to recognize these challenges and transform them into valuable lessons when navigating the world of DevOps.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/devops/thumbnails/23/crucial-devops-mistakes-manage-cyber-risk.jpg"/>
+<category>Trend Micro DevOps : Workload Security</category>
+<category>Trend Micro DevOps : Azure</category>
+<category>Trend Micro DevOps : Article</category>
+<category>Trend Micro DevOps : AWS</category>
+<category>Trend Micro DevOps : How To</category>
+<category>Trend Micro DevOps : Container Security</category>
+<category>Trend Micro DevOps : Google Cloud Platform</category>
+<category>Trend Micro DevOps : File Storage Security</category>
+</item>
+<item>
+<title>实施零信任：5个关键考虑因素</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/k/implementing-zero-trust-strategy-manage-cyber-risk.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:e7da69b7-52fa-a4b4-0583-9ec9eeb5460d</guid>
+<pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+<description>When implementing a Zero Trust strategy and selecting a solution to safeguard your company against cyber risk, there are many factors to consider. Five key areas include Visibility and Analytics, Automation and Orchestration, Central Management, Analyst Experience, and Pricing Flexibility and Transparency.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/implementing-zero-trust-strategy-manage-cyber-risk-tn:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Zero Trust</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<author>Alifiya Sadikali</author>
+</item>
+<item>
+<title>为您的网络提供“零日威胁保护”。</title>
+<link>https://www.trendmicro.com/en_us/research/23/k/zero-day-threat-protection.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:e8f05c9f-6754-bd83-9e8e-18470442fbcc</guid>
+<pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+<description>Explore the world of zero day threats and gain valuable insight into the importance of proactive detection and remediation.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/article-large-tile:Large?qlt=80"/>
+<category>Trend Micro Research : Cloud</category>
+<category>Trend Micro Research : Expert Perspective</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<author>Michael Langford</author>
+</item>
+<item>
+<title>保护云基础架构需要一种新的思维方式</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/k/secure-cloud-infrastructure-cyber-threats.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:ad9b9f87-19ba-ec52-5b00-b9e82a5ac031</guid>
+<pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+<description>Rising attacks on cloud infrastructure and services have created a ‘shared fate’ scenario for cloud providers and users, where a successful breach means everybody loses. Fresh thinking and closer collaboration can help avoid that outcome and better protect public cloud resources.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/secure-cloud-infrastructure-cyber-threats:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Cloud</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Cybersecurity Awareness Month</category>
+<category>Trend Micro CISO : Risk Management</category>
+<author>Pawan Kinger</author>
+</item>
+<item>
+<title>为您的网络提供“零日威胁保护”。</title>
+<link>https://www.trendmicro.com/en_us/devops/22/l/zero-day-threat-protection.html</link>
+<source url="https://www.trendmicro.com/en_us/devops.html">DevOps Resource Center</source>
+<guid isPermaLink="false">urn:uuid:49a834e8-2b03-838f-ef7c-6a230eb61544</guid>
+<pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+<description>Explore the world of zero day threats and gain valuable insight into the importance of proactive detection and remediation.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/devops/thumbnails/22/zero-day-threat-protection.jpg"/>
+<category>Trend Micro DevOps : Cloud Native</category>
+<category>Trend Micro DevOps : Network Security</category>
+<category>Trend Micro DevOps : Article</category>
+<category>Trend Micro DevOps : Multi Cloud</category>
+<category>Trend Micro DevOps : Expert Perspective</category>
+<author>Michael Langford</author>
+</item>
+<item>
+<title>趋势科技被誉为客户的最爱</title>
+<link>https://www.trendmicro.com/en_us/research/23/j/customers-prefer-trend-micro-xdr-endpoint-cloud.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:7fdc7236-a44e-8b7a-3d9b-db0cdc0ed6e3</guid>
+<pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+<description>Customer feedback validates Trend's leadership in in XDR, endpoint security, hybrid Cloud</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/customers-prefer-trend-micro-xdr-endpoint-cloud:Large?qlt=80"/>
+<category>Trend Micro Research : Cloud</category>
+<category>Trend Micro Research : Compliance &amp; Risks</category>
+<category>Trend Micro Research : Expert Perspective</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Holly Fraser</author>
+</item>
+<item>
+<title>Kopeechka（可备查），一个自动创建社交媒体账户的服务，如何助力网络犯罪。</title>
+<link>https://www.trendmicro.com/en_us/research/23/j/how-kopeechka--an-automated-social-media-accounts-creation-servi.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:b811d24a-2a6f-b04f-ef0f-9ed9e4241b6e</guid>
+<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+<description>This report explores the Kopeechka service and gives a detailed technical analysis of the service’s features and capabilities and how it can help cybercriminals to achieve their goals.  </description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/Thumbnail_Kopeechka:Large?qlt=80"/>
+<category>Trend Micro Research : Latest News</category>
+<category>Trend Micro Research : Cyber Crime</category>
+<category>Trend Micro Research : Social Media</category>
+<category>Trend Micro Research : Reports</category>
+<category>Trend Micro Research : Spam</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Cedric Pernet</author>
+</item>
+<item>
+<title>优化网络安全整合的战略建议</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/j/reduce-complexity-cybersecurity-consolidation.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:9cc93f29-8561-1303-6622-f3fba3f34d49</guid>
+<pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+<description>Say goodbye to security silos. Organizations are eager to take advantage of cybersecurity consolidation and make their security environments more manageable. Evolving incrementally and adopting a platform that supports third-party integrations are key to reducing cybersecurity complexity.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/reduce-complexity-cybersecurity-consolidation:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Digital Transformation</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Cybersecurity Awareness Month</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<author>Greg Young</author>
+</item>
+<item>
+<title>CI/CD 管道：如何克服设置挑战</title>
+<link>https://www.trendmicro.com/en_us/devops/23/j/ci-cd-pipeline-tool-set-up.html</link>
+<source url="https://www.trendmicro.com/en_us/devops.html">DevOps Resource Center</source>
+<guid isPermaLink="false">urn:uuid:a457442f-f860-5cb3-fb8a-bda0a8234a6c</guid>
+<pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+<description>Explore the most common challenges organizations face when establishing a CI/CD pipeline and how to strategically overcome them.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/devops/thumbnails/23/ci-cd-pipeline-tool-set-up.jpg"/>
+<category>Trend Micro DevOps : Workload Security</category>
+<category>Trend Micro DevOps : Network Security</category>
+<category>Trend Micro DevOps : Azure</category>
+<category>Trend Micro DevOps : Article</category>
+<category>Trend Micro DevOps : AWS</category>
+<category>Trend Micro DevOps : How To</category>
+<category>Trend Micro DevOps : File Storage Security</category>
+<category>Trend Micro DevOps : Multi Cloud</category>
+</item>
+<item>
+<title>安全补丁管理增强勒索软件防御</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/c/security-patch-management.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:62f65713-d414-4d70-42f6-69e084c96608</guid>
+<pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+<description>With thousands of applications to manage, enterprises need an effective way to prioritize software security patches. That calls for a contextualized, risk-based approach and good overall attack surface risk management.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/security-patch:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Digital Transformation</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Ransomware</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<author>Jon Clay</author>
+</item>
+<item>
+<title>对5G基础设施的攻击来自用户设备：5G核心中的ASN.1漏洞</title>
+<link>https://www.trendmicro.com/en_us/research/23/j/asn1-vulnerabilities-in-5g-cores.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:3f9ffb73-56de-5170-ae25-461f8aad420e</guid>
+<pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+<description>In the second part of this series, we will examine how attackers can trigger vulnerabilities by sending control messages masquerading as user traffic to cross over from user plane to control plane.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/5G-2-cover:Large?qlt=80"/>
+<category>Trend Micro Research : ICS OT</category>
+<category>Trend Micro Research : Research</category>
+<category>Trend Micro Research : Mobile</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<author>Salim S.I.</author>
+</item>
+<item>
+<title>软件工程中的前4个新兴趋势</title>
+<link>https://www.trendmicro.com/en_us/devops/23/j/software-engineering-trends-2023.html</link>
+<source url="https://www.trendmicro.com/en_us/devops.html">DevOps Resource Center</source>
+<guid isPermaLink="false">urn:uuid:6ab5f219-5008-f867-db9d-f4ee42a50b33</guid>
+<pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+<description>Explore key takeaways about emerging software engineering trends from Gartner's annual Application Innovation and Business Solutions Summit.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/devops/thumbnails/23/software-engineering-trends-2023.jpg"/>
+<category>Trend Micro DevOps : Workload Security</category>
+<category>Trend Micro DevOps : Network Security</category>
+<category>Trend Micro DevOps : Azure</category>
+<category>Trend Micro DevOps : Article</category>
+<category>Trend Micro DevOps : AWS</category>
+<category>Trend Micro DevOps : Expert Perspective</category>
+<category>Trend Micro DevOps : File Storage Security</category>
+<category>Trend Micro DevOps : Multi Cloud</category>
+</item>
+<item>
+<title>电子邮件安全最佳实践：预防网络钓鱼攻击</title>
+<link>https://www.trendmicro.com/en_us/ciso/22/k/email-security-best-practices.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:0d77c288-71ed-cb5e-0b05-96196ecd2a24</guid>
+<pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+<description>Trend Micro Research reported a 29% growth in phishing attacks blocked and detected in 2022. Explore the latest phishing trends and email security best practices to enhance your email security and reduce cyber risk.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/ciso/thumbnails/23/email-security-best-practices.jpg"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Digital Transformation</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Skills Gap</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<author>Jon Clay</author>
+</item>
+<item>
+<title>警告：Lumma Stealer通过Discord CDN进行分发</title>
+<link>https://www.trendmicro.com/en_us/research/23/j/beware-lumma-stealer-distributed-via-discord-cdn-.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:98fc9085-29a7-f6ff-d45e-56f7fa665cc1</guid>
+<pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+<description>This blog discusses how threat actors abuse Discord’s content delivery network (CDN) to host and spread Lumma Stealer, and talks about added capabilities to the information stealing malware.  </description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/Lummastealer_Hero:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Exploits &amp; Vulnerabilities</category>
+<category>Trend Micro Research : Research</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Carl Malipot</author>
+</item>
+<item>
+<title>Void Rabisu以嶄新的纖身浪漫喜劇變種作品瞄準女性政治領導人</title>
+<link>https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:e2c584ed-3b23-42b5-cf4b-f5f2e51f66ad</guid>
+<pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+<description>Almost a year after Void Rabisu shifted its targeting from opportunistic ransomware attacks with an emphasis on cyberespionage, the threat actor is still developing its main malware, the ROMCOM backdoor.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/rabisu-cover:Large?qlt=80"/>
+<category>Trend Micro Research : APT &amp; Targeted Attacks</category>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Research</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Feike Hacquebord</author>
+</item>
+<item>
+<title>预防勒索软件作为服务（RaaS）攻击的方法</title>
+<link>https://www.trendmicro.com/en_us/ciso/22/i/prevent-ransomware-as-a-service-raas-attacks.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:b8a1e163-3303-e029-d8be-a5d2b01e672f</guid>
+<pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+<description>Explore key insights on how ransomware as a service (RaaS) operators work and how to prevent ransomware attacks.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/ciso/thumbnails/23/prevent-ransomware-as-a-service-raas-attacks.jpg"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Cybersecurity Awareness Month</category>
+<category>Trend Micro CISO : Ransomware</category>
+<category>Trend Micro CISO : Risk Management</category>
+<author>Jon Clay</author>
+</item>
+<item>
+<title>DarkGate Opens Organizations for Attack via Skype, Teams</title>
+<link>https://www.trendmicro.com/en_us/research/23/j/darkgate-opens-organizations-for-attack-via-skype-teams.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:84be93d9-7fe7-2262-8fb7-86d6199f23e4</guid>
+<pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+<description>We detail an ongoing campaign abusing messaging platforms Skype and Teams to distribute the DarkGate malware to targeted organizations. We also discovered that once DarkGate is installed on the victim’s system, additional payloads were introduced to the environment. </description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/darkgate-opens-organizations-for-attack-via-skype-teams:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Cyber Crime</category>
+<category>Trend Micro Research : Privacy &amp; Risks</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<category>Trend Micro Research : Data center</category>
+<category>Trend Micro Research : APT &amp; Targeted Attacks</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Ransomware</category>
+<category>Trend Micro Research : Network</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Trent Bessell</author>
+</item>
+<item>
+<title>电力系统网络安全漏洞</title>
+<link>https://www.trendmicro.com/en_us/research/23/j/electric-power-system-cybersecurity-vulnerabilities.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:884e0d5f-9fdf-82eb-d192-ee187a0d7b0a</guid>
+<pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+<description>Digitalization has changed the business environment of the electric power industry, exposing it to various threats. This webinar will help you uncover previously unnoticed threats and develop countermeasures and solutions.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/electric-power-system-cybersecurity-vulnerabilities-1:Large?qlt=80"/>
+<category>Trend Micro Research : ICS OT</category>
+<category>Trend Micro Research : How To</category>
+<category>Trend Micro Research : Ransomware</category>
+<category>Trend Micro Research : Webinar</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<author>Mayumi Nishimura</author>
+</item>
+<item>
+<title>Exposing Infection Techniques Across Supply Chains and Codebases</title>
+<link>https://www.trendmicro.com/en_us/research/23/j/infection-techniques-across-supply-chains-and-codebases.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:d61bd42a-269a-25a0-271c-9829a3e13a6b</guid>
+<pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+<description>This entry delves into threat actors' intricate methods to implant malicious payloads within seemingly legitimate applications and codebases.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/sc-codebase-cover:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Exploits &amp; Vulnerabilities</category>
+<category>Trend Micro Research : Research</category>
+<category>Trend Micro Research : Mobile</category>
+<category>Trend Micro Research : Network</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Aliakbar Zahravi</author>
+</item>
+<item>
+<title>一个领导者的网络安全风险评估指南</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/b/cybersecurity-risk-assessment.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:872583d6-7a70-72d9-341d-e6478c226b79</guid>
+<pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+<description>Cybersecurity risk assessment provides the continuous asset detection, analysis, prioritization, and risk scoring needed to keep pace with a continuously growing digital attack surface.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/ciso/thumbnails/23/cybersecurity-risk-assessment.jpg"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Skills Gap</category>
+<category>Trend Micro CISO : Cybersecurity Awareness Month</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<author>Jon Clay</author>
+</item>
+<item>
+<title>如何拥抱云安全挑战的思维方式</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/j/cloud-security-challenges.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:bd41c3ee-ddf8-6876-6d82-d8dbcedc3699</guid>
+<pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+<description>CISOs responsible for tackling cloud security challenges need to rethink traditional security practices, protect apps and infrastructure they don’t control, and justify enterprise security investments. Trend Micro’s Bryan Webster told the AWS SecurityLIVE! audience it can all be done—by embracing ‘cloud values’ and leveraging the existing skills of cloud development teams.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/ciso/thumbnails/23/cloud-security-challenges.jpg"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Cloud</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Cybersecurity Awareness Month</category>
+<category>Trend Micro CISO : Risk Management</category>
+<author>Bryan Webster</author>
+</item>
+<item>
+<title>APT34 Deploys Phishing Attack With New Malware</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/apt34-deploys-phishing-attack-with-new-malware.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:2c8efa2e-b7b7-14c9-0517-d0cf3441cb98</guid>
+<pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+<description>We observed and tracked the advanced persistent threat (APT) APT34 group with a new malware variant accompanying a phishing attack comparatively similar to the SideTwist backdoor malware. Following the campaign, the group abused a fake license registration form of an African government agency to target a victim in Saudi Arabia.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/apt34-deploys-phishing-attack-with-new-malware:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Phishing</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<category>Trend Micro Research : APT &amp; Targeted Attacks</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Network</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Mohamed Fahmy</author>
+</item>
+<item>
+<title>AWS Graviton使用案例</title>
+<link>https://www.trendmicro.com/en_us/devops/22/l/aws-graviton-how-to-guide.html</link>
+<source url="https://www.trendmicro.com/en_us/devops.html">DevOps Resource Center</source>
+<guid isPermaLink="false">urn:uuid:79909560-8dce-ffba-704d-0854584cfc1b</guid>
+<pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+<description>Discover how AWS Graviton’s optimized processors help provide a superior price-performance ratio. Available for AWS-managed services, you’ll gain insight on strategies, use cases, and insight on how to get the most out of AWS Graviton.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/devops/thumbnails/22/aws-graviton-how-to-guide.jpg"/>
+<category>Trend Micro DevOps : Cloud Native</category>
+<category>Trend Micro DevOps : How To</category>
+<category>Trend Micro DevOps : Article</category>
+<category>Trend Micro DevOps : AWS</category>
+<author>Michael Langford</author>
+</item>
+<item>
+<title>如何提高网络安全意识和培训水平</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/i/improve-cybersecurity-awareness-training.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:8583d183-7321-0a37-21a9-2a765bb869bf</guid>
+<pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+<description>Bill Malik, former Research Director at Gartner, discusses how to leverage the Capability Maturity Model to create an effective awareness program.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/ciso/thumbnails/23/improve-cybersecurity-awareness-training.jpg"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Cybersecurity Awareness Month</category>
+<author>William Malik</author>
+</item>
+<item>
+<title>审查Turla APT组织的活动</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/examining-the-activities-of-the-turla-group.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:45a2a489-0fc1-9490-9f0b-1b4c9c651f41</guid>
+<pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+<description>We examine the campaigns of the cyberespionage group known as Turla over the years, with a special focus on the key MITRE techniques and the corresponding IDs associated with the threat actor group.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/Turla-cover:Large?qlt=80"/>
+<category>Trend Micro Research : APT &amp; Targeted Attacks</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Network</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Srivathsa Sharma</author>
+</item>
+<item>
+<title>网络犯罪分子利用摩洛哥悲剧展开新的骗局活动</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/cybercriminals-exploit-the-moroccan-tragedy-in-new-scam-campaign.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:459b4dd5-2053-aef2-75f0-867b8813781b</guid>
+<pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+<description>This blog entry details a scheme that exploits the recent Morocco earthquake by impersonating the domain name of a well-known humanitarian organization for financial fraud.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/Morocco_thumb:Large?qlt=80"/>
+<category>Trend Micro Research : Latest News</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Exploits &amp; Vulnerabilities</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Cedric Pernet</author>
+</item>
+<item>
+<title>解码Turla：趋势科技的MITRE性能</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/mitre-attack-solution-tested.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:8ddbb99f-2a9a-7dcc-1f84-990236c15103</guid>
+<pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+<description>This year, the MITRE Engenuity ATT&amp;CK evaluation tested cybersecurity vendors against simulated attack scenarios mimicking the adversary group “Turla.” Learn about Trend Micro's 100% successful protection performance.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/mitre-attack-solution-tested:Large?qlt=80"/>
+<category>Trend Micro Research : Cloud</category>
+<category>Trend Micro Research : Latest News</category>
+<category>Trend Micro Research : Cyber Crime</category>
+<category>Trend Micro Research : Exploits &amp; Vulnerabilities</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<category>Trend Micro Research : Data center</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Shannon Murphy</author>
+</item>
+<item>
+<title>零信任采用：赢得领导层的提示</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/i/zero-trust-adoption.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:1444a44e-2fd1-d62e-72d2-2267baff2144</guid>
+<pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+<description>Implementing Zero Trust can be difficult due to outdated systems, employee resistance, and cost. Yet, the benefits outweigh the challenges. It is key to use a platform that combines multiple security technologies to simplify IT and risk assessment, proper planning, and getting security buy-in from stakeholders, including your board of directors.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/zero-trust-adoption:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Zero Trust</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Risk Management</category>
+<author>Alifiya Sadikali</author>
+</item>
+<item>
+<title>针对用户设备对5G基础设施的攻击</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/attacks-on-5g-infrastructure-from-users-devices.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:5c05d7ed-465a-912a-f558-3675295d9ef2</guid>
+<pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+<description>Crafted packets from cellular devices such as mobile phones can exploit faulty state machines in the 5G core to attack cellular infrastructure. Smart devices that critical industries such as defense, utilities, and the medical sectors use for their daily operations depend on the speed, efficiency, and productivity brought by 5G. This entry describes CVE-2021-45462 as a potential use case to deploy a denial-of-service (DoS) attack to private 5G networks.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/attacks-on-5g-infrastructure-from-users-devices-critical-industries:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Cyber Crime</category>
+<category>Trend Micro Research : Exploits &amp; Vulnerabilities</category>
+<category>Trend Micro Research : Privacy &amp; Risks</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<category>Trend Micro Research : ICS OT</category>
+<category>Trend Micro Research : APT &amp; Targeted Attacks</category>
+<category>Trend Micro Research : IoT</category>
+<category>Trend Micro Research : Mobile</category>
+<category>Trend Micro Research : Network</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Salim S.I.</author>
+</item>
+<item>
+<title>保护网络化的IT/OT环境中的CNC机器</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/i/cnc-machine-security.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:efa7f0ac-d9cf-e92f-065e-833553a94d13</guid>
+<pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+<description>Networking IT/OT environments is a bit like walking a tightrope, balancing the pursuit of intelligence and efficiency against the risks of exposing OT systems to the wider world. Trend Micro recently teamed up with global machine tool company Celada to identify specific risks associated with industrial CNC machines—and how to mitigate them.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/cnc-machine-security:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Digital Transformation</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<author>William Malik</author>
+</item>
+<item>
+<title>在网络风险管理中默默无闻的英雄</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/cyber-risk-management.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:bd9ae69a-92d2-8348-e2d0-20e7484eb3dc</guid>
+<pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+<description>Behind the scenes of the world of vulnerability intelligence and threat hunting</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/cyber-risk-management:Large?qlt=80"/>
+<category>Trend Micro Research : Cloud</category>
+<category>Trend Micro Research : Latest News</category>
+<category>Trend Micro Research : Exploits &amp; Vulnerabilities</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<author>Ed Cabrera</author>
+</item>
+<item>
+<title>地球Lusca雇佣新的Linux后门，使用Cobalt Strike进行横向移动。</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/earth-lusca-employs-new-linux-backdoor.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:53272195-3b65-3a1a-2c56-7515013ad85e</guid>
+<pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+<description>While monitoring Earth Lusca, we discovered an intriguing, encrypted file on the threat actor's server — a Linux-based malware, which appears to originate from the open-source Windows backdoor Trochilus, which we've dubbed SprySOCKS due to its swift behavior and SOCKS implementation.
+
+
+
+</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/sprysocks-cover:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : APT &amp; Targeted Attacks</category>
+<category>Trend Micro Research : Research</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Joseph C Chen</author>
+</item>
+<item>
+<title>拜登国家网络安全战略的主要要点</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/i/biden-national-cybersecurity-strategy-summary.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:07e7b109-f7ad-f857-ed86-c0006c772692</guid>
+<pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+<description>Major changes are underway, with new rules for federal agencies and updated requirements for public-private partnerships. We discuss the implementation plans for the strategy's first two pillars: defend critical infrastructure and disrupt and dismantle threat actors.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/biden-national-cybersecurity-strategy-summary:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Digital Transformation</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<author>Jon Clay</author>
+</item>
+<item>
+<title>3个来自网络安全领导者研究的战略洞察</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/i/cybersecurity-leader-insights.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:a5144a4b-b57b-3852-d1e2-7b8ca2934be3</guid>
+<pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+<description>Explore the results of a Sapio Research survey commissioned by Trend Micro about how CISOs and other technology leaders are overcoming today’s biggest challenges.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/cybersecurity-leader-insights:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Cloud</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Compliance</category>
+<category>Trend Micro CISO : Risk Management</category>
+</item>
+<item>
+<title>RedLine/Vidar滥用EV证书，转向勒索软件</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/redline-vidar-first-abuses-ev-certificates.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:2044fcf2-1308-4bf2-4da0-0886bb9dcce9</guid>
+<pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+<description>In this blog, we investigate how threat actors used information-stealing malware with EV code signing certificates and later delivered ransomware payloads to its victims via the same delivery method. </description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/Hero-redline-vidar-ev-cert-ransomware-resized:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Ransomware</category>
+<category>Trend Micro Research : Exploits &amp; Vulnerabilities</category>
+<category>Trend Micro Research : Research</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Hitomi Kimura</author>
+</item>
+<item>
+<title>Azure对AWS开发工具指南</title>
+<link>https://www.trendmicro.com/en_us/devops/22/f/azure-vs-aws-developer-tools.html</link>
+<source url="https://www.trendmicro.com/en_us/devops.html">DevOps Resource Center</source>
+<guid isPermaLink="false">urn:uuid:fa83d657-30a0-45e6-f6d4-e24526f10f52</guid>
+<pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+<description>Azure vs. AWS — which should you use for your DevOps environment? Discover the differences, similarities, and use cases to make an informed decision.</description>
+<enclosure length="0" type="image/jpeg" url="https://www.trendmicro.com/content/dam/trendmicro/global/en/devops/thumbnails/23/dorc-azure-vs-aws-developer-tools-tn.jpg"/>
+<category>Trend Micro DevOps : Cloud Native</category>
+<category>Trend Micro DevOps : Azure</category>
+<category>Trend Micro DevOps : Article</category>
+<category>Trend Micro DevOps : Compliance</category>
+<category>Trend Micro DevOps : AWS</category>
+<category>Trend Micro DevOps : Expert Perspective</category>
+<author>Michael Langford</author>
+</item>
+<item>
+<title>在压力下管理CISO的网络风险</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/i/managing-cyber-risk.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:408260d6-1015-3be6-fdb7-1c8b2aba3bce</guid>
+<pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+<description>Overworked CISOs are struggling to deliver the cybersecurity results their organizations expect. Fortunately, there are concrete and practical ways they can make their lives easier—while managing cyber risk effectively.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/managing-cyber-risk:Large?qlt=80"/>
+<category>Trend Micro CISO : Zero Trust</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<category>Trend Micro CISO : Blog</category>
+</item>
+<item>
+<title>TrickBot和Conti制裁：对CISO和董事会的影响</title>
+<link>https://www.trendmicro.com/en_us/ciso/23/i/trickbot-conti-sanctions-cisos-board.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:680828ce-df50-acad-99a9-784f7d977f1d</guid>
+<pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+<description>Discover what the increased regulatory risk due to recent US and UK sanctions imposed on TrickBot and Conti cybercriminals mean for CISOs and board members.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/trickbot-conti-sanctions-cisos-board:Large?qlt=80"/>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Compliance</category>
+<category>Trend Micro CISO : Ransomware</category>
+<category>Trend Micro CISO : Risk Management</category>
+<author>Ed Cabrera</author>
+</item>
+<item>
+<title>TrickBot和Conti制裁：对CISO和董事会的影响</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/trickbot-conti-sanctions-cisos-board.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:a2c62ac9-4a6c-2483-77d5-7299850b683e</guid>
+<pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+<description>Discover what the increased regulatory risk due to recent US and UK sanctions imposed on TrickBot and Conti cybercriminals mean for CISOs and board members.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/trickbot-conti-sanctions-cisos-board:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Web</category>
+<category>Trend Micro Research : Data center</category>
+<category>Trend Micro Research : Compliance &amp; Risks</category>
+<category>Trend Micro Research : Ransomware</category>
+<category>Trend Micro Research : Network</category>
+<category>Trend Micro Research : Security Strategies</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Ed Cabrera</author>
+</item>
+<item>
+<title>如何将 Zero Trust 和 XDR 结合使用</title>
+<link>https://www.trendmicro.com/en_us/ciso/21/l/how-zero-trust-and-xdr-work-together.html</link>
+<source url="https://www.trendmicro.com/en_us/ciso.html">CISO Resource Center</source>
+<guid isPermaLink="false">urn:uuid:c632cae7-8987-0db5-e9fa-7f097668a2f3</guid>
+<pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+<description>As the Zero Trust approach gains momentum, more organizations are looking to apply it to their security strategy. Learn how XDR and Zero Trust work together to enhance your security posture.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/how-zero-trust-and-xdr-work-together:Large?qlt=80"/>
+<category>Trend Micro CISO : Expert Perspective</category>
+<category>Trend Micro CISO : Risk Management</category>
+<category>Trend Micro CISO : Detection and Response</category>
+<category>Trend Micro CISO : Article</category>
+<category>Trend Micro CISO : Digital Transformation</category>
+<category>Trend Micro CISO : Cloud</category>
+<category>Trend Micro CISO : Zero Trust</category>
+</item>
+<item>
+<title>分析一个用Node.js编写的Facebook个人资料窃取器</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/analyzing-a-facebook-profile-stealer-written-in-node-js.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:2295f63d-e2ac-348d-f02c-83aa087e3b6c</guid>
+<pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+<description>We analyze an information stealer written in Node.js, packaged into an executable, exfiltrated stolen data via both Telegram bot API and a C&amp;C server, and employed GraphQL as a channel for C&amp;C communication. </description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/fb-stealer-cov:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Research</category>
+<category>Trend Micro Research : Phishing</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<author>Jaromir Horejsi</author>
+</item>
+<item>
+<title>重新审视16shop钓鱼工具包，趋势-国际刑警组织合作伙伴关系</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/revisiting-16shop-phishing-kit-trend-interpol-partnership.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:fd9e5191-a0bd-4bc4-0281-41f613ba9b32</guid>
+<pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+<description>In this entry, we summarize the security analyses and investigations done on phishing-as-a-service 16shop through the years. We also outline the partnership between Trend Micro and Interpol in taking down the main administrators and servers of this massive phishing campaign.</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/revisiting-16shop-phishing-kit-trend-interpol-partnership:Large?qlt=80"/>
+<category>Trend Micro Research : Malware</category>
+<category>Trend Micro Research : Endpoints</category>
+<category>Trend Micro Research : Cyber Crime</category>
+<category>Trend Micro Research : Phishing</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<author>Paul Pajares</author>
+</item>
+<item>
+<title>Qakbot扑灭行动：前路漫漫</title>
+<link>https://www.trendmicro.com/en_us/research/23/i/fbi-qakbot-takedown.html</link>
+<source url="https://www.trendmicro.com/en_us/research.html">Research, News, and Perspective</source>
+<guid isPermaLink="false">urn:uuid:5bae36ca-4027-245f-0f90-78f808cfe193</guid>
+<pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+<description>A long and challenging journey against cybercrime around the world</description>
+<enclosure length="0" type="image/jpeg" url="https://trendmicro.scene7.com/is/image/trendmicro/fbi-qakbot-takedown:Large?qlt=80"/>
+<category>Trend Micro Research : Cloud</category>
+<category>Trend Micro Research : Cyber Crime</category>
+<category>Trend Micro Research : Expert Perspective</category>
+<category>Trend Micro Research : Articles, News, Reports</category>
+<category>Trend Micro Research : Cyber Threats</category>
+<author>Ed Cabrera</author>
+</item>
+</channel>
+</rss>

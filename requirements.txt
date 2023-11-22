@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.2
+openai==1.3.3
+pyopml==1.0.0
+Requests==2.31.0
+click~=8.1.7

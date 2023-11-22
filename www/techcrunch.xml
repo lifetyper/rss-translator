@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>TechCrunch</title>
+<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml"/>
+<link>https://techcrunch.com/</link>
+<description>Startup and Technology News</description>
+<lastBuildDate>Wed, 22 Nov 2023 06:14:36 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+<sy:updateFrequency>
+	1	</sy:updateFrequency>
+<generator>https://wordpress.org/?v=6.4.1</generator>
+<image>
+<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+<title>TechCrunch</title>
+<link>https://techcrunch.com/</link>
+<width>32</width>
+<height>32</height>
+</image>
+<item>
+<title>山姆·奥尔特曼将回归OpenAI担任CEO</title>
+<link>https://techcrunch.com/2023/11/21/openai-says-sam-altman-to-return-as-ceo/</link>
+<dc:creator>Manish Singh</dc:creator>
+<pubDate>Wed, 22 Nov 2023 06:06:55 +0000</pubDate>
+<category>AI</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632616</guid>
+<description>&lt;p&gt;Sam Altman is returning to OpenAI as its chief executive, the high-profile AI startup said Wednesday, capping an intense five days of discussions, debates and convincing following the sudden dismissal of Altman from the startup he co-founded. OpenAI, which is the most valuable U.S. startup, said it has reached an &amp;#8220;agreement in principle&amp;#8221; for Altman&amp;#8217;s [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>佛罗里达法官发现特斯拉和埃隆·马斯克知道存在有缺陷的自动驾驶系统。</title>
+<link>https://techcrunch.com/2023/11/21/florida-judge-finds-tesla-elon-musk-knew-of-defective-autopilot-system/</link>
+<dc:creator>Rebecca Bellan</dc:creator>
+<pubDate>Wed, 22 Nov 2023 04:28:41 +0000</pubDate>
+<category>Government &amp; Policy</category>
+<category>Transportation</category>
+<category>Elon Musk</category>
+<category>Tesla Autopilot</category>
+<category>tesla lawsuit</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632574</guid>
+<description>&lt;p&gt;There is &amp;#8220;reasonable evidence&amp;#8221; to conclude that Tesla and its officers, including CEO Elon Musk, knew its vehicles had defective Autopilot systems but still allowed the cars to be driven in areas &amp;#8220;not safe for that technology,&amp;#8221; a Florida judge found. The ruling last week from Judge Reid Scott, in the Circuit Court for Palm [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>Sam Altman在OpenAI的解雇时间线 - 以及随之而来的后果</title>
+<link>https://techcrunch.com/2023/11/21/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/</link>
+<dc:creator>Kyle Wiggers</dc:creator>
+<pubDate>Wed, 22 Nov 2023 00:19:46 +0000</pubDate>
+<category>AI</category>
+<category>Emmett Shear</category>
+<category>OpenAI</category>
+<category>sam altman</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2631164</guid>
+<description>&lt;p&gt;In a dramatic turn of events late Friday, ex-Y Combinator president Sam Altman was fired as CEO of AI startup OpenAI, the company behind viral AI hits like ChatGPT, GPT-4 and DALL-E 3, by OpenAI&amp;#8217;s board of directors. Then, the company&amp;#8217;s longtime president and co-founder, Greg Brockman, resigned &amp;#8212; as did three senior OpenAI researchers. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>Crezco旨在使账单付款的整合更加简单易行</title>
+<link>https://techcrunch.com/2023/11/21/crezco-aims-to-make-integrating-bill-payments-easier/</link>
+<dc:creator>Kyle Wiggers</dc:creator>
+<pubDate>Wed, 22 Nov 2023 00:01:06 +0000</pubDate>
+<category>Enterprise</category>
+<category>Fintech</category>
+<category>Startups</category>
+<category>Crezco</category>
+<category>funding</category>
+<category>invoice</category>
+<category>MMC Ventures</category>
+<category>payments</category>
+<category>startup</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2630822</guid>
+<description>&lt;p&gt;Integrating with a payment API is something most &amp;#8212; if not all &amp;#8212; business-to-consumer platforms are forced to do at some point. It&amp;#8217;s practically unavoidable if they wish to take credit card payments. The trouble is, for platforms dealing in bills and invoices, not just one-off charges, few payment APIs have all the features necessary [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>关于AI驱动的聊天机器人的一切你需要了解的</title>
+<link>https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/</link>
+<dc:creator>Alyssa Stringer</dc:creator>
+<pubDate>Tue, 21 Nov 2023 23:40:39 +0000</pubDate>
+<category>AI</category>
+<category>ChatGPT</category>
+<category>OpenAI</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2607630</guid>
+<description>&lt;p&gt;ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm. What started as a tool to hyper-charge productivity through writing essays and code with short text prompts has evolved into a behemoth used by more than 92% of Fortune 500 companies for more wide-ranging needs. While there is a more…nefarious side to ChatGPT, it’s [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>稳定性人工智能进入视频生成游戏</title>
+<link>https://techcrunch.com/2023/11/21/stability-ai-gets-into-the-video-generating-game/</link>
+<dc:creator>Kyle Wiggers</dc:creator>
+<pubDate>Tue, 21 Nov 2023 23:39:52 +0000</pubDate>
+<category>AI</category>
+<category>Apps</category>
+<category>Startups</category>
+<category>Generative AI</category>
+<category>open source</category>
+<category>Stability AI</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632423</guid>
+<description>&lt;p&gt;AI startups that aren&amp;#8217;t OpenAI are plugging away this week, it&amp;#8217;d seem &amp;#8212; sticking to their product roadmaps even as coverage of the chaos at OpenAI dominates the airwaves. See: Stability AI, which this afternoon announced Stable Video Diffusion, an AI model that generates videos by animating existing images. Based on Stability&amp;#8217;s existing Stable Diffusion text-to-image [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>Kinterra Capital的首个5.65亿美元基金，用于支持采掘电池金属。</title>
+<link>https://techcrunch.com/2023/11/21/kinterra-capitals-debut-565m-fund-to-support-mining-for-battery-metals/</link>
+<dc:creator>Rebecca Bellan</dc:creator>
+<pubDate>Tue, 21 Nov 2023 23:23:23 +0000</pubDate>
+<category>Climate</category>
+<category>Transportation</category>
+<category>Batteries</category>
+<category>EV batteries</category>
+<category>kinterra capital</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632395</guid>
+<description>&lt;p&gt;Kinterra Capital, a Canadian private equity firm, has closed its $565 million debut fund dedicated to securing critical mineral assets for battery development. The influx of private capital comes amid increasing government incentives into the sourcing and production of battery materials in North America. Kinterra&amp;#8217;s oversubscribed round will target asset-level investments in North America, Western [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>一个哈利·波特同人小说与OpenAI有什么关系？</title>
+<link>https://techcrunch.com/2023/11/21/what-does-a-harry-potter-fanfic-have-to-do-with-openai/</link>
+<dc:creator>Amanda Silberling</dc:creator>
+<pubDate>Tue, 21 Nov 2023 22:37:32 +0000</pubDate>
+<category>AI</category>
+<category>artificial intelligence</category>
+<category>Emmett Shear</category>
+<category>Fandom</category>
+<category>OpenAI</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632466</guid>
+<description>&lt;p&gt;Have you ever puked and had diarrhea at the same time? I have, and when it happened, I was listening to a fan-made audiobook version of Harry Potter and the Methods of Rationality (HPMOR), a fan fiction written by Eliezer Yudkowsky. No, the dual-ended bodily horror was not incited by the fanfic, but the two [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>虎牙全球首席执行长斯科特·施莱弗在一次疯狂的旅程之后转向咨询角色。</title>
+<link>https://techcrunch.com/2023/11/21/tiger-global-chieftain-scott-shleifer-transitions-to-advisory-role-after-wild-ride/</link>
+<dc:creator>Connie Loizos</dc:creator>
+<pubDate>Tue, 21 Nov 2023 22:19:47 +0000</pubDate>
+<category>Venture</category>
+<category>hedge fund</category>
+<category>Private Equity</category>
+<category>Scott Shleifer</category>
+<category>tiger global</category>
+<category>Tiger Global Management</category>
+<category>venture capital</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632434</guid>
+<description>&lt;p&gt;Tiger Global Management is going through a major management change. Per a message from founder Chase Coleman sent this afternoon to investors of the 22-year-old venture- and hedge-fund outfit and obtained by TechCrunch, Coleman is taking over both the outfit&amp;#8217;s public company investing and private equity businesses, while the longtime head of the latter, Scott [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>是的，为X，Threads，Bluesky和其他应用程序创建了一个跨平台发布应用程序。</title>
+<link>https://techcrunch.com/2023/11/21/yup-hacks-together-a-cross-posting-app-for-x-threads-bluesky-and-others/</link>
+<dc:creator>Sarah Perez</dc:creator>
+<pubDate>Tue, 21 Nov 2023 22:08:55 +0000</pubDate>
+<category>Apps</category>
+<category>Social</category>
+<category>bluesky</category>
+<category>mastodon</category>
+<category>nostr</category>
+<category>social media</category>
+<category>threads</category>
+<category>Twitter</category>
+<category>X</category>
+<category>yup</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632365</guid>
+<description>&lt;p&gt;Decentralized social networking may be the future, but in the meantime, there are a lot of Twitter alternatives to keep up with. A new app called Yup aims to help by offering a single place to read feeds, follow friends across services and cross-post to a range of social apps, including Twitter/X itself, as well [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>OpenAI未来的发展方向任何人都猜不透</title>
+<link>https://techcrunch.com/2023/11/21/where-openai-goes-from-here-is-anyones-guess/</link>
+<dc:creator>Ron Miller</dc:creator>
+<pubDate>Tue, 21 Nov 2023 22:00:35 +0000</pubDate>
+<category>AI</category>
+<category>EC AI</category>
+<category>Microsoft</category>
+<category>OpenAI</category>
+<category>sam altman</category>
+<category>Satya Nadella</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632363</guid>
+<description>&lt;p&gt;OpenAI's fate took a a twist nobody could have imagined last week, and all we can do is watch to see what the final outcome will be.&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>Greg Brockman 仍然以某种原因宣布 OpenAI 的产品</title>
+<link>https://techcrunch.com/2023/11/21/greg-brockman-is-still-announcing-openai-products-for-some-reason/</link>
+<dc:creator>Kyle Wiggers</dc:creator>
+<pubDate>Tue, 21 Nov 2023 21:19:04 +0000</pubDate>
+<category>AI</category>
+<category>Apps</category>
+<category>ChatGPT</category>
+<category>Generative AI</category>
+<category>greg brockman</category>
+<category>OpenAI</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632397</guid>
+<description>&lt;p&gt;Ex-OpenAI president Greg Brockman &amp;#8212; who, as far as we&amp;#8217;re aware, isn&amp;#8217;t currently employed at OpenAI in any capacity &amp;#8212; is posting updates about OpenAI products on X, including one today about ChatGPT&amp;#8217;s voice narration feature being made available to all ChatGPT users. ChatGPT Voice rolled out for all free users. Give it a try [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>创始人们：请注意OpenAI董事会所发生的事情。</title>
+<link>https://techcrunch.com/2023/11/21/openai-governance-board-founders-beware/</link>
+<dc:creator>Dominic-Madori Davis</dc:creator>
+<pubDate>Tue, 21 Nov 2023 21:00:31 +0000</pubDate>
+<category>AI</category>
+<category>Startups</category>
+<category>board</category>
+<category>OpenAI</category>
+<category>sam altman</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632274</guid>
+<description>&lt;p&gt;Though no one knows precisely what happened, a common theory is that Altman’s for-profit efforts became at odds with the mission-driven nonprofit board.&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>币安和首席执行官'CZ'对联邦指控表示认罪，同意支付43亿美元的罚款。</title>
+<link>https://techcrunch.com/2023/11/21/binance-to-pay-4-3b-in-fines-and-ceo-cz-to-step-down-plead-guilty-to-anti-money-laundering-charges/</link>
+<dc:creator>Jacquelyn Melinek</dc:creator>
+<pubDate>Tue, 21 Nov 2023 20:55:32 +0000</pubDate>
+<category>Crypto</category>
+<category>Binance</category>
+<category>cftc</category>
+<category>Changpeng Zhao</category>
+<category>crypto</category>
+<category>CZ</category>
+<category>doj</category>
+<category>SEC</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632153</guid>
+<description>&lt;p&gt;It’s been an eventful week for crypto exchanges and the U.S. government. Changpeng Zhao, also known as “CZ,” the founder and CEO of Binance, is stepping down and has pleaded guilty to a number of violations brought on through the Department of Justice and other U.S. agencies. He appeared in a Seattle federal court on [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>开放AI的混乱是否会促进开源模型的发展？</title>
+<link>https://techcrunch.com/2023/11/21/will-the-openai-chaos-boost-open-source-models/</link>
+<dc:creator>Kyle Wiggers</dc:creator>
+<pubDate>Tue, 21 Nov 2023 20:30:00 +0000</pubDate>
+<category>AI</category>
+<category>Startups</category>
+<category>Venture</category>
+<category>Equity podcast</category>
+<category>matthew lynley</category>
+<category>OpenAI</category>
+<category>sam altman</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632284</guid>
+<description>&lt;p&gt;Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>给年轻学习者和好奇的心灵的20个最好的STEM玩具和游戏作为礼物</title>
+<link>https://techcrunch.com/2023/11/21/the-20-best-stem-toys-to-gift-coders-in-training/</link>
+<dc:creator>Natasha Lomas</dc:creator>
+<pubDate>Tue, 21 Nov 2023 20:05:46 +0000</pubDate>
+<category>Gadgets</category>
+<category>Robotics</category>
+<category>Gift Guide 2023</category>
+<category>STEM toys</category>
+<category>STEM toys gift guide 2023</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2615621</guid>
+<description>&lt;p&gt;There&amp;#8217;s no doubt the STEM toys category has lost a bit of its magic. The hype that started about a decade ago, powering a wave of startups to launch creative and experimental products — pitching parents on dedicated connected hardware and apps to help unlock their kids&amp;#8217; future tech career progression — has faded to [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>卢宝莉莎和安娜哈曼与斯塔兹共同占据耳朵装饰市场。</title>
+<link>https://techcrunch.com/2023/11/21/owning-the-earscape-market-with-lisa-bubbers-and-anna-harman-from-studs/</link>
+<dc:creator>Dominic-Madori Davis</dc:creator>
+<pubDate>Tue, 21 Nov 2023 20:00:53 +0000</pubDate>
+<category>Startups</category>
+<category>brick-and-mortar</category>
+<category>venture capital</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632282</guid>
+<description>&lt;p&gt;Welcome back to Found, where we get to the stories behind the startups. Becca and Dom are joined by Lisa Bubbers and Anna Harman, co-founders of the ear piercing company Studs.&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>OpenAI的董事会可能会同意Sam Altman回归</title>
+<link>https://techcrunch.com/2023/11/21/openais-board-may-be-coming-around-to-sam-altman-returning/</link>
+<dc:creator>Kyle Wiggers</dc:creator>
+<pubDate>Tue, 21 Nov 2023 19:18:01 +0000</pubDate>
+<category>AI</category>
+<category>Startups</category>
+<category>board</category>
+<category>board of directors</category>
+<category>OpenAI</category>
+<category>sam altman</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632260</guid>
+<description>&lt;p&gt;OpenAI&amp;#8217;s board of directors is reportedly in talks with Sam Altman, ex-Y Combinator president and an OpenAI co-founder, to return to OpenAI as CEO as soon as this week. That&amp;#8217;s according to Bloomberg, which in a brief this morning &amp;#8212; citing sources close to the matter &amp;#8212; said that discussions are happening between Quora CEO [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>TC + Roundup：AI 人员可分为两大派系</title>
+<link>https://techcrunch.com/2023/11/21/tc-roundup-ai-folks-fall-into-one-of-two-camps/</link>
+<dc:creator>Karyne Levy</dc:creator>
+<pubDate>Tue, 21 Nov 2023 19:15:44 +0000</pubDate>
+<category>Startups</category>
+<category>Venture</category>
+<category>EC Newsletter</category>
+<category>EC roundup</category>
+<category>OpenAI</category>
+<category>sam altman</category>
+<category>venture</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2631886</guid>
+<description>&lt;p&gt;With the OpenAI drama continuing to deliver exciting headlines on the company’s uncertain future, Thanksgiving week is anything but slow.&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>中国的电动车新秀理想汽车在新加坡寻找芯片人才。</title>
+<link>https://techcrunch.com/2023/11/21/chinas-ev-upstart-li-auto-hunts-for-chip-talent-in-singapore/</link>
+<dc:creator>Rita Liao</dc:creator>
+<pubDate>Tue, 21 Nov 2023 18:57:44 +0000</pubDate>
+<category>AI</category>
+<category>Transportation</category>
+<category>auto chip</category>
+<category>China</category>
+<category>chips</category>
+<category>electric vehicles</category>
+<category>EV</category>
+<category>li auto</category>
+<category>semiconductor</category>
+<guid isPermaLink="false">https://techcrunch.com/?p=2632036</guid>
+<description>&lt;p&gt;Li Auto, an electric vehicle maker adored by young Chinese families, is stepping up its endeavors to build in-house automotive chips and has gone abroad to seek talent for the course. The eight-year-old company is currently hiring five positions in Singapore to develop silicon carbide (SiC) power modules, an electrical component that uses SiC semiconductors [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;© 2023 TechCrunch. All rights reserved. For personal use only.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

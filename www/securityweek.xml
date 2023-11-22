@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>SecurityWeek RSS Feed</title>
+<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml"/>
+<link>https://www.securityweek.com/</link>
+<description>Latest cybersecurity news and expert insights from SecurityWeek's RSS feed</description>
+<lastBuildDate>Tue, 21 Nov 2023 14:42:45 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+<sy:updateFrequency>
+	1	</sy:updateFrequency>
+<generator>https://wordpress.org/?v=6.3.2</generator>
+<image>
+<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
+<title>安全周</title>
+<link>https://www.securityweek.com/</link>
+<width>32</width>
+<height>32</height>
+</image>
+<item>
+<title>LLM安全初创公司拉索退出隐身模式</title>
+<link>https://www.securityweek.com/llm-security-startup-lasso-emerges-from-stealth-mode/</link>
+<dc:creator>Ionut Arghire</dc:creator>
+<pubDate>Tue, 21 Nov 2023 14:42:43 +0000</pubDate>
+<category>Artificial Intelligence</category>
+<category>Data Protection</category>
+<category>Funding/M&amp;A</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35816</guid>
+<description>&lt;p&gt;Lasso Security raises $6 million in seed funding to tackle cyber threats to secure generative AI and large language model algorithms.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/llm-security-startup-lasso-emerges-from-stealth-mode/"&gt;LLM Security Startup Lasso Emerges From Stealth Mode&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>为非联邦关键基础设施实体提供免费的网络安全服务</title>
+<link>https://www.securityweek.com/cisa-offering-free-cybersecurity-services-to-non-federal-critical-infrastructure-entities/</link>
+<dc:creator>Ionut Arghire</dc:creator>
+<pubDate>Tue, 21 Nov 2023 13:42:30 +0000</pubDate>
+<category>Government</category>
+<category>CISA</category>
+<category>critical infrastructure</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35815</guid>
+<description>&lt;p&gt;New CISA pilot program brings cutting-edge cybersecurity services to critical infrastructure entities that need support.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/cisa-offering-free-cybersecurity-services-to-non-federal-critical-infrastructure-entities/"&gt;CISA Offering Free Cybersecurity Services to Non-Federal Critical Infrastructure Entities&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>加拿大军方、警方受到搬家公司数据泄露的影响</title>
+<link>https://www.securityweek.com/canadian-military-police-impacted-by-data-breach-at-moving-companies/</link>
+<dc:creator>Ionut Arghire</dc:creator>
+<pubDate>Tue, 21 Nov 2023 12:38:31 +0000</pubDate>
+<category>Data Breaches</category>
+<category>data breach</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35813</guid>
+<description>&lt;p&gt;Data breach at moving companies impacts Canadian government employees, and military and police personnel.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/canadian-military-police-impacted-by-data-breach-at-moving-companies/"&gt;Canadian Military, Police Impacted by Data Breach at Moving Companies&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>Tor网络移除与加密货币方案相关的风险中继节点。</title>
+<link>https://www.securityweek.com/tor-network-removes-risky-relays-associated-with-cryptocurrency-scheme/</link>
+<dc:creator>Eduard Kovacs</dc:creator>
+<pubDate>Tue, 21 Nov 2023 12:24:47 +0000</pubDate>
+<category>Privacy</category>
+<category>Tor</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35812</guid>
+<description>&lt;p&gt;The Tor network has removed many relays associated with a cryptocurrency scheme, citing risk to integrity and users. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/tor-network-removes-risky-relays-associated-with-cryptocurrency-scheme/"&gt;Tor Network Removes Risky Relays Associated With Cryptocurrency Scheme&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>内幕问答:五角大楼AI负责人谈网络中心化战争，生成式AI挑战</title>
+<link>https://www.securityweek.com/insider-qa-pentagon-ai-chief-on-network-centric-warfare-generative-ai-challenges/</link>
+<dc:creator>Associated Press</dc:creator>
+<pubDate>Tue, 21 Nov 2023 11:13:51 +0000</pubDate>
+<category>Artificial Intelligence</category>
+<category>Cyberwarfare</category>
+<category>AI</category>
+<category>artificial inteligence</category>
+<category>cyberwar</category>
+<category>Featured</category>
+<category>Military</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35798</guid>
+<description>&lt;p&gt;Interview with Craig Martell, Chief Digital and AI Officer (CDAO) for the U.S. Department of Defense, about AI use in the military.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/insider-qa-pentagon-ai-chief-on-network-centric-warfare-generative-ai-challenges/"&gt;Insider Q&amp;#038;A: Pentagon AI Chief on Network-Centric Warfare, Generative AI Challenges&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>自从10年前启动首个赏金计划以来，微软已支付6300万美元。</title>
+<link>https://www.securityweek.com/microsoft-paid-out-63-million-since-launch-of-first-bug-bounty-program-10-years-ago/</link>
+<dc:creator>Ionut Arghire</dc:creator>
+<pubDate>Tue, 21 Nov 2023 11:10:28 +0000</pubDate>
+<category>Vulnerabilities</category>
+<category>bug bounty program</category>
+<category>Microsoft</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35802</guid>
+<description>&lt;p&gt;Over the past ten years, Microsoft has handed out $63 million in rewards as part of its bug bounty programs.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/microsoft-paid-out-63-million-since-launch-of-first-bug-bounty-program-10-years-ago/"&gt;Microsoft Paid Out $63 Million Since Launch of First Bug Bounty Program 10 Years Ago&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>Sumo Logic 完成对最近安全漏洞的调查</title>
+<link>https://www.securityweek.com/sumo-logic-completes-investigation-into-recent-security-breach/</link>
+<dc:creator>Eduard Kovacs</dc:creator>
+<pubDate>Tue, 21 Nov 2023 10:59:28 +0000</pubDate>
+<category>Incident Response</category>
+<category>Sumo Logic</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35801</guid>
+<description>&lt;p&gt;Sumo Logic has completed its investigation into the recent security breach and found no evidence of impact to customer data.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/sumo-logic-completes-investigation-into-recent-security-breach/"&gt;Sumo Logic Completes Investigation Into Recent Security Breach&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>中国国家信息安全局发布了面向医疗保健和公共卫生组织的网络安全指南。</title>
+<link>https://www.securityweek.com/cisa-releases-cybersecurity-guidance-for-healthcare-public-health-organizations/</link>
+<dc:creator>Ionut Arghire</dc:creator>
+<pubDate>Mon, 20 Nov 2023 14:52:02 +0000</pubDate>
+<category>Government</category>
+<category>Security Architecture</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35796</guid>
+<description>&lt;p&gt;New CISA guidance details cyber threats and risks to healthcare and public health organizations and recommends mitigations.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/cisa-releases-cybersecurity-guidance-for-healthcare-public-health-organizations/"&gt;CISA Releases Cybersecurity Guidance for Healthcare, Public Health Organizations&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>根据曝露客户信息的行为，摩根士丹利被罚款650万美元。</title>
+<link>https://www.securityweek.com/morgan-stanley-ordered-to-pay-6-5-million-for-exposing-customer-information/</link>
+<dc:creator>Ionut Arghire</dc:creator>
+<pubDate>Mon, 20 Nov 2023 14:30:09 +0000</pubDate>
+<category>Compliance</category>
+<category>Data Breaches</category>
+<category>data breach</category>
+<category>settlement</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35795</guid>
+<description>&lt;p&gt;Morgan Stanley agrees to pay $6.5 million for exposing personal information through negligent data-security practices.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/morgan-stanley-ordered-to-pay-6-5-million-for-exposing-customer-information/"&gt;Morgan Stanley Fined $6.5 Million for Exposing Customer Information&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+<item>
+<title>微软聘用了山姆·奥尔特曼，并且OpenAI的新首席执行官承诺将调查他的解雇情况。</title>
+<link>https://www.securityweek.com/microsoft-hires-sam-altman-and-openais-new-ceo-vows-to-investigate-his-firing/</link>
+<dc:creator>Associated Press</dc:creator>
+<pubDate>Mon, 20 Nov 2023 13:47:58 +0000</pubDate>
+<category>Artificial Intelligence</category>
+<category>Uncategorized</category>
+<category>AI</category>
+<category>Featured</category>
+<category>Microsoft</category>
+<guid isPermaLink="false">https://www.securityweek.com/?p=35790</guid>
+<description>&lt;p&gt;Microsoft hired Sam Altman and another architect of OpenAI for a new venture after their sudden departures shocked the artificial intelligence world.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.securityweek.com/microsoft-hires-sam-altman-and-openais-new-ceo-vows-to-investigate-his-firing/"&gt;Microsoft Hires Sam Altman and OpenAI’s New CEO Vows to Investigate His Firing&lt;/a&gt; appeared first on &lt;a href="https://www.securityweek.com"&gt;SecurityWeek&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+</channel>
+</rss>

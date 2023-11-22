@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/">
+<channel rdf:about="https://slashdot.org/">
+<title>Slashdot</title>
+<link>https://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
+<dc:date>2023-11-22T06:03:25+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+<rdf:Seq>
+<rdf:li rdf:resource="https://news.slashdot.org/story/23/11/22/0021229/worlds-richest-1-emit-as-much-carbon-as-bottom-two-thirds-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://news.slashdot.org/story/23/11/22/0030259/fcc-proposes-ban-on-cable-and-satellite-early-termination-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://entertainment.slashdot.org/story/23/11/22/0013215/spotify-to-phase-out-service-in-uruguay-following-new-copyright-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://news.slashdot.org/story/23/11/22/007247/third-party-data-breach-affecting-canadian-government-could-involve-data-from-1999?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://yro.slashdot.org/story/23/11/21/2220242/ceo-reminds-everyone-his-company-collects-customers-sleep-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://slashdot.org/story/23/11/21/2213231/massive-cryptocurrency-rig-discovered-under-polish-courts-floor-stealing-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://yro.slashdot.org/story/23/11/21/2146251/sarah-silverman-hits-stumbling-block-in-ai-copyright-infringement-lawsuit-against-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://slashdot.org/story/23/11/21/2137234/openais-board-may-be-coming-around-to-sam-altman-returning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://news.slashdot.org/story/23/11/21/1643221/forest-service-plans-carbon-dioxide-storage-on-federal-lands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://news.slashdot.org/story/23/11/21/1725213/binance-founder-changpeng-zhao-agrees-to-step-down-plead-guilty?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://entertainment.slashdot.org/story/23/11/21/1720237/christopher-nolan-says-streaming-only-content-is-a-danger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://news.slashdot.org/story/23/11/21/1614209/cs-teachers-panic-as-replit-pulls-the-plug-on-educational-ide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://tech.slashdot.org/story/23/11/21/1557246/north-koreans-use-fake-names-scripts-to-land-remote-it-work-for-cash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://yro.slashdot.org/story/23/11/21/1529206/sunbird-is-shutting-down-its-imessage-app-for-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+<rdf:li rdf:resource="https://news.slashdot.org/story/23/11/21/1415258/youtube-says-new-5-second-video-load-delay-is-supposed-to-punish-ad-blockers-not-firefox-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+</rdf:Seq>
+</items>
+<image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif"/>
+<textinput rdf:resource="https://slashdot.org/search.pl"/>
+</channel>
+<image rdf:about="https://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>https://slashdot.org/</link>
+</image>
+<item rdf:about="https://news.slashdot.org/story/23/11/22/0021229/worlds-richest-1-emit-as-much-carbon-as-bottom-two-thirds-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>报告发现，全球最富有的1%人口所排放的碳排放量与最底层的三分之二相当。</title>
+<link>https://news.slashdot.org/story/23/11/22/0021229/worlds-richest-1-emit-as-much-carbon-as-bottom-two-thirds-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader quotes a report from Phys.Org: The richest one percent of the global population are responsible for the same amount of carbon emissions as the world's poorest two-thirds, or five billion people, according to an analysis published Sunday by the nonprofit Oxfam International. [...] Among the key findings of this study are that the richest one percent globally -- 77 million people -- were responsible for 16 percent of global emissions related to their consumption. That is the same share as the bottom 66 percent of the global population by income, or 5.11 billion people. The income threshold for being among the global top one percent was adjusted by country using purchasing power parity -- for example in the United States the threshold would be $140,000, whereas the Kenyan equivalent would be about $40,000. Within country analyses also painted very stark pictures.
+ 
+For example, in France, the richest one percent emit as much carbon in one year as the poorest 50 percent in 10 years. Excluding the carbon associated with his investments, Bernard Arnault, the billionaire founder of Louis Vuitton and richest man in France, has a footprint 1,270 times greater than that of the average Frenchman. The key message, according to Lawson, was that policy actions must be progressive. These measures could include, for example, a tax on flying more than ten times a year, or a tax on non-green investments that is much higher than the tax on green investments.
+ 
+While the current report focused on carbon linked only to individual consumption, "the personal consumption of the super-rich is dwarfed by emissions resulting from their investments in companies," the report found. Nor are the wealthy invested in polluting industries at a similar ratio to any given investor -- billionaires are twice as likely to be invested in polluting industries than the average for the Standard &amp;amp; Poor 500, previous Oxfam research has shown.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=World's+Richest+1%25+Emit+As+Much+Carbon+As+Bottom+Two-Thirds%2C+Report+Finds%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F22%2F0021229%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F22%2F0021229%2Fworlds-richest-1-emit-as-much-carbon-as-bottom-two-thirds-report-finds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/23/11/22/0021229/worlds-richest-1-emit-as-much-carbon-as-bottom-two-thirds-report-finds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138237&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2023-11-22T03:30:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>surprise-surprise</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,30,21,19,1,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/23/11/22/0030259/fcc-proposes-ban-on-cable-and-satellite-early-termination-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FCC提议禁止有线和卫星电视早期终止费用。</title>
+<link>https://news.slashdot.org/story/23/11/22/0030259/fcc-proposes-ban-on-cable-and-satellite-early-termination-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>FCC Chairwoman Jessica Rosenworcel today outlined a new proposal that would ban cable and satellite companies from charging subscribers early termination fees. Deadline reports: Some subscribers who sign contracts with cable and satellite operators face paying early termination fees if they want out of the agreement before the expiration date. The companies put such fees in place to reduce churn. The FCC proposal also would target requirements that subscribers pay for the entire billing cycle when they end their service before that date. The proposal would require that the video providers grant a pro-rated credit for the remaining days in a billing cycle. The proposal applies only to cable and satellite providers, not streaming services. The FCC will vote at its Dec. 13 meeting whether to issue a notice of proposed rulemaking for public comment. Rosenworcel said in a statement: "No one wants to pay junk fees for something they don't want or can't use. When companies charge customers early termination fees, it limits their freedom to choose the service they want. In an increasingly competitive media market, we should make it easier for Americans to use their purchasing power to promote innovation and expand competition within the industry."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FCC+Proposes+Ban+On+Cable+and+Satellite+Early+Termination+Fees%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F22%2F0030259%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F22%2F0030259%2Ffcc-proposes-ban-on-cable-and-satellite-early-termination-fees%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/23/11/22/0030259/fcc-proposes-ban-on-cable-and-satellite-early-termination-fees?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138239&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2023-11-22T01:40:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>cease-and-desist</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>23</slash:comments>
+<slash:hit_parade>23,23,23,22,0,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://entertainment.slashdot.org/story/23/11/22/0013215/spotify-to-phase-out-service-in-uruguay-following-new-copyright-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Spotify将在乌拉圭逐步淘汰服务，随着新的版权法案的出台</title>
+<link>https://entertainment.slashdot.org/story/23/11/22/0013215/spotify-to-phase-out-service-in-uruguay-following-new-copyright-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Laura Snapes reports via The Guardian: Spotify is to phase out its service in Uruguay after the passing of a new music copyright bill requiring "fair and equitable remuneration" for authors, composers, performers, directors and screenwriters. In October, the country's parliament voted on a budget bill that included two new articles: per article 284, social networks and the internet are to be added "as formats for which, if a song is reproduced, the performer is entitled to financial remuneration" -- namely if a link to a song is shared online. Article 285 will put into copyright law the "right to a fair and equitable remuneration" for all "agreements entered into by authors, composers, performers, directors and screenwriters with respect to their faculty of public communication and making available to the public of phonograms and audiovisual recordings."
+ 
+In response, Spotify said in a statement on November 20 that without changes to the 2023 Rendicion de Cuentas law, the streaming platform "will, unfortunately, begin to phase out its service in Uruguay effective January 1, 2024" and cease trading in the market in February 2024. The Swedish company seeks confirmation on whether additional costs to be paid to musicians are the responsibility of rights holders or the streaming platforms, arguing that the latter means that it would be required "to pay twice for the same music," Music Business Worldwide reports. The statement continued: "Spotify already pays nearly 70% of every dollar it generates from music to the record labels and publishers that own the rights for music, and represent and pay artists and songwriters. Any additional payments would make our business untenable." The platform claimed that it had contributed to a 20% growth in Uruguay's music industry in 2022. That year, the South American nation was the 53rd largest market for music.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Spotify+To+Phase+Out+Service+In+Uruguay+Following+New+Copyright+Bill%3A+https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F23%2F11%2F22%2F0013215%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F23%2F11%2F22%2F0013215%2Fspotify-to-phase-out-service-in-uruguay-following-new-copyright-bill%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/23/11/22/0013215/spotify-to-phase-out-service-in-uruguay-following-new-copyright-bill?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138221&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2023-11-22T01:00:00+00:00</dc:date>
+<dc:subject>music</dc:subject>
+<slash:department>phased-out</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>23</slash:comments>
+<slash:hit_parade>23,22,21,16,2,1,1</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/23/11/22/007247/third-party-data-breach-affecting-canadian-government-could-involve-data-from-1999?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>第三方数据泄漏对加拿大政府造成影响，并可能涉及1999年的数据</title>
+<link>https://news.slashdot.org/story/23/11/22/007247/third-party-data-breach-affecting-canadian-government-could-involve-data-from-1999?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Connor Jones reports via The Register: The government of Canada has confirmed its data was accessed after two of its third-party service providers were attacked. The third parties both provided relocation services for public sector workers and the government is currently analyzing a "significant volume of data" which could date back to 1999. No formal conclusions have yet been made about the number of workers impacted due to the large-scale task of analyzing the relevant data. However, the servers impacted by the breach held data related to current and former Canadian government staff, members of the Canadian armed forces, and Royal Canadian Mounted Police workers -- aka Mounties.
+ 
+"At this time, given the significant volume of data being assessed, we cannot yet identify specific individuals impacted; however, preliminary information indicates that breached information could belong to anyone who has used relocation services as early as 1999 and may include any personal and financial information that employees provided to the companies," a government statement read. Those who think they may be affected are advised to update any login details that may be similar to those used to access BGRS or Sirva's systems. Enabling MFA across all accounts that are used for online transactions is also advised, as is the manual monitoring of personal accounts for any potential malicious activity. Work is currently being carried out to identify and address any vulnerabilities that may have led to the incident, according to the statement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Third-Party+Data+Breach+Affecting+Canadian+Government+Could+Involve+Data+From+1999%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F22%2F007247%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F22%2F007247%2Fthird-party-data-breach-affecting-canadian-government-could-involve-data-from-1999%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/23/11/22/007247/third-party-data-breach-affecting-canadian-government-could-involve-data-from-1999?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138213&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2023-11-22T00:20:00+00:00</dc:date>
+<dc:subject>canada</dc:subject>
+<slash:department>decades-old-data</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>2</slash:comments>
+<slash:hit_parade>2,2,2,2,0,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://yro.slashdot.org/story/23/11/21/2220242/ceo-reminds-everyone-his-company-collects-customers-sleep-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>首席执行官提醒大家，他的公司收集顾客的睡眠数据。</title>
+<link>https://yro.slashdot.org/story/23/11/21/2220242/ceo-reminds-everyone-his-company-collects-customers-sleep-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader quotes a report from 404 Media: Matteo Franceschetti, the CEO of Eight Sleep, which makes the $2,295 smart mattress topper "The Pod" tweeted: "Breaking news: The OpenAI drama is real. We checked our data and last night, SF saw a spike in low-quality sleep. There was a 27 percent increase in people getting under 5 hours of sleep. We need to fix this. Source: @eightsleep data." Franceschetti's tweet reminds us that The Pod is essentially a mattress with both a privacy policy and a terms of service, and that the data Eight Sleep collects about its users can and is used to further its business goals. It's also a reminder that many apps, smart devices, and apps for smart devices collect a huge amount of user data that they can then directly monetize or deploy for marketing or Twitter virality purposes whenever they feel like it.
+ 
+The Pod does "intelligent cooling and heating for any bed," and learns and adjusts the temperature of the bed based on your sleep habits, tracks your sleep and vital signs while you sleep, and gives you a "Sleep Fitness Score" based on your quality, routine, and time of sleep. As someone who often does not sleep well, The Pod is a compelling product that I cannot currently afford. Quickly, to get it out of the way: Eight Sleep's data does not and cannot actually show that "San Francisco" had a spike in low-quality sleep. What it shows is that people in San Francisco who have purchased a $2,295 smart mattress topper and have not successfully opted out of Eight Sleep's analytics -- a group that surely overindexes on tech workers -- slept less Sunday night.
+ 
+The top of Eight Sleep's terms of service states "At Eight Sleep we pledge to respect your privacy and to keep your data safe. We only collect data that helps us improve our products and services." Both Eight Sleep's privacy policy and terms of service then go on to note that the company collects a huge amount of data that can be used for a wide variety of purposes, including marketing, retargeting, and scientific studies. It can also, apparently, be used by the CEO for commenting on the day's tech news. Specifically, the company notes that "data about your sleep activity is transferred from your Device to our servers" every time the Pod's app syncs with the Pod. Certain features on the device also require location data "including GPS signals, device sensors, Wi-Fi access points, and cell tower IDs." This data is then used to give users personalized sleep recommendations, but they are also "used in research to understand and improve the Eight Device and Eight Service," "to enforce the Eight Terms of Service," and, critically, "de-identified data that does not identify you may be used to inform the health and scientific community about trends; for marketing and promotional use; or for sale to interested audiences." The terms of service add that it "may share or sell" this data.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=CEO+Reminds+Everyone+His+Company+Collects+Customers'+Sleep+Data%3A+https%3A%2F%2Fyro.slashdot.org%2Fstory%2F23%2F11%2F21%2F2220242%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F23%2F11%2F21%2F2220242%2Fceo-reminds-everyone-his-company-collects-customers-sleep-data%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/23/11/21/2220242/ceo-reminds-everyone-his-company-collects-customers-sleep-data?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138121&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2023-11-21T23:40:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>how-you-sleep-can-and-will-be-used-against-you-in-a-court-of-law</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>40</slash:comments>
+<slash:hit_parade>40,40,32,30,4,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://slashdot.org/story/23/11/21/2213231/massive-cryptocurrency-rig-discovered-under-polish-courts-floor-stealing-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>大规模的加密货币挖矿设备在波兰法院的地板下被发现，盗取电力。</title>
+<link>https://slashdot.org/story/23/11/21/2213231/massive-cryptocurrency-rig-discovered-under-polish-courts-floor-stealing-power?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>According to Polish news channel TVN24, a secret cryptomining rig was found under the floors of a Polish court, stealing thousands of Polish Zlotys worth of energy per month (the equivalent of roughly $250 per 1,000 Zlotys). "It's currently unknown how long the rig was running because the illegal operation went undetected, partly because the computers used were connected to the Internet through their own modems rather than through the court's network," reports Ars Technica. From the report: While no one has been charged yet with any crimes, the court seemingly has suspects. Within two weeks of finding the rig, the court terminated a contract with a company responsible for IT maintenance in the building, TVN24 reported. Before the contract ended, the company fired two employees that it said were responsible for maintenance in the parts of the building where the cryptomine was hidden. Poland's top law enforcement officials, the Internal Security Agency, have been called in to investigate. The Warsaw District Prosecutor's Office has hired IT experts to help determine exactly how much electricity was stolen from Poland's Supreme Administrative Court in Warsaw, TVN24 reported.
+ 
+The Supreme Administrative Court is the last resort for sensitive business and tax disputes, but no records seem to have been compromised. Judge Sylwester Marciniak -- the chairman of the Judicial Information Department of the Supreme Administrative Court -- told TVN24 that the discovery of the cryptomine "did not result in any threat to the security of data stored" in the court.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Massive+Cryptocurrency+Rig+Discovered+Under+Polish+Court's+Floor%2C+Stealing+Power%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F23%2F11%2F21%2F2213231%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F23%2F11%2F21%2F2213231%2Fmassive-cryptocurrency-rig-discovered-under-polish-courts-floor-stealing-power%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/23/11/21/2213231/massive-cryptocurrency-rig-discovered-under-polish-courts-floor-stealing-power?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138107&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2023-11-21T23:00:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>hide-and-seek</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>16</slash:comments>
+<slash:hit_parade>16,16,14,12,1,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://yro.slashdot.org/story/23/11/21/2146251/sarah-silverman-hits-stumbling-block-in-ai-copyright-infringement-lawsuit-against-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Sarah Silverman在针对Meta的人工智能版权侵权诉讼中遇到了难题。</title>
+<link>https://yro.slashdot.org/story/23/11/21/2146251/sarah-silverman-hits-stumbling-block-in-ai-copyright-infringement-lawsuit-against-meta?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Winston Cho writes via The Hollywood Reporter: A federal judge has dismissed most of Sarah Silverman's lawsuit against Meta over the unauthorized use of authors' copyrighted books to train its generative artificial intelligence model, marking the second ruling from a court siding with AI firms on novel intellectual property questions presented in the legal battle. U.S. District Judge Vince Chhabria on Monday offered a full-throated denial of one of the authors' core theories that Meta's AI system is itself an infringing derivative work made possible only by information extracted from copyrighted material. "This is nonsensical," he wrote in the order. "There is no way to understand the LLaMA models themselves as a recasting or adaptation of any of the plaintiffs' books."
+ 
+Another of Silverman's arguments that every result produced by Meta's AI tools constitutes copyright infringement was dismissed because she didn't offer evidence that any of the outputs "could be understood as recasting, transforming, or adapting the plaintiffs' books." Chhabria gave her lawyers a chance to replead the claim, along with five others that weren't allowed to advance. Notably, Meta didn't move to dismiss the allegation that the copying of books for purposes of training its AI model rises to the level of copyright infringement. In July, Silverman and two authors filed a class action lawsuit against Meta and OpenAI for allegedly using their content without permission to train AI language models.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Sarah+Silverman+Hits+Stumbling+Block+in+AI+Copyright+Infringement+Lawsuit+Against+Meta%3A+https%3A%2F%2Fyro.slashdot.org%2Fstory%2F23%2F11%2F21%2F2146251%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F23%2F11%2F21%2F2146251%2Fsarah-silverman-hits-stumbling-block-in-ai-copyright-infringement-lawsuit-against-meta%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/23/11/21/2146251/sarah-silverman-hits-stumbling-block-in-ai-copyright-infringement-lawsuit-against-meta?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138073&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2023-11-21T22:20:00+00:00</dc:date>
+<dc:subject>court</dc:subject>
+<slash:department>dismissed-allegations</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>61</slash:comments>
+<slash:hit_parade>61,61,47,43,6,3,0</slash:hit_parade>
+</item>
+<item rdf:about="https://slashdot.org/story/23/11/21/2137234/openais-board-may-be-coming-around-to-sam-altman-returning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>OpenAI的董事会可能开始考虑让Sam Altman回归</title>
+<link>https://slashdot.org/story/23/11/21/2137234/openais-board-may-be-coming-around-to-sam-altman-returning?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader quotes a report from TechCrunch: OpenAI's board of directors is reportedly in talks with Sam Altman, ex-Y Combinator president and an OpenAI co-founder, to return to OpenAI as CEO as soon as this week. That's according to Bloomberg, which in a brief this morning -- citing sources close to the matter -- said that discussions are happening between Quora CEO Adam D'Angelo, one current member of the OpenAI board, and Altman -- and possibly other board members as well. Per Bloomberg, the board member (or members) and Altman are discussing a number of possible scenarios that could play out. In one, Altman would return as a director on a transitional board. In another -- or perhaps the same -- former Salesforce Inc. co-CEO Bret Taylor could serve as a director on a new board. (Taylor's name was floated as a potential future OpenAI board member in some reporting over the weekend.)
+ 
+Investors are also in on the talks, Bloomberg reports, with Thrive Capital, Khosla Ventures, Tiger Global Management and Sequoia Capital aggressively pushing for Altman's return. The hope is to resolve the management crisis before Thanksgiving, so as to give OpenAI employees less uncertainty around the state of the company -- and stem the broader bleeding. Were Altman to return to OpenAI, he'd presumably renege on his acceptance of Microsoft's offer to head up a new AI research lab at the tech giant with Greg Brockman, OpenAI's former president, who resigned in protest with Altman on Friday. Altman is said to have demanded "significant" managerial and governance changes at OpenAI as a condition of returning, a demand which many OpenAI backers -- including Microsoft -- share.
+ 
+Today's developments follow a memo sent by OpenAI VP of global affairs Anna Makanju late Monday indicating that OpenAI's management had been in "intense discussions" with the board, Altman and interim CEO Emmett Shear, who took over from OpenAI CTO Mira Murati, to attempt to re-unify the company. Shear has reportedly been left in the dark for the most part, indicating to Bloomberg sources that he doesn't plan to stick around if the board can't clearly communicate its reasoning for Altman's abrupt dismissal. Shear previously said in a note to employees Sunday that his first order of business would be to "hire an independent investigator to dig into the entire process leading up to this point and generate a full report."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=OpenAI's+Board+May+Be+Coming+Around+To+Sam+Altman+Returning%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F23%2F11%2F21%2F2137234%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F23%2F11%2F21%2F2137234%2Fopenais-board-may-be-coming-around-to-sam-altman-returning%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/23/11/21/2137234/openais-board-may-be-coming-around-to-sam-altman-returning?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138071&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2023-11-21T21:40:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>wild-ride</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>26</slash:comments>
+<slash:hit_parade>26,26,22,19,4,2,0</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/23/11/21/1643221/forest-service-plans-carbon-dioxide-storage-on-federal-lands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>森林服务计划在联邦土地上进行二氧化碳储存</title>
+<link>https://news.slashdot.org/story/23/11/21/1643221/forest-service-plans-carbon-dioxide-storage-on-federal-lands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader shares a report: In recent years, lots of American companies have gotten behind a potential climate solution called carbon capture and storage, and the Biden administration has backed it with billions of dollars in tax incentives and direct investments. The idea is to trap planet-heating carbon dioxide from the smokestacks of factories and power plants and transport it to sites where it is injected underground and stored. But the idea is controversial, in large part because the captured carbon dioxide would be shipped to storage sites via thousands of miles of new pipelines. Communities nationwide are pushing back against these pipeline projects and underground sites, arguing they don't want the pollution running through their land. 
+
+Now the U.S. Forest Service is proposing to change a rule to allow storing this carbon dioxide pollution under the country's national forests and grasslands. "Authorizing carbon capture and storage on NFS lands would support the Administration's goal to reduce greenhouse gas emissions by 50 percent below the 2005 levels by 2030," the proposed rule change says. But environmental groups and researchers have concerns. Carbon dioxide pollution will still need to be transported to the forests via industrial pipeline for storage, says June Sekera, a research fellow with Boston University. "To get the CO2 to the injection site in the midst of our national forest, they've got to build huge pipelines," Sekera says. "All this huge industrial infrastructure that's going to go right through." Sekera says building those CO2 pipelines may require clearing a lot of trees.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Forest+Service+Plans+Carbon+Dioxide+Storage+on+Federal+Lands%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F21%2F1643221%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F21%2F1643221%2Fforest-service-plans-carbon-dioxide-storage-on-federal-lands%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/23/11/21/1643221/forest-service-plans-carbon-dioxide-storage-on-federal-lands?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138039&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2023-11-21T18:40:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>how-about-that</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>84</slash:comments>
+<slash:hit_parade>84,83,65,58,9,5,2</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/23/11/21/1725213/binance-founder-changpeng-zhao-agrees-to-step-down-plead-guilty?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>币安创始人赵长鹏同意辞职，并表示愿意认罪。</title>
+<link>https://news.slashdot.org/story/23/11/21/1725213/binance-founder-changpeng-zhao-agrees-to-step-down-plead-guilty?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>The chief executive of Binance, the largest global cryptocurrency exchange, plans to step down and plead guilty to violating criminal U.S. anti-money laundering requirements, in a deal that may preserve the company's ability to continue operating, WSJ reported Tuesday, citing people familiar with the matter. From the report: Changpeng Zhao is scheduled to appear in Seattle federal court Tuesday afternoon and enter his plea, the people said. Binance, which Zhao owns, will also plead guilty to a criminal charge and agree to pay fines totaling $4.3 billion, which includes amounts to settle civil allegations made by regulators, the people said. The deal would end long-running investigations of Binance. [...] The deal would allow Zhao to retain his majority ownership of Binance, although he won't be able to have an executive role at the company. He would face sentencing at a later date.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Binance+Founder+Changpeng+Zhao+Agrees+To+Step+Down%2C+Plead+Guilty%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F21%2F1725213%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F21%2F1725213%2Fbinance-founder-changpeng-zhao-agrees-to-step-down-plead-guilty%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/23/11/21/1725213/binance-founder-changpeng-zhao-agrees-to-step-down-plead-guilty?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138043&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2023-11-21T17:25:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>breaking-news</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,31,30,29,2,2,0</slash:hit_parade>
+</item>
+<item rdf:about="https://entertainment.slashdot.org/story/23/11/21/1720237/christopher-nolan-says-streaming-only-content-is-a-danger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>克里斯托弗·诺兰表示，仅有流媒体内容是一种“危险”。</title>
+<link>https://entertainment.slashdot.org/story/23/11/21/1720237/christopher-nolan-says-streaming-only-content-is-a-danger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader writes: Christopher Nolan made headlines earlier this month when he took a playful jab at streaming platforms while discussing the upcoming home release of "Oppenheimer." The atomic bomb drama, which grossed a staggering $950 million in theaters worldwide, is hitting Blu-ray and other digital platforms this month. Nolan said at a recent "Oppenheimer" screening that it's important to own the film on Blu-ray so that "no evil streaming service can come steal it from you." He told The Washington Post in a follow-up interview: "It was a joke when I said it. But nothing's a joke when it's transcribed onto the internet. There is a danger, these days, that if things only exist in the streaming version they do get taken down, they come and go," the director added. 
+
+Streamers have become notoriously known in the last year for pulling original titles from their platforms in order to license them out elsewhere and open up potential revenue streams. When such titles are streaming-only offerings, their removal makes it impossible to view the films elsewhere. Such was the case this year with the Disney+ movie "Crater," for instance. The streaming-only family adventure was pulled from Disney+ in June and could not be viewed anywhere until it was reissued as a digital release months later in September. For Nolan, owning physical media is the only way to combat such streaming trends. Guillermo del Toro agrees, having shared Nolan's recent quotes on X (formerly Twitter) and adding his own commentary on the issue. "Physical media is almost a Fahrenheit 451 (where people memorized entire books and thus became the book they loved) level of responsibility," del Toro wrote to his followers. "If you own a great 4K HD, Blu-ray, DVD etc etc of a film or films you love...you are the custodian of those films for generations to come."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Christopher+Nolan+Says+Streaming-Only+Content+Is+a+'Danger'%3A+https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F23%2F11%2F21%2F1720237%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F23%2F11%2F21%2F1720237%2Fchristopher-nolan-says-streaming-only-content-is-a-danger%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/23/11/21/1720237/christopher-nolan-says-streaming-only-content-is-a-danger?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138041&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2023-11-21T17:20:00+00:00</dc:date>
+<dc:subject>movies</dc:subject>
+<slash:department>how-about-that</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>102</slash:comments>
+<slash:hit_parade>102,102,87,75,9,4,1</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/23/11/21/1614209/cs-teachers-panic-as-replit-pulls-the-plug-on-educational-ide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>CS老师恐慌，Replit关闭了教育IDE。</title>
+<link>https://news.slashdot.org/story/23/11/21/1614209/cs-teachers-panic-as-replit-pulls-the-plug-on-educational-ide?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Computer science teachers around the globe have been left scrambling to find an alternative IDE for their students, after Replit announced it was shuttering its Teams for Education plan. From a report: "To focus on improving the Replit experience for all users, we have made the difficult decision to deprecate Teams for Edu ... Teams for Edu will no longer receive new features or bug fixes, and we will suspend the creation of new Teams and Orgs," a statement from Replit, shared with educators and brought to our attention on Monday by Reg readers, declared last week. The platform provided a collaborative integrated development environment (IDE) tailored toward classrooms. It allowed students to work together on projects at the same time, similar to Google Docs, as well as automating code evaluation to streamline assessments carried out by teachers. 
+
+The decision has sparked frustration among many educators who'd invested heavily in the platform since Replit made the plan available for free in early 2022. "Computer science teachers in the last 48 hours have had to scramble to try to find alternatives as soon as possible and it will be the students that suffer," a teacher based in Asia-Pacific told The Register. "Replit was the only organization we are aware of providing online coding with instant assessment and so it was a hugely popular choice with computer science teachers." In a Xeet last week, CEO Amjad Masad acknowledged the pain the decision to shut down Teams for Education was likely to cause, but said the current system had become economically nonviable.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=CS+Teachers+Panic+as+Replit+Pulls+the+Plug+on+Educational+IDE%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F21%2F1614209%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F21%2F1614209%2Fcs-teachers-panic-as-replit-pulls-the-plug-on-educational-ide%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/23/11/21/1614209/cs-teachers-panic-as-replit-pulls-the-plug-on-educational-ide?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138029&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2023-11-21T16:40:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>51</slash:comments>
+<slash:hit_parade>51,51,44,42,8,2,0</slash:hit_parade>
+</item>
+<item rdf:about="https://tech.slashdot.org/story/23/11/21/1557246/north-koreans-use-fake-names-scripts-to-land-remote-it-work-for-cash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>北朝鲜人使用假名字和剧本来获得远程IT工作以获取现金。</title>
+<link>https://tech.slashdot.org/story/23/11/21/1557246/north-koreans-use-fake-names-scripts-to-land-remote-it-work-for-cash?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Using fake names, sham LinkedIn profiles, counterfeit work papers and mock interview scripts, North Korean IT workers seeking employment in Western tech companies are deploying sophisticated subterfuge to get hired. From a report: Landing a job outside North Korea to secretly earn hard currency for the isolated country demands highly-developed strategies to convince Western hiring managers, according to documents reviewed by Reuters, an interview with a former North Korean IT worker and cybersecurity researchers. North Korea has dispatched thousands of IT workers overseas, an effort that has accelerated in the last four years, to bring in millions to finance Pyongyang's nuclear missile programme, according to the United States, South Korea, and the United Nations. 
+
+"People are free to express ideas and opinions," reads one interview script used by North Korean software developers that offers suggestions for how to describe a "good corporate culture" when asked. Expressing one's thoughts freely could be met with imprisonment in North Korea. The scripts totalling 30 pages, were unearthed by researchers at Palo Alto Networks, a U.S. cybersecurity firm which discovered a cache of internal documents online that detail the workings of North Korea's remote IT workforce. The documents contain dozens of fraudulent resumes, online profiles, interview notes, and forged identities that North Korean workers used to apply for jobs in software development.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=North+Koreans+Use+Fake+Names%2C+Scripts+To+Land+Remote+IT+Work+For+Cash%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F23%2F11%2F21%2F1557246%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F23%2F11%2F21%2F1557246%2Fnorth-koreans-use-fake-names-scripts-to-land-remote-it-work-for-cash%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/23/11/21/1557246/north-koreans-use-fake-names-scripts-to-land-remote-it-work-for-cash?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138025&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2023-11-21T16:00:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>51</slash:comments>
+<slash:hit_parade>51,49,47,44,3,1,0</slash:hit_parade>
+</item>
+<item rdf:about="https://yro.slashdot.org/story/23/11/21/1529206/sunbird-is-shutting-down-its-imessage-app-for-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>翻译：Sunbird将关闭其在Android上的iMessage应用。</title>
+<link>https://yro.slashdot.org/story/23/11/21/1529206/sunbird-is-shutting-down-its-imessage-app-for-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Sunbird, the app that brings iMessage to Android, has temporarily shut down the service over "security concerns." From a report: In a notice to users, Sunbird says it has "decided to pause Sunbird usage for now" while it investigates reports that its messages aren't actually end-to-end encrypted. Sunbird launched in 2022 as a messaging app that attempts to put the blue versus green bubble battle to rest. It has only been available to those who sign up for its waitlist, touting numerous privacy features, like end-to-end encryption, no message data collection, and no ads. 
+
+Last week, Sunbird partnered with Nothing, the phone brand owned by OnePlus co-founder Carl Pei, on the launch of Nothing Chats. The Sunbird-powered messaging service is supposed to let owners of the Phone 2 send texts via iMessage, but it was pulled from the Google Play Store just one day after its launch. At the time, Nothing said it had to fix "several bugs" within the app. However, its removal from the Play Store came around the same time a post from Texts.blog revealed that messages sent via Sunbird may not be end-to-end encrypted.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Sunbird+is+Shutting+Down+Its+iMessage+App+for+Android%3A+https%3A%2F%2Fyro.slashdot.org%2Fstory%2F23%2F11%2F21%2F1529206%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F23%2F11%2F21%2F1529206%2Fsunbird-is-shutting-down-its-imessage-app-for-android%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/23/11/21/1529206/sunbird-is-shutting-down-its-imessage-app-for-android?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138021&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2023-11-21T15:28:00+00:00</dc:date>
+<dc:subject>encryption</dc:subject>
+<slash:department>tough-luck</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>10</slash:comments>
+<slash:hit_parade>10,10,10,9,0,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/23/11/21/1415258/youtube-says-new-5-second-video-load-delay-is-supposed-to-punish-ad-blockers-not-firefox-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>YouTube表示新的5秒视频加载延迟是为了惩罚广告拦截软件，而不是火狐浏览器用户。</title>
+<link>https://news.slashdot.org/story/23/11/21/1415258/youtube-says-new-5-second-video-load-delay-is-supposed-to-punish-ad-blockers-not-firefox-users?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader shares a report: Firefox users across the internet say that they are encountering an "artificial" five-second load time when they try to watch YouTube videos that exists on Firefox, but not Chrome. Google, meanwhile, told 404 Media that this is all part of its larger effort against ad blockers, and that it doesn't have anything to do with Firefox at all. [...] Mozilla, which makes Firefox, told 404 Media that it does not believe this is a Firefox-specific issue. Enough people have posted about it, however, that it is clearly happening for some users and not others. 
+
+In a statement to 404 Media, Google did not provide specifics but also did not deny implementing an artificial wait time. "To support a diverse ecosystem of creators globally and allow billions to access their favorite content on YouTube, we've launched an effort to urge viewers with ad blockers enabled to allow ads on YouTube or try YouTube Premium for an ad free experience, the spokesperson said. "Users who have ad blockers installed may experience suboptimal viewing, regardless of the browser they are using."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=YouTube+Says+New+5-Second+Video+Load+Delay+Is+Supposed+to+Punish+Ad+Blockers%2C+Not+Firefox+Users%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F21%2F1415258%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F23%2F11%2F21%2F1415258%2Fyoutube-says-new-5-second-video-load-delay-is-supposed-to-punish-ad-blockers-not-firefox-users%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/23/11/21/1415258/youtube-says-new-5-second-video-load-delay-is-supposed-to-punish-ad-blockers-not-firefox-users?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23138019&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2023-11-21T14:40:00+00:00</dc:date>
+<dc:subject>youtube</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>178</slash:comments>
+<slash:hit_parade>178,177,160,139,29,14,10</slash:hit_parade>
+</item>
+<textinput rdf:about="https://slashdot.org/search.pl">
+<title>搜索Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>

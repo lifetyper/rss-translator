@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>Threatpost</title>
+<atom:link href="https://threatpost.com/feed/" rel="self" type="application/rss+xml"/>
+<link>https://threatpost.com</link>
+<description>The First Stop For Security News</description>
+<lastBuildDate>Wed, 31 Aug 2022 12:57:48 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+<sy:updateFrequency>
+	1	</sy:updateFrequency>
+<generator>https://wordpress.org/?v=6.3.2</generator>
+<atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/><atom:link href="https://pubsubhubbub.superfeedr.com" rel="hub"/><atom:link href="https://websubhub.com/hub" rel="hub"/> <item>
+<title>Student Loan Breach Exposes 2.5M Records</title>
+<link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
+<dc:creator>Nate Nelson</dc:creator>
+<pubDate>Wed, 31 Aug 2022 12:57:48 +0000</pubDate>
+<category>Breach</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180492</guid>
+<description>2.5 million people were affected, in a breach that could spell more trouble down the line.</description>
+<media:content height="1063" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data.jpg" width="1600" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="680" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data-1024x680.jpg" width="1024" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="199" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data-300x199.jpg" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2015/02/07005821/data-150x150.jpg" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+<item>
+<title>Watering Hole Attacks Push ScanBox Keylogger</title>
+<link>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</link>
+<dc:creator>Nate Nelson</dc:creator>
+<pubDate>Tue, 30 Aug 2022 16:00:43 +0000</pubDate>
+<category>Malware</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180490</guid>
+<description>Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.</description>
+<media:content height="600" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-e1585688492540.jpg" width="800" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="600" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-e1585688492540.jpg" width="800" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="225" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-300x225.jpg" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/03/31170116/watering-hole-150x150.jpg" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+<item>
+<title>Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+<link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+<dc:creator>Nate Nelson</dc:creator>
+<pubDate>Mon, 29 Aug 2022 14:56:19 +0000</pubDate>
+<category>Hacks</category>
+<category>Privacy</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180487</guid>
+<description>Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.</description>
+<media:content height="533" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-e1591110643368.jpg" width="800" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="683" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-1024x683.jpg" width="1024" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="200" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-300x200.jpg" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-150x150.jpg" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+<item>
+<title>勒索软件攻击正在增长</title>
+<link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
+<dc:creator>Nate Nelson</dc:creator>
+<pubDate>Fri, 26 Aug 2022 16:44:27 +0000</pubDate>
+<category>Malware</category>
+<category>Vulnerabilities</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180481</guid>
+<description>Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.</description>
+<media:content height="420" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420.png" width="700" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="420" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420.png" width="700" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="180" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420-300x180.png" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420-150x150.png" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+<item>
+<title>Cybercriminals Are Selling Access to Chinese Surveillance Cameras</title>
+<link>https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/</link>
+<dc:creator>Nate Nelson</dc:creator>
+<pubDate>Thu, 25 Aug 2022 18:47:15 +0000</pubDate>
+<category>IoT</category>
+<category>Privacy</category>
+<category>Vulnerabilities</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180478</guid>
+<description>Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.</description>
+<media:content height="395" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot.jpg" width="640" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="395" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot.jpg" width="640" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="185" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot-300x185.jpg" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot-150x150.jpg" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+<item>
+<title>Twitter举报者投诉：简短版本</title>
+<link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
+<dc:creator>Threatpost</dc:creator>
+<pubDate>Wed, 24 Aug 2022 14:17:04 +0000</pubDate>
+<category>Government</category>
+<category>Privacy</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180472</guid>
+<description>Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk. </description>
+<media:content height="400" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability.jpg" width="700" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="400" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability.jpg" width="700" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="171" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability-300x171.jpg" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/24101017/Twitter-vulnerability-150x150.jpg" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+<item>
+<title>防火墙漏洞正在遭到激烈攻击，引发CISA的警告。</title>
+<link>https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</link>
+<dc:creator>Threatpost</dc:creator>
+<pubDate>Tue, 23 Aug 2022 13:19:58 +0000</pubDate>
+<category>Vulnerabilities</category>
+<category>Web Security</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180467</guid>
+<description>CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP. </description>
+<media:content height="450" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-e1653560961632.jpg" width="800" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="576" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-1024x576.jpg" width="1024" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="169" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-300x169.jpg" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-150x150.jpg" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+<item>
+<title>Fake Reservation Links Prey on Weary Travelers</title>
+<link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
+<dc:creator>Nate Nelson</dc:creator>
+<pubDate>Mon, 22 Aug 2022 13:59:06 +0000</pubDate>
+<category>Malware</category>
+<category>Web Security</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180462</guid>
+<description>Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels. </description>
+<media:content height="268" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1.jpg" width="600" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="268" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1.jpg" width="600" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="134" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1-300x134.jpg" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1-150x150.jpg" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+<item>
+<title>苹果手机用户被敦促更新到修补程序2个零日漏洞版本</title>
+<link>https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/</link>
+<dc:creator>Elizabeth Montalbano</dc:creator>
+<pubDate>Fri, 19 Aug 2022 15:25:56 +0000</pubDate>
+<category>Hacks</category>
+<category>Mobile Security</category>
+<category>News</category>
+<category>Vulnerabilities</category>
+<category>Apple iPhone</category>
+<category>Apple vulnerabilities</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180448</guid>
+<description>Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.</description>
+<media:content height="436" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day.jpeg" width="775" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="436" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day.jpeg" width="775" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="169" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day-300x169.jpeg" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/27112232/zero-day-150x150.jpeg" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+<item>
+<title>谷歌修复了今年第五个零日漏洞。</title>
+<link>https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/</link>
+<dc:creator>Elizabeth Montalbano</dc:creator>
+<pubDate>Thu, 18 Aug 2022 14:31:38 +0000</pubDate>
+<category>Vulnerabilities</category>
+<category>Web Security</category>
+<category>Google Chrome</category>
+<category>zero-day vulnerabilities</category>
+<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=180432</guid>
+<description>An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.</description>
+<media:content height="412" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg" width="700" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>full</media:keywords></media:content>
+<media:content height="412" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg" width="700" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>large</media:keywords></media:content>
+<media:content height="177" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch-300x177.jpg" width="300" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>medium</media:keywords></media:content>
+<media:content height="150" url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch-150x150.jpg" width="150" xmlns:media="http://search.yahoo.com/mrss/"><media:keywords>thumbnail</media:keywords></media:content>
+</item>
+</channel>
+</rss>

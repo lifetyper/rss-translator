@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>Security Affairs</title>
+<atom:link href="https://securityaffairs.com/feed" rel="self" type="application/rss+xml"/>
+<link>https://securityaffairs.com/</link>
+<description>Read, think, share … Security is everyone's responsibility</description>
+<lastBuildDate>Tue, 21 Nov 2023 19:20:17 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+<sy:updateFrequency>
+	1	</sy:updateFrequency>
+<generator>https://wordpress.org/?v=6.4.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">29506073</site> <item>
+<title>Tor项目移除了与可疑加密货币计划有关的几个中继节点。</title>
+<link>https://securityaffairs.com/154535/digital-id/tor-project-removed-relays.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Tue, 21 Nov 2023 19:20:15 +0000</pubDate>
+<category>Breaking News</category>
+<category>Digital ID</category>
+<category>cryptocurrency</category>
+<category>Cybercrime</category>
+<category>Hacking</category>
+<category>hacking news</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>Pierluigi Paganini</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<category>Tor Project</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154535</guid>
+<description>The Tor Project removed several relays that were used as part of a cryptocurrency scheme and represented a threat to the users.  The Tor Project announced the removal of multiple network relays that were involved in a cryptocurrency scheme. A Tor network relay is a server that operates within the Tor network and routes data [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;The Tor Project removed several relays that were used as part of a cryptocurrency scheme and represented a threat to the users. &lt;/h2&gt;
+
+
+
+&lt;p&gt;The Tor Project announced the removal of multiple network relays that were involved in a cryptocurrency scheme.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;A Tor network relay is a server that operates within the Tor network and routes data through a series of relays with the end goal of anonymizing the original source of the traffic.&lt;/p&gt;
+
+
+
+&lt;p&gt;Tor relays are operated by a network of volunteers worldwide who believe in supporting online privacy and freedom of information. Anyone with the necessary technical knowledge and resources can set up and operate a Tor relay. These volunteers contribute to the Tor network by providing bandwidth and helping to route traffic in a way that enhances anonymity for users.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Recently, Tor Project maintainers identified some operators involved in for-profit financial scheme that were observed promising monetary gains with cryptocurrency tokens. &lt;/p&gt;
+
+
+
+&lt;p&gt;The decision to remove the relays animated a debate in the community around relay policies, their violation, and incentivization models that can better support relay operators.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The Tor Project pointed out that this scheme is operated by third parties without endorsement or approval. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;We consider these relays to be harmful to the Tor network for a number of reasons, including that certain of the relays do not meet our requirements, and that such financial schemes present a significant threat to the network&amp;#8217;s integrity and the reputation of our project as they can attract individuals with malicious intent, put users at risk, or disrupt the volunteer-driven spirit that sustains the Tor Community.&amp;#8221; reads the &lt;a href="https://blog.torproject.org/tor-network-community-health-update/"&gt;announcement&lt;/a&gt; published by the Tor Project.&lt;/em&gt; &lt;em&gt;&amp;#8220;As part of our assessment and due diligence into the matter, we engaged with relay operators and were often presented with scenarios in which relay operators associated with this scheme were putting themselves at risk by lacking the awareness of what project they were actually contributing to or operating relays in unsafe or high-risk regions. It has become clear to us that this scheme is not beneficial to the Tor network or the Tor Project. Which is why we proposed the rejection of those relays to our directory authorities who voted in favor of removing them.&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The announcement has not named the entity that was operating the relays, however, multiple sources reported that the servers were operated as part of the &lt;a href="https://www.ator.io/"&gt;ATOR project&lt;/a&gt;. ATOR empowers decentralized internet relay operators through on-chain rewards, and facilitates wider provision of open and anonymous protocols through hardware.  &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;The value of ATOR &lt;a href="https://cryptoslate.com/coins/ator-protocol/" target="_blank" rel="noreferrer noopener"&gt;plummeted&lt;/a&gt; on Monday after the Tor Project made its announcement, dropping to below $1 after reaching an all-time high of $2 just days before the relays were removed. Over 1,000 nodes have been reportedly shut down.&amp;#8221; &lt;a href="https://www.securityweek.com/tor-network-removes-risky-relays-associated-with-cryptocurrency-scheme/"&gt;reported&lt;/a&gt; SecurityWeek. &amp;#8220;Following the Tor Project’s decision, ATOR maintainers said &lt;a href="https://medium.com/@atorprotocol/building-the-future-of-internet-privacy-a-new-vision-3513454f602d" target="_blank" rel="noreferrer noopener"&gt;they plan&lt;/a&gt; to develop their own decentralized peer-to-peer routing network.&amp;#8221; &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Follow me on Twitter:&amp;nbsp;&lt;a href="https://twitter.com/securityaffairs"&gt;@securityaffairs&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://www.facebook.com/sec.affairs"&gt;Facebook&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&amp;nbsp;–&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;hacking, Tor)&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154535</post-id> </item>
+<item>
+<title>专家警告教育和政府部门面临NetSupport RAT攻击的激增。</title>
+<link>https://securityaffairs.com/154513/malware/surge-netsupport-rat-attacks.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Tue, 21 Nov 2023 11:00:39 +0000</pubDate>
+<category>Breaking News</category>
+<category>Cyber Crime</category>
+<category>Hacking</category>
+<category>Malware</category>
+<category>Security</category>
+<category>Cybercrime</category>
+<category>hacking news</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>malware</category>
+<category>NetSupport RAT</category>
+<category>Pierluigi Paganini</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154513</guid>
+<description>Experts warn of a surge in NetSupport RAT attacks against education, government, and business services sectors. The Carbon Black Managed Detection &amp;#38; Response team is warning of a surge in the number of new infections related to NetSupport RAT in the last few weeks. The most impacted sectors are education, government, and business services. NetSupport [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;Experts warn of a surge in NetSupport RAT attacks against education, government, and business services sectors.&lt;/h2&gt;
+
+
+
+&lt;p&gt;The Carbon Black Managed Detection &amp;amp; Response team is warning of a surge in the number of new infections related to &lt;a href="https://securityaffairs.com/71193/malware/netsupport-rat.html"&gt;NetSupport RAT&lt;/a&gt; in the last few weeks. The most impacted sectors are education, government, and business services. &lt;/p&gt;
+
+
+
+&lt;p&gt;NetSupport RAT is a remote control and desktop management software developed by NetSupport Ltd. It is designed to facilitate IT administrators and support staff in managing and controlling multiple remote computers from a centralized location. NetSupport Manager allows users to perform various tasks remotely, including troubleshooting, software distribution, system monitoring, and file transfers.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;In recent years, multiple threat actors, including the group &lt;a href="https://securityaffairs.com/138052/cyber-crime/supply-chain-attack-fakeupdates.html"&gt;TA569&lt;/a&gt;, have been observed using the software as a Remote Access Trojan (RAT). The software was delivered through fraudulent updates, drive-by downloads, malware loaders (i.e. GhostPulse), and other forms of phishing campaigns.&lt;/p&gt;
+
+
+
+&lt;p&gt;Carbon Black researchers observed threat actors using older variations of NetSupport RAT, which used .BAT and .VBS files as decoys. The researchers did not observe newer variants utilizing older methods.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;In the attacks detected by Carbon Black, NetSupport RAT was distributed through fake browser updates. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;In recent attacks, the NetSupport RAT has been observed to be downloaded onto a victim’s computer via deceptive websites and fake browser updates.&amp;#8221; reads the &lt;a href="https://blogs.vmware.com/security/2023/11/netsupport-rat-the-rat-king-returns.html"&gt;analysis&lt;/a&gt; published by Carbon Black Managed Detection &amp;amp; Response team.&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;The following infection showcases the victim getting tricked into downloading a fake browser update after visiting a compromised website.  These infected websites host a PHP script which displays a seemingly authentic update.  When the victim clicks on the download link, an additional Javascript payload is downloaded onto the endpoint.&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;a href="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-28.png?ssl=1"&gt;&lt;img fetchpriority="high" decoding="async" width="871" height="591" src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-28.png?resize=871%2C591&amp;#038;ssl=1" alt="NetSupport RAT" class="wp-image-154527" style="width:662px;height:auto" srcset="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-28.png?w=871&amp;amp;ssl=1 871w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-28.png?resize=300%2C204&amp;amp;ssl=1 300w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-28.png?resize=768%2C521&amp;amp;ssl=1 768w" sizes="(max-width: 871px) 100vw, 871px" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href="https://blogs.vmware.com/security/files/2023/11/NetSupportRAT_Figure-1-Chrome-NSR.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Upon downloading the Javascript (&amp;#8220;Update_browser_10.6336.js&lt;strong&gt;&amp;#8220;)&lt;/strong&gt; it retrieves and execute a Powershell from an external domain (i.e. implacavelvideos[.]com). The Powershell is used to retrieve a ZIP archive containing NetSupport RAT that.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;Multiple NetSupport dependencies/DLL’s as well as the NetSupport Manager are contained within this decompressed file.&amp;#8221; concludes the report published by Carbon Black that also includes Indicators of Compromise (IOC).&amp;#8221;Once installed on a victim’s device, NetSupport is able to monitor behavior, transfer files, manipulate computer settings, and move to other devices within the network.&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Follow me on Twitter: &lt;a href="https://twitter.com/securityaffairs"&gt;@securityaffairs&lt;/a&gt; and &lt;a href="https://www.facebook.com/sec.affairs"&gt;Facebook&lt;/a&gt; and &lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; –&lt;/strong&gt; &lt;strong&gt;hacking, NetSupport RAT)&lt;/strong&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154513</post-id> </item>
+<item>
+<title>使用API管理平台的前5个原因：</title>
+<link>https://securityaffairs.com/154505/security/api-management.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Tue, 21 Nov 2023 07:35:54 +0000</pubDate>
+<category>Breaking News</category>
+<category>Security</category>
+<category>API management</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>Pierluigi Paganini</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154505</guid>
+<description>Organizations need to govern and control the API ecosystem, this governance is the role of API management. Uber uses APIs (Application Programming Interfaces) to connect with third-party services such as Google Maps and Twilio, which helps to improve the user experience; Salesforce provides APIs that allow developers to build custom applications on top of their [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;Organizations need to govern and control the API ecosystem, this governance is the role of API management.&lt;/h2&gt;
+
+
+
+&lt;p&gt;Uber uses APIs (Application Programming Interfaces) to connect with third-party services such as Google Maps and &lt;a href="https://securityaffairs.com/137782/data-breach/twilio-new-data-breach.html"&gt;Twilio&lt;/a&gt;, which helps to improve the user experience; Salesforce provides APIs that allow developers to build custom applications on top of their platform, which has helped to drive innovation and collaboration; and &lt;a href="https://blog.dreamfactory.com/here-are-the-industries-that-use-apis-and-why-they-matter/"&gt;Stripe&lt;/a&gt; provides APIs that enable businesses to accept payments online, which has helped to drive revenue growth.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Because APIs are pieces of software that allow different software applications to communicate, interact, and share data with each other, companies everywhere can take advantage of them to quickly prototype and create new products (increasing productivity), enable companies to introduce new products and technologies with fewer resources and less time (driving innovation), and allow companies to extract their data from software, web pages, and cloud storage (improving business intelligence).&lt;/p&gt;
+
+
+
+&lt;p&gt;While the entire API environment is complex, here&amp;#8217;s a simplified explanation of how an API works:&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8211; &lt;strong&gt;Request to API endpoint&lt;/strong&gt;: A client sends a request to a server&amp;#8217;s API endpoint, a specific resource exposed for client requests.&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8211; &lt;strong&gt;Processing&lt;/strong&gt;: The server processes the request, which may involve data retrieval or operations.&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8211; &lt;strong&gt;Response and Status Code&lt;/strong&gt;: The server generates a response with requested data or operation outcomes, and the response includes an HTTP status code indicating success or error.&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8211; &lt;strong&gt;Delivery to Client for Processing&lt;/strong&gt;: The server sends the response back to the client, and the client receives and processes the response.&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8211; &lt;strong&gt;Error Handling&lt;/strong&gt;: Error messages are provided in the response for issue resolution.&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8211; &lt;strong&gt;Authentication and Security&lt;/strong&gt;: APIs may require authentication for access control.&lt;/p&gt;
+
+
+
+&lt;h1 class="wp-block-heading"&gt;The Importance of API management&lt;/h1&gt;
+
+
+
+&lt;p&gt;In the midst of all the technologies present (sometimes, it can be a chaotic array!), organizations need to govern and control the API ecosystem. APIs &amp;#8211; like any other technical resource &amp;#8211; won&amp;#8217;t manage themselves. This governance is the role of API management.&lt;/p&gt;
+
+
+
+&lt;p&gt;What happens if APIs are not managed and maintained? A litany of issues and problems occur, actually. Here are a few:&lt;/p&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Security Vulnerabilities&lt;/strong&gt;: Unmanaged APIs may have security vulnerabilities that can be exploited by malicious actors. Without proper authentication, authorization, and security measures, sensitive data can be exposed, leading to data breaches and privacy violations.
+&lt;ul&gt;
+&lt;li&gt;Check out the &lt;a href="https://owasp.org/API-Security/editions/2023/en/0x11-t10/"&gt;OWASP Top Ten APIs&lt;/a&gt; for a good overview of the primary identified risks to APIs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Downtime and Unreliability&lt;/strong&gt;: Unmaintained APIs will likely experience downtime and instability, causing inconvenience to users and potential revenue loss for businesses.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Performance Issues&lt;/strong&gt;: Without optimization and monitoring, APIs may suffer from poor performance, slow response times, and bottlenecks.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Increased Technical Debt&lt;/strong&gt;: Neglected APIs accumulate tech debt, making it more difficult and costly to address issues or implement necessary changes in the future.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Lack of Scalability&lt;/strong&gt;: As usage of an API grows, it may not be able to handle increased traffic and demand if it is not properly managed and scaled.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Compliance and Legal Risks&lt;/strong&gt;: In regulated industries, failure to maintain APIs in compliance with industry standards and legal requirements can result in legal and regulatory risks, including fines and legal actions.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Cost Inefficiencies&lt;/strong&gt;: Inefficient APIs that are not optimized can lead to increased operational costs, especially when it comes to server infrastructure and bandwidth.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p&gt;Many of these are just like any other technology vulnerabilities and dangers, such as web apps, business risks, virtual environments. But APIs are in rather a different class.&lt;/p&gt;
+
+
+
+&lt;h1 class="wp-block-heading"&gt;API security &amp;#8211; why it&amp;#8217;s different&lt;/h1&gt;
+
+
+
+&lt;p&gt;A typical view of attacking web apps is a quick, one-time attack that exploits known vulns. But many API attacks are logic-based and not always susceptible to the usual attacks. Because &lt;a href="https://salt.security/api-security-101"&gt;each API endpoint is different&lt;/a&gt;, &amp;#8220;each attack rarely stems from a single API call, every API attack is essentially a zero-day attack, with traditional tools being unable to detect them via their rule-based and signature approaches.&amp;#8221; This unique vulnerability makes detection hard because the attack can very much appear as usual traffic.&lt;/p&gt;
+
+
+
+&lt;p&gt;Here are some other key differences that make API security distinct from web application security:&lt;/p&gt;
+
+
+
+&lt;ol start="1"&gt;
+&lt;li&gt;&lt;strong&gt;Attack Surface&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;APIs typically have a hidden or non-user-facing attack surface, as they are designed for machine-to-machine communication. APIs have endpoints that may not be as readily visible to users but are accessible to authorized clients, making them a target for attackers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Authentication and Authorization&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;APIs frequently employ token-based authentication (e.g., OAuth tokens or API keys) to grant access to clients. Fine-grained authorization mechanisms are crucial for specifying what actions each client can perform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Rate Limiting and Throttling&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;APIs commonly implement rate limiting and throttling mechanisms to prevent abuse and protect against denial-of-service attacks. Web applications may not have the same level of rate limiting requirements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Discovery and Documentation&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Inadequate documentation can lead to security issues because developers may not fully understand the intended usage and security considerations of the API.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Versioning&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Versioning can impact security, as deprecated versions may have vulnerabilities that need mitigation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+&lt;h1 class="wp-block-heading"&gt;API management platform&lt;/h1&gt;
+
+
+
+&lt;p&gt;To keep it all together and manageable, one needs an API management platform. These offer several benefits to organizations that use APIs. Here are 5 top reasons to use an API management platform:&lt;/p&gt;
+
+
+
+&lt;p&gt;1. &lt;strong&gt;Increased agility&lt;/strong&gt;: API management platforms allow organizations to create, share, and adjust APIs more easily, without unnecessary costs or loss of productivity. This increased agility enables organizations to respond to changing market conditions and customer needs more quickly.&lt;/p&gt;
+
+
+
+&lt;p&gt;2. &lt;strong&gt;Workflow automation and customization&lt;/strong&gt;: API management platforms enable organizations to create custom workflows and integrate with other business ventures, promoting innovation and collaboration.&lt;/p&gt;
+
+
+
+&lt;p&gt;3. &lt;strong&gt;Strategic decision-making&lt;/strong&gt;: API management platforms provide organizations with data and analytics on API usage, enabling them to make informed decisions about their API strategy. This data can help organizations identify areas for improvement and optimize their API usage.&lt;/p&gt;
+
+
+
+&lt;p&gt;4. &lt;strong&gt;Security&lt;/strong&gt;: API management platforms provide security features such as authentication, authorization, and encryption to protect APIs and the data they transmit. This security is crucial for protecting sensitive data and preventing unauthorized access.&lt;/p&gt;
+
+
+
+&lt;p&gt;5. &lt;strong&gt;Cost savings&lt;/strong&gt;: API management platforms can help organizations save costs by &lt;a href="https://www.workato.com/the-connector/what-is-api-management/"&gt;reducing the time and resources&lt;/a&gt; required to manage APIs. They can also help organizations avoid costly mistakes such as overloading APIs or exposing sensitive data.&lt;/p&gt;
+
+
+
+&lt;p&gt;API management platforms provide a centralized and unified way to a) wrangle all of the moving parts involved in APIs, and b) deploy, reuse, and manage APIs, enabling organizations to share documentation, keep their services safe, and analyze API usage.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;About the author &lt;a href="https://www.linkedin.com/in/rossamoore/" target="_blank" rel="noreferrer noopener"&gt;Ross Moore:&lt;/a&gt;&lt;/strong&gt; Moore is the Cyber Security Support Analyst with Passageways. He has experience with ISO 27001 and SOC 2 Type 2 implementation and maintenance. Over the course of his 20+ years of IT and Security, Ross has served in a variety of operations and infosec roles for companies in the manufacturing, healthcare, real estate, business insurance, and technology sectors. He holds (ISC)2’s SSCP along with CompTIA’s Pentest+ and Security+ certifications, a B.S. in Cyber Security and Information Assurance from WGU, and a B.A. in Bible/Counseling from Johnson University. He is also a regular writer at &lt;a href="https://www.welcometobora.com/" target="_blank" rel="noreferrer noopener"&gt;Bora&lt;/a&gt;. &lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Follow me on Twitter: &lt;a href="https://twitter.com/securityaffairs"&gt;@securityaffairs&lt;/a&gt; and &lt;a href="https://www.facebook.com/sec.affairs"&gt;Facebook&lt;/a&gt; and &lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;/strong&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; –&lt;/strong&gt; &lt;strong&gt;hacking, API management)&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154505</post-id> </item>
+<item>
+<title>加拿大政府受到两家承包商的数据泄露事件的影响。</title>
+<link>https://securityaffairs.com/154492/data-breach/data-breaches-impact-canadian-government.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Mon, 20 Nov 2023 21:26:10 +0000</pubDate>
+<category>Breaking News</category>
+<category>Cyber Crime</category>
+<category>Data Breach</category>
+<category>Hacking</category>
+<category>Security</category>
+<category>Canadian Government</category>
+<category>Cybercrime</category>
+<category>data breach</category>
+<category>hacking news</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>Lockbit</category>
+<category>malware</category>
+<category>Pierluigi Paganini</category>
+<category>ransomware</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154492</guid>
+<description>The Canadian government discloses a data breach after threat actors hacked two of its contractors.&amp;#160; The Canadian government declared that two of its contractors,Brookfield Global Relocation Services (BGRS) and SIRVA Worldwide Relocation &amp;#38; Moving Services, have been hacked, resulting in the exposure of sensitive information belonging to an undisclosed number of government employees.  Data belonging [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;The Canadian government discloses a data breach after threat actors hacked two of its contractors.&amp;nbsp;&lt;/h2&gt;
+
+
+
+&lt;p&gt;The Canadian government declared that two of its contractors,Brookfield Global Relocation Services (BGRS) and SIRVA Worldwide Relocation &amp;amp; Moving Services, have been hacked, resulting in the exposure of sensitive information belonging to an undisclosed number of government employees.  &lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Data belonging to current and former Government of Canada employees, members of the Canadian Armed Forces and Royal Canadian Mounted Police personnel have been also exposed.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The Canadian government notifies relevant authorities, including the Canadian Centre for Cyber Security, the Office of the Privacy Commissioner, and the Royal Canadian Mounted Police.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;On October 19&lt;sup&gt;th&lt;/sup&gt;, 2023, Brookfield Global Relocation Services (BGRS) informed the Government of Canada of a breach involving Government of Canada information held by BGRS and SIRVA Canada systems.&amp;#8221; reads the &lt;a href="https://www.canada.ca/en/treasury-board-secretariat/news/2023/11/message-to-current-and-former-public-service-employees-and-members-of-the-canadian-armed-forces-and-royal-canadian-mounted-police.html"&gt;data breach notification&lt;/a&gt; published by the Canadian government. &amp;#8220;At this time, given the significant volume of data being assessed, we cannot yet identify specific individuals impacted; however, preliminary information indicates that breached information could belong to anyone who has used relocation services as early as 1999 and may include any personal and financial information that employees provided to the companies.&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The government has yet to reveal the name of the reansomware group that breached the two companies.&lt;/p&gt;
+
+
+
+&lt;p&gt;Both contractors suffered a security breach in October. Brookfield Global Relocation Services (BGRS) and SIRVA Worldwide Relocation &amp;amp; Moving Services provide relocation services to Canadian government employees.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The LockBit ransomware gang has claimed responsibility for the attack on SIRVA, the group has stolen 1.5TB of data and already leaked it.&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8220;Sirva.com says that all their information worth only $1m. We have over 1.5TB of documents leaked + 3 full backups of CRM for branches (eu, na and au) Sirva Worldwide, Inc. provides HR and mobility professionals with the resources, guidance, and support they need to achieve the best possible relocation for talent, and for the companies that move them.&amp;#8221; reads the sattement published by Lockbit on its Tor leaksite that confirms the failure of a negotiation.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;a href="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-27.png?ssl=1"&gt;&lt;img decoding="async" width="756" height="756" src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-27.png?resize=756%2C756&amp;#038;ssl=1" alt="" class="wp-image-154497" style="width:548px;height:auto" srcset="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-27.png?w=756&amp;amp;ssl=1 756w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-27.png?resize=300%2C300&amp;amp;ssl=1 300w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-27.png?resize=150%2C150&amp;amp;ssl=1 150w" sizes="(max-width: 756px) 100vw, 756px" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;In response to the security breaches the Government of Canada is taking a proactive, precautionary approach. It&amp;nbsp;is providing credit monitoring or reissuing valid passports to current and former members of the public service, RCMP, and the Canadian Armed Forces who have relocated with BGRS or SIRVA Canada during the last 24 years. &lt;/p&gt;
+
+
+
+&lt;p&gt;Below recommendations provided by the government to potentially impacted individuals:&lt;/p&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;updating login credentials that may be similar to those used with BGRS or SIRVA Canada&lt;/li&gt;
+
+
+
+&lt;li&gt;enabling multi-factor authentication on accounts that are used for online transactions&lt;/li&gt;
+
+
+
+&lt;li&gt;monitoring financial and personal online accounts for any unusual activity&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Follow me on Twitter:&amp;nbsp;&lt;a href="https://twitter.com/securityaffairs"&gt;@securityaffairs&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://www.facebook.com/sec.affairs"&gt;Facebook&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&amp;nbsp;–&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;hacking, Canadian government)&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154492</post-id> </item>
+<item>
+<title>Rhysida勒索软件团伙正在拍卖从英国图书馆窃取的数据。</title>
+<link>https://securityaffairs.com/154473/data-breach/rhysida-ransomware-gang-british-library.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Mon, 20 Nov 2023 19:01:46 +0000</pubDate>
+<category>Breaking News</category>
+<category>Cyber Crime</category>
+<category>Data Breach</category>
+<category>Hacking</category>
+<category>Malware</category>
+<category>British Library</category>
+<category>Cybercrime</category>
+<category>data breach</category>
+<category>hacking news</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>malware</category>
+<category>Pierluigi Paganini</category>
+<category>Rhysida ransomware</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154473</guid>
+<description>The Rhysida ransomware group claimed responsibility for the recent cyberattack on the British Library that has caused a major IT outage. The Rhysida ransomware gang added the British Library to the list of victims on its Tor leak site. The British Library is a research library in London that is the national library of the [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;The Rhysida ransomware group claimed responsibility for the recent cyberattack on the British Library that has caused a major IT outage.&lt;/h2&gt;
+
+
+
+&lt;p&gt;The Rhysida ransomware gang added the British Library to the list of victims on its Tor leak site. The British Library is a research library in London that is the national library of the United Kingdom. It is one of the largest libraries in the world.&lt;/p&gt;
+
+
+
+&lt;p&gt;The ransomware group claims to have stolen a substantial trove of &amp;#8216;impressive data&amp;#8217; and is auctioning it for 20 BTC. The Rhysida ransomware operators plan to sell the stolen data to a single buyer. The gang will publicly release the data over the seven days following the announcement.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;a href="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-26.png?ssl=1"&gt;&lt;img decoding="async" width="636" height="683" src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-26.png?resize=636%2C683&amp;#038;ssl=1" alt="British Library" class="wp-image-154477" style="width:452px;height:auto" srcset="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-26.png?w=636&amp;amp;ssl=1 636w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-26.png?resize=279%2C300&amp;amp;ssl=1 279w" sizes="(max-width: 636px) 100vw, 636px" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The attack &lt;a href="https://securityaffairs.com/153309/hacking/british-library-cyber-attack.html"&gt;took place on October 28&lt;/a&gt;, the outage affected some on-site services, including the public Wi-Fi.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The library announced that its buildings remain fully open and the following services are available onsite:&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;Reading Rooms (for personal study)&lt;/li&gt;
+
+
+
+&lt;li&gt;any collection items ordered on or before 26 October&lt;/li&gt;
+
+
+
+&lt;li&gt;very limited, manual collection item ordering in London via our printed catalogues, for items stored in St Pancras only.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p&gt;On November 17, the library announced it was experiencing a major technology outage caused by a cyber-attack.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;&lt;p lang="en" dir="ltr"&gt;While our website is unavailable following a major technology outage caused by a cyber-attack, we’re keeping our blog up to date with what’s on at the Library: &lt;a href="https://t.co/8tzhn37lew"&gt;https://t.co/8tzhn37lew&lt;/a&gt;&lt;br&gt;&lt;br&gt;We’ve just uploaded more events up until 14 December, including our current season of Fantasy… &lt;a href="https://t.co/742E11oUOn"&gt;pic.twitter.com/742E11oUOn&lt;/a&gt;&lt;/p&gt;&amp;mdash; British Library (@britishlibrary) &lt;a href="https://twitter.com/britishlibrary/status/1725480647525818785?ref_src=twsrc%5Etfw"&gt;November 17, 2023&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;Three hours ago the British Library said that it is continuing to experience a major technology outage that is impacting its website, online systems and services, and some on-site services.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;blockquote class="twitter-tweet" data-width="500" data-dnt="true"&gt;&lt;p lang="en" dir="ltr"&gt;We’re continuing to experience a major technology outage as a result of a cyber-attack, affecting our website, online systems and services, and some onsite services too. We anticipate restoring many services in the next few weeks, but some disruption may persist for longer.… &lt;a href="https://t.co/Wdj7VfkWXa"&gt;pic.twitter.com/Wdj7VfkWXa&lt;/a&gt;&lt;/p&gt;&amp;mdash; British Library (@britishlibrary) &lt;a href="https://twitter.com/britishlibrary/status/1726618361398722754?ref_src=twsrc%5Etfw"&gt;November 20, 2023&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+&lt;/div&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;The library plans to partially restore many services in the next few weeks, but it believes that some disruption may persist for longer. &lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The library notified law enforcement agencies and is investigating the security breach with the help of cybersecurity experts.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;Following confirmation last week that this was a ransomware attack, we’re aware that some data has been leaked. This appears to be from our internal HR files. We have no evidence that data of our users has been compromised. However, if you have a British Library login and your password is used elsewhere, we recommend changing it as a precautionary measure.&amp;#8221; reads the &lt;a href="https://britishlibrary.typepad.co.uk/living-knowledge/2023/11/cyber-incident.html"&gt;announcement&lt;/a&gt;. &amp;#8220;The National Cyber Security Centre provides guidance on staying secure online, including how to create a strong password: &lt;a href="https://t.co/kHdG2Du2qG" target="_blank" rel="noreferrer noopener"&gt;https://bit.ly/BLNCSC&lt;/a&gt; In the meantime, we’ve taken targeted protective measures to ensure the integrity of our systems, and we’re continuing to investigate the attack with the support of NCSC, the Metropolitan Police and cybersecurity specialists. Thank you for bearing with us during this investigation. We’ll update you as soon as we can.&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;According to the British Library, the leaked data appears to be from its HR department.&lt;/p&gt;
+
+
+
+&lt;p&gt;Last week, FBI and CISA &lt;a href="https://securityaffairs.com/154224/malware/fbi-cisa-rhysida-ransomware-gang.html"&gt;&lt;strong&gt;published&lt;/strong&gt;&lt;/a&gt; a&lt;em&gt; &lt;/em&gt;joint Cybersecurity Advisory (CSA) to warn of &lt;a href="https://securityaffairs.com/151501/cyber-crime/rhysida-ransomware-kuwait-ministry-of-finance.html"&gt;Rhysida&lt;/a&gt; ransomware attacks against organizations across multiple industry sectors. The report is part of the ongoing &lt;a href="https://www.cisa.gov/stopransomware/stopransomware"&gt;#StopRansomware&lt;/a&gt; effort that disseminates advisories about tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with ransomware groups.&lt;/p&gt;
+
+
+
+&lt;p&gt;The report includes IOCs and TTPs identified through investigations as recently as September 2023.&lt;/p&gt;
+
+
+
+&lt;p&gt;The&amp;nbsp;Rhysida ransomware group&amp;nbsp;has been active since May 2023, according to the gang’s Tor leak site,&amp;nbsp;&lt;a href="https://ransomfeed.it/stats.php?page=group-profile&amp;amp;group=rhysida"&gt;at least 62 companies&lt;/a&gt;&amp;nbsp;are victims of the operation.&lt;/p&gt;
+
+
+
+&lt;p&gt;The ransomware gang hit organizations in multiple industries, including the education, healthcare, manufacturing, information technology, and government sectors. The victims of the group are “targets of opportunity.”&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;“Threat actors leveraging Rhysida ransomware are known to impact “targets of opportunity,” including victims in the education, healthcare, manufacturing, information technology, and government sectors. Open source reporting details similarities between Vice Society (DEV-0832)[&lt;a href="https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/"&gt;1&lt;/a&gt;] activity and the actors observed deploying Rhysida ransomware.” reads the&amp;nbsp;&lt;a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-319a"&gt;joint advisory&lt;/a&gt;. “Additionally, open source reporting[&lt;a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-rhysida"&gt;2&lt;/a&gt;] has confirmed observed instances of Rhysida actors operating in a ransomware-as-a-service (RaaS) capacity, where ransomware tools and infrastructure are leased out in a profit-sharing model. Any ransoms paid are then split between the group and the affiliates.”&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Rhysida actors have been observed leveraging external-facing remote services (e.g. VPNs, RDPs) to gain initial access to the target network and maintain persistence. The group relied on compromised credentials to authenticate to internal VPN access points. According to the advisory, the threat actors have been observed exploiting&amp;nbsp;&lt;a href="https://securityaffairs.com/111138/apt/apt10-zerologon-attacks.html"&gt;Zerologon&lt;/a&gt;&amp;nbsp;(&lt;a href="https://nvd.nist.gov/vuln/detail/CVE-2020-1472"&gt;CVE-2020-1472&lt;/a&gt;) in Microsoft’s Netlogon Remote Protocol in phishing attempts.&lt;/p&gt;
+
+
+
+&lt;p&gt;The group relies on living off-the-land techniques such as native (built into the operating system) network administration tools to perform malicious operations.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;On October 28 another library, the &lt;a href="https://twitter.com/torontolibrary"&gt;Toronto Library&lt;/a&gt; announced they were addressing a cyber security incident.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Follow me on Twitter: &lt;a href="https://twitter.com/securityaffairs"&gt;@securityaffairs&lt;/a&gt; and &lt;a href="https://www.facebook.com/sec.affairs"&gt;Facebook&lt;/a&gt; and &lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;/strong&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; –&lt;/strong&gt; &lt;strong&gt;hacking, Rhysida ransomware)&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154473</post-id> </item>
+<item>
+<title>俄罗斯相关的APT29组织在针对大使馆的攻击中利用了WinRAR 0day漏洞。</title>
+<link>https://securityaffairs.com/154460/apt/apt29-targets-embassies-winrar-flaw.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Mon, 20 Nov 2023 13:44:33 +0000</pubDate>
+<category>APT</category>
+<category>Breaking News</category>
+<category>Hacking</category>
+<category>APT29</category>
+<category>CVE-2023-38831</category>
+<category>hacking news</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>Pierluigi Paganini</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<category>WinRAR</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154460</guid>
+<description>Russia-linked cyberespionage group APT29 has been observed leveraging the CVE-2023-38831 vulnerability in WinRAR in recent attacks. The Ukrainian National Security and Defense Council (NDSC) reported that APT29 (aka SVR group, Cozy Bear, Nobelium, Midnight Blizzard, and The Dukes) has been exploiting the CVE-2023-38831 vulnerability in WinRAR in recent attacks. APT29 along with APT28 cyber espionage group was involved in the Democratic National Committee [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;Russia-linked cyberespionage group APT29 has been observed leveraging the CVE-2023-38831 vulnerability in WinRAR in recent attacks.&lt;/h2&gt;
+
+
+
+&lt;p&gt;The Ukrainian National Security and Defense Council (NDSC) reported that &lt;a href="https://securityaffairs.com/149620/apt/apt29-used-zulip-chat-app.html"&gt;APT29&lt;/a&gt; (aka &lt;a href="https://securityaffairs.co/wordpress/116891/cyber-warfare-2/russia-svr-actively-targets-5-flaws.html"&gt;SVR group&lt;/a&gt;, &lt;a href="https://securityaffairs.co/wordpress/53318/intelligence/cozy-bear-post-election.html"&gt;Cozy Bear&lt;/a&gt;, &lt;a href="https://securityaffairs.co/wordpress/134838/apt/nobelium-magicweb-tool.html"&gt;Nobelium&lt;/a&gt;, &lt;a href="https://securityaffairs.com/148920/apt/bluebravo-graphicalproton-backdoor.html"&gt;Midnight Blizzard&lt;/a&gt;, and &lt;a href="https://securityaffairs.co/wordpress/40214/cyber-crime/the-dukes-apt.html"&gt;The Dukes&lt;/a&gt;) has been exploiting the &lt;a href="https://securityaffairs.com/152669/apt/apt-groups-winrar-flaw.html"&gt;CVE-2023-38831&lt;/a&gt; vulnerability in WinRAR in recent attacks. &lt;/p&gt;
+
+
+
+&lt;p&gt;APT29 along with &lt;a href="https://securityaffairs.co/wordpress/78085/malware/apt28-lojax-variant.html"&gt;APT28&lt;/a&gt; cyber espionage group was involved in the &lt;a href="https://securityaffairs.co/wordpress/49705/hacking/dnc-hack.html"&gt;Democratic National Committee hack&lt;/a&gt; and the wave of attacks aimed at the &lt;a href="https://securityaffairs.co/wordpress/74434/hacking/russian-intelligence-indictment.html"&gt;2016 US Presidential Elections&lt;/a&gt;.&lt;a href="https://securityaffairs.com/wp-admin/post.php?post=146381&amp;amp;action=edit"&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The Russia-linked APT group was observed using a specially crafted ZIP archive that runs a script in the background to show a PDF lure while downloading PowerShell code to fetch and execute a payload.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The APT group targeted multiple European nations, including Azerbaijan, Greece, Romania, and Italy, with the primary goal of infiltrating embassy entities. &lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The threat actors used a lure document (&amp;#8220;DIPLOMATIC-CAR-FOR-SALE-BMW.pdf&amp;#8221;) containing images of a BMW car available for sale to diplomatic entities. The weaponized documents embedded malicious content that exploited the WinRAR vulnerability.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-full is-resized"&gt;&lt;a href="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-25.png?ssl=1"&gt;&lt;img loading="lazy" decoding="async" width="652" height="407" src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-25.png?resize=652%2C407&amp;#038;ssl=1" alt="APT29 WinRAR" class="wp-image-154463" style="width:544px;height:auto" srcset="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-25.png?w=652&amp;amp;ssl=1 652w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-25.png?resize=300%2C187&amp;amp;ssl=1 300w" sizes="(max-width: 652px) 100vw, 652px" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;em&gt;&amp;#8220;In the context of this particular attack, a script is executed, generating a PDF file featuring the lure theme of a BMW car for sale. Simultaneously, in the background, a PowerShell script is downloaded and executed from the next-stage payload server.&amp;#8221; reads the &lt;a href="https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf"&gt;&lt;strong&gt;report&lt;/strong&gt;&lt;/a&gt; published by NDSC. &amp;#8220;Notably, the attackers introduced a novel technique for communicating with the malicious server, employing a Ngrok free static domain to access their server hosted on their Ngrok instance.&amp;#8221;  &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;In this attack scheme, Ngrok has been used to host their next-stage PowerShell payloads and establish covert communication channels.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Threat actors use the tool to obfuscate their communications with compromised systems and evade detection. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;What makes this campaign particularly noteworthy is the synthesis of old and new techniques. APT29 continues to employ the BMW car for sale lure theme, a tactic that&amp;#8217;s been seen in the past. However, the deployment of the CVE-2023-38831 WinRAR vulnerability, a novel approach, reveals their adaptability to the evolving threat landscape. Additionally, their use of Ngrok services to establish covert communications emphasizes their determination to remain concealed.&amp;#8221; concludes the NDSC that also published indicators of compromise (IoCs) for these attacks.&lt;/em&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;In April, Google observed Russia-linked&amp;nbsp;&lt;a href="https://securityaffairs.com/145050/apt/russia-linked-apt-targeting-ukraine.html"&gt;FROZENBARENTS&lt;/a&gt;&amp;nbsp;APT (aka SANDWORM) impersonates Ukrainian drone training school to deliver the&amp;nbsp;&lt;a href="https://securityaffairs.com/142077/cyber-crime/ta886-group-screenshotter-malware.html"&gt;Rhadamanthys&lt;/a&gt;&amp;nbsp;infostealer.&lt;/p&gt;
+
+
+
+&lt;p&gt;The threat actors used a lure themed as an invitation to join the school, the email included a link to an anonymous file-sharing service, fex[.]net. The file-sharing service was used to deliver a benign decoy PDF document with a drone operator training curriculum and specially crafted ZIP archive (“Навчальна-програма-Оператори.zip” (Training program operators)) that exploits the flaw CVE-2023-38831.&lt;/p&gt;
+
+
+
+&lt;p&gt;In September, CERT-UA observed the FROZENLAKE group exploitingthe WinRAR flaw to deploy malware in attacks aimed at energy infrastructure.&lt;/p&gt;
+
+
+
+&lt;p&gt;Google TAG experts also observed the Russia-linked ATP28 group exploiting the flaw in attacks against Ukraine users. The state-sponsored hackers employed a malicious PowerShell script (IRONJAW) to steal browser login data and local state directories.&lt;/p&gt;
+
+
+
+&lt;p&gt;The China-linked APT40 group was observed exploiting the CVE-2023-38831 vulnerability in attacks against targets in Papua New Guinea.&lt;/p&gt;
+
+
+
+&lt;p&gt;Last week, researchers at cybersecurity firm NSFOCUS &lt;a href="https://securityaffairs.com/154414/apt/darkcasino-apt-exploiting-winrar-0day.html"&gt;analyzed&lt;/a&gt; DarkCasino attack pattern exploiting the WinRAR zero-day vulnerability tracked as CVE-2023-38831. The economically motivated APT group used specially crafted archives in phishing attacks against forum users through online trading forum posts.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Follow me on Twitter: &lt;a href="https://twitter.com/securityaffairs"&gt;@securityaffairs&lt;/a&gt; and &lt;a href="https://www.facebook.com/sec.affairs"&gt;Facebook&lt;/a&gt; and &lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; –&lt;/strong&gt; &lt;strong&gt;hacking, APT29)&lt;/strong&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154460</post-id> </item>
+<item>
+<title>DarkCasino加入了利用WinRAR零日漏洞的APT组织列表</title>
+<link>https://securityaffairs.com/154414/apt/darkcasino-apt-exploiting-winrar-0day.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Mon, 20 Nov 2023 09:05:53 +0000</pubDate>
+<category>APT</category>
+<category>Breaking News</category>
+<category>Hacking</category>
+<category>Malware</category>
+<category>CVE-2023-38831</category>
+<category>DarkCasino</category>
+<category>hacking news</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>malware</category>
+<category>Pierluigi Paganini</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<category>WinRAR</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154414</guid>
+<description>The DarkCasino APT group leveraged a recently disclosed WinRAR zero-day vulnerability tracked as CVE-2023-38831. Researchers at cybersecurity firm NSFOCUS analyzed DarkCasino attack pattern exploiting the WinRAR zero-day vulnerability tracked as CVE-2023-38831. The economically motivated APT group used specially crafted archives in phishing attacks against forum users through online trading forum posts. &amp;#8220;DarkCasino is an APT [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;The DarkCasino APT group leveraged a recently disclosed WinRAR zero-day vulnerability tracked as CVE-2023-38831.&lt;/h2&gt;
+
+
+
+&lt;p&gt;Researchers at cybersecurity firm NSFOCUS analyzed DarkCasino attack pattern exploiting the WinRAR zero-day vulnerability tracked as CVE-2023-38831. The economically motivated APT group used specially crafted archives in phishing attacks against forum users through online trading forum posts.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;DarkCasino is an APT threat actor with strong technical and learning ability, who is good at integrating various popular APT attack technologies into its attack process. In the early days, the APT group DarkCasino mainly drew on the attack idea of an APT attacker named &lt;a href="https://securityaffairs.com/139540/hacking/evilnum-new-janicab-variant.html"&gt;Evilnum&lt;/a&gt; and used malicious shortcuts, image steganography and other technologies to realize phishing attacks.&amp;#8221; &lt;a href="https://nsfocusglobal.com/the-new-apt-group-darkcasino-and-the-global-surge-in-winrar-0-day-exploits/"&gt;&lt;strong&gt;reads&lt;/strong&gt;&lt;/a&gt; the report published by NSFOCUS.&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;NSFOCUS Research Labs pointed out that exploitation of the CVE-2023-38831 flaw can be integrated into watering hole and phishing attacks. The researcher explained that some CVE-2023-38831 vulnerability exploitation variants are hard to detect and can allow bypassing endpoint protection solutions.&lt;/p&gt;
+
+
+
+&lt;p&gt;During its initial phase, DarkCasino primarily conducted operations in Mediterranean countries and various other Asian nations, utilizing online financial services&lt;/p&gt;
+
+
+
+&lt;p&gt;Recently the group changed phishing methods and aimed at users of cryptocurrencies worldwide, even including non-English-speaking Asian countries such as South Korea and Vietnam.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Since April 2023, the DarkCasino APT group has started exploiting the vulnerability to deliver the Trojan DarkMe. The malware supports multiple features, such as collecting host information, taking screenshots, file manipulation, registry manipulation, cmd command execution, self-update, and maintaining persistence.&lt;/p&gt;
+
+
+
+&lt;p&gt;NSFOCUS Research Labs observed DarkCasino implementing two attack processes using specially crafted weaponized archives. The main difference between the two processes is the storage form of the Trojan.&lt;/p&gt;
+
+
+&lt;div class="wp-block-image"&gt;
+&lt;figure class="aligncenter size-large"&gt;&lt;a href="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-24.png?ssl=1"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="569" src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-24.png?resize=1024%2C569&amp;#038;ssl=1" alt="DarkCasino" class="wp-image-154425" srcset="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-24.png?resize=1024%2C569&amp;amp;ssl=1 1024w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-24.png?resize=300%2C167&amp;amp;ssl=1 300w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-24.png?resize=768%2C427&amp;amp;ssl=1 768w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-24.png?w=1536&amp;amp;ssl=1 1536w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Multiple APT groups have been observed exploiting the CVE-2023-38831 vulnerability, including &lt;a href="https://securityaffairs.com/143415/apt/dark-pink-apt-south-asia.html"&gt;Dark Pink&lt;/a&gt;, &lt;a href="https://securityaffairs.com/147681/apt/apt28-hacked-roundcube-ukraine.html"&gt;APT28&lt;/a&gt;, &lt;a href="https://securityaffairs.com/149620/apt/apt29-used-zulip-chat-app.html"&gt;APT29&lt;/a&gt;, &lt;a href="https://securityaffairs.com/153920/apt/russian-sandworm-ot-attacks.html"&gt;Sandworm&lt;/a&gt;, &lt;a href="https://securityaffairs.com/135076/apt/apt40-scanbox-campaign.html"&gt;APT40&lt;/a&gt;, &lt;a href="https://securityaffairs.com/129527/apt/ghostwriter-apt-targets-state-entities-of-ukraine-with-cobalt-strike-beacon.html"&gt;Ghostwriter&lt;/a&gt;, and &lt;a href="https://securityaffairs.com/126388/apt/konni-apt-russia-entities.html"&gt;Konni&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;The WinRAR vulnerability CVE-2023-38831 brought by the APT group DarkCasino brings uncertainties to the APT attack situation in the second half of 2023.&amp;#8221; concludes the report. &amp;#8220;NSFOCUS Research Labs has also captured batch-generated vulnerability exploitation files decoyed by transaction bills. This phenomenon indicates that large phishing attack controllers have also incorporated this vulnerability into their phishing attack processes, which heralds more victims of WinRAR vulnerability exploitation in the future.&amp;#8221;&lt;/em&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Follow me on Twitter:&amp;nbsp;&lt;a href="https://twitter.com/securityaffairs"&gt;@securityaffairs&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://www.facebook.com/sec.affairs"&gt;Facebook&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;/strong&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; –&lt;/strong&gt; &lt;strong&gt;hacking, DarkCasino APT)&lt;/strong&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154414</post-id> </item>
+<item>
+<title>美国少年承认在一个赌博网站上参与了凭证填充攻击的罪行。</title>
+<link>https://securityaffairs.com/154432/cyber-crime/us-teenager-credential-stuffing-betting-site.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Mon, 20 Nov 2023 08:21:09 +0000</pubDate>
+<category>Breaking News</category>
+<category>Cyber Crime</category>
+<category>Hacking</category>
+<category>Security</category>
+<category>betting</category>
+<category>credential stuffing</category>
+<category>Cybercrime</category>
+<category>hacking news</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>Pierluigi Paganini</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154432</guid>
+<description>US teenager Joseph Garrison pleads guilty to carrying out a credential stuffing attack on a betting website. US teenager Joseph Garrison (19) has pleaded guilty to his involvement in a credential stuffing campaign that targeted user accounts at a fantasy sports and betting website.3 On or about November 18, 2022, the man launched a credential [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;US teenager Joseph Garrison pleads guilty to carrying out a credential stuffing attack on a betting website.&lt;/h2&gt;
+
+
+
+&lt;p&gt;US teenager Joseph Garrison (19) has pleaded guilty to his involvement in a &lt;a href="https://securityaffairs.com/143051/data-breach/credential-stuffing-chick-fil-a.html"&gt;credential stuffing&lt;/a&gt; campaign that targeted user accounts at a fantasy sports and betting website.3&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;On or about November 18, 2022, the man launched a credential stuffing attack on the Betting Website and gained access to approximately 60,000 accounts. In some cases, the man and his accomplices were able to add a new payment method to the compromised accounts, deposit $5 into that account through the new payment method to verify that method, and then withdraw all the existing funds in the Victim Account through the new payment method. According to court documents, the crooks stole approximately $600,000 from approximately 1,600 compromised accounts.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;According to court documents, on November 18, 2022, Garrison launched the attack against the betting site, obtaining access to approximately 60,000 user accounts.&lt;/p&gt;
+
+
+
+&lt;p&gt;The police discovered on the computer of the man, nearly 40 million credentials that could be used in credentials-stuffing attacks.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;Law enforcement executed a search on GARRISON’s home in February 2023.  In that search, they located programs typically used for credential stuffing attacks.  Those programs require individualized “config” files for a target website to launch credential stuffing attacks, and law enforcement located approximately 700 such config files for dozens of different corporate websites on GARRISON’s computer.&amp;#8221; reads the &lt;a href="https://www.justice.gov/usao-sdny/pr/wisconsin-man-pleads-guilty-hacking-fantasy-sports-and-betting-website"&gt;press release&lt;/a&gt; published by DoJ. &amp;#8220;Law enforcement also located files containing nearly 40 million username and password pairs on GARRISON’s computer, which are also used in credential stuffing attacks.&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The analysis of Garrison’s phone, revealed the conversations between him and his co-conspirators about how to hack the Betting Website and how to steal funds from the victim accounts directly or by selling access to the victim accounts.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.justice.gov/usao-sdny/pr/wisconsin-man-pleads-guilty-hacking-fantasy-sports-and-betting-website"&gt;According to SecurityWeek&lt;/a&gt;, the betting website is DraftKings which in November 2022 announced approximately 68,000 accounts had been compromised in a credential stuffing attack.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Follow me on Twitter:&amp;nbsp;&lt;a href="https://twitter.com/securityaffairs"&gt;@securityaffairs&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://www.facebook.com/sec.affairs"&gt;Facebook&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;/strong&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; –&lt;/strong&gt; &lt;strong&gt;hacking, betting)&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154432</post-id> </item>
+<item>
+<title>安全事务通讯第446轮由Pierluigi Paganini撰写 - 国际版</title>
+<link>https://securityaffairs.com/154408/breaking-news/security-affairs-newsletter-round-446-by-pierluigi-paganini-international-edition.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Sun, 19 Nov 2023 13:29:34 +0000</pubDate>
+<category>Breaking News</category>
+<category>Cybercrime</category>
+<category>data breach</category>
+<category>Hacking</category>
+<category>hacking news</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>malware</category>
+<category>Newsletter</category>
+<category>Pierluigi Paganini</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154408</guid>
+<description>A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Israeli man sentenced to 80 months in prison for providing hacker-for-hire services Russian APT Gamaredon uses [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.&lt;/h2&gt;
+
+
+
+&lt;p&gt;Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-table"&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154378/cyber-crime/man-spear-phishing-sentenced.html"&gt;Israeli man sentenced to 80 months in prison for providing hacker-for-hire services&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154362/apt/gamaredon-apt-litterdrifter-usb.html"&gt;Russian APT Gamaredon uses USB worm LitterDrifter against Ukraine&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154346/breaking-news/openai-fired-ceo-sam-altman.html"&gt;The board of directors of OpenAI fired Sam Altman&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154319/data-breach/toyota-financial-services-medusa-ransomware.html"&gt;Medusa ransomware gang claims the hack of Toyota Financial Services&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154310/security/cisa-known-exploited-vulnerabilities-catalog-17-nov-23.html"&gt;CISA adds Sophos Web Appliance bug to its Known Exploited Vulnerabilities catalog&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154301/security/fortinet-fortisiem-os-command-injection.html"&gt;A critical OS command injection flaw affects Fortinet FortiSIEM&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154277/apt/zimbra-zero-day-govt-emails.html"&gt;Zimbra zero-day exploited to steal government emails by four groups&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154271/data-breach/vietnam-post-data-leak.html"&gt;Vietnam Post exposes 1.2TB of data, including email addresses&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154251/data-breach/samsung-data-breach-2.html"&gt;Samsung suffered a new data breach&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154224/malware/fbi-cisa-rhysida-ransomware-gang.html"&gt;FBI and CISA warn of attacks by Rhysida ransomware gang&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154215/security/business-one-product-critical-flaw.html"&gt;Critical flaw fixed in SAP Business One product&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154201/cyber-crime/law-enforcement-ipstorm-botnet.html"&gt;Law enforcement agencies dismantled the illegal botnet proxy service IPStorm&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154169/security/gamblers-data-compromised-after-casino-giant-strendus-fails-to-set-password.html"&gt;Gamblers’ data compromised after casino giant Strendus fails to set password&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154182/security/vmware-cloud-director-appliance-critical-flaw.html"&gt;VMware disclosed a critical and unpatched authentication bypass flaw in VMware Cloud Director&amp;nbsp;Appliance&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154175/security/microsoft-patch-tuesday-security-updates-nov-2023.html"&gt;Microsoft Patch Tuesday security updates fixed 3 actively exploited flaws&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154156/apt/denmark-critical-infrastructure-record-attacks.html"&gt;Danish critical infrastructure hit by the largest cyber attack in Denmark&amp;#8217;s history&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154145/cyber-crime/dp-world-australian-ports-blocked.html"&gt;Major Australian ports blocked after a cyber attack on DP World&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154113/malware/ransomware-gangs-targets-nuclear-and-oil-gas-2024.html"&gt;Nuclear and Oil &amp;amp; Gas are Major Targets of Ransomware Groups in 2024&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154128/security/cisa-juniper-flaws-known-exploited-vulnerabilities-catalog.html"&gt;CISA adds five vulnerabilities in Juniper devices to its Known Exploited Vulnerabilities catalog&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154115/cyber-crime/lockbit-ransomware-leaked-boeing-data.html"&gt;LockBit ransomware gang leaked data stolen from Boeing&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154082/apt/sapphire-sleet-apt-targets-it-job-seekers.html"&gt;North Korea-linked APT Sapphire Sleet targets IT job seekers with bogus skills assessment portals&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154101/data-breach/the-lorenz-ransomware-group-hit-texas-based-cogdell-memorial-hospital.html"&gt;The Lorenz ransomware group hit Texas-based Cogdell Memorial Hospital&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href="https://securityaffairs.com/154066/data-breach/state-of-maine-data-breach.html"&gt;The State of Maine disclosed a data breach that impacted 1.3M people&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Cybercrime&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.maine.gov/moveit-global-data-security-incident/"&gt;Maine gov data breach: MOVEit Global Security Incident&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.resecurity.com/blog/article/ransomware-attacks-against-the-energy-sector-on-the-rise-nuclear-and-oil-gas-are-major-targets-2024"&gt;Ransomware Attacks Against The Energy Sector On The Rise &amp;#8211; Nuclear And Oil &amp;amp; Gas Are Major Targets In 2024&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.justice.gov/usao-pr/pr/russian-and-moldovan-national-pleads-guilty-operating-illegal-botnet-proxy-service"&gt;Russian and Moldovan National Pleads Guilty to Operating Illegal Botnet Proxy Service that Infected Tens of Thousands of Internet-Connected Devices Around the World&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.404media.co/hackers-use-online-casinos-stake-the-com/"&gt;Hackers Use Online Casinos to Gamble Mountains of Cash They Steal from Victims&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.justice.gov/usao-sdny/pr/israeli-hacker-hire-sentenced-80-months-prison-involvement-massive-spearphishing"&gt;Israeli Hacker-For-Hire Sentenced To 80 Months In Prison For Involvement In Massive Spearphishing Campaign&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Malware&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-319a"&gt;StopRansomware: Rhysida Ransomware&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://research.checkpoint.com/2023/malware-spotlight-into-the-trash-analyzing-litterdrifter/"&gt;MALWARE SPOTLIGHT – INTO THE TRASH: ANALYZING LITTERDRIFTER&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://blog.talosintelligence.com/deep-dive-into-phobos-ransomware/"&gt;A deep dive into Phobos ransomware, recently deployed by 8Base group&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Hacking&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://dd80b675424c132b90b3-e48385e382d2e5d17821a5e1d8e4c86b.ssl.cf1.rackcdn.com/external/sektorcert-the-attack-against-danish-critical-infrastructure-tlp-clear.pdf"&gt;The attack against Danish, critical infrastructure&lt;/a&gt;&lt;a href="https://www.theregister.com/2023/11/14/novel_backdoor_persists_confluence/"&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.theregister.com/2023/11/14/novel_backdoor_persists_confluence/"&gt;Novel backdoor persists even after critical Confluence vulnerability is patched&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://cachewarpattack.com/"&gt;CacheWarp Attack: New Vulnerability in AMD SEV Exposes Encrypted VMs&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://adversa.ai/blog/llm-red-teaming-gpts-prompt-leakage-api-leakage-documents-leakage/"&gt;LLM RED TEAMING GPT’S: PROMPT LEAKAGE, API LEAKAGE, DOCUMENTS LEAKAGE&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.sentinelone.com/labs/elephant-hunting-inside-an-indian-hack-for-hire-group/"&gt;Elephant Hunting | Inside an Indian Hack-For-Hire Group&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Intelligence and Information Warfare&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html"&gt;Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.linkedin.com/pulse/unraveling-kremlins-strategy-russian-influence-niels-groeneveld-nx8ue%3FtrackingId=DXbxY6152JiIetDR7I5Hqw%253D%253D/"&gt;Unraveling the Kremlin&amp;#8217;s Strategy: Russian Influence Operations and the Israel-Hamas Conflict&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/"&gt;Zimbra 0-day used to target international government organizations&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.reuters.com/investigates/special-report/usa-hackers-appin/"&gt;How an Indian startup hacked the world&lt;/a&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Cybersecurity&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.zerodayinitiative.com/blog/2023/11/14/the-november-2023-security-update-review"&gt;THE NOVEMBER 2023 SECURITY UPDATE REVIEW&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href="https://www.securityweek.com/addressing-the-state-of-ais-impact-on-cyber-disinformation-misinformation/"&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.securityweek.com/addressing-the-state-of-ais-impact-on-cyber-disinformation-misinformation/"&gt;Addressing the State of AI’s Impact on Cyber Disinformation/Misinformation&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://10best.usatoday.com/interests/travel-tips/best-identity-theft-protection-tips-gear/"&gt;What I learned about identity theft protection after my identity was stolen at the airport&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.wired.com/story/signal-operating-costs/"&gt;Running Signal Will Soon Cost $50 Million a Year&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired"&gt;Sam Altman fired as CEO of OpenAI&lt;/a&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://www.fcc.gov/document/fcc-adopts-rules-protect-consumers-cell-phone-accounts"&gt;FCC Adopts Rules to Protect Consumers&amp;#8217; Cell Phone Accounts&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Follow me on Twitter: &lt;a href="https://twitter.com/securityaffairs"&gt;&lt;strong&gt;@securityaffairs&lt;/strong&gt;&lt;/a&gt; and &lt;a href="https://www.facebook.com/sec.affairs"&gt;&lt;strong&gt;Facebook&lt;/strong&gt;&lt;/a&gt; and &lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; –&lt;/strong&gt; &lt;strong&gt;hacking, newsletter)&lt;/strong&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154408</post-id> </item>
+<item>
+<title>8Base勒索软件运营商使用了Phobos勒索软件的一种新变种。</title>
+<link>https://securityaffairs.com/154383/malware/8base-ransomware-phobos-ransomware.html</link>
+<dc:creator>Pierluigi Paganini</dc:creator>
+<pubDate>Sun, 19 Nov 2023 09:13:35 +0000</pubDate>
+<category>Breaking News</category>
+<category>Cyber Crime</category>
+<category>Malware</category>
+<category>8base ransomware</category>
+<category>Cybercrime</category>
+<category>Hacking</category>
+<category>hacking news</category>
+<category>information security news</category>
+<category>IT Information Security</category>
+<category>malware</category>
+<category>phobos ransomware</category>
+<category>Pierluigi Paganini</category>
+<category>Security Affairs</category>
+<category>Security News</category>
+<guid isPermaLink="false">https://securityaffairs.com/?p=154383</guid>
+<description>8Base ransomware operators were observed using a variant of the Phobos ransomware in a recent wave of attacks. Cisco Talos researchers observed 8Base ransomware operators using a variant of the Phobos ransomware in recent attacks. Phobos variants are usually distributed by the SmokeLoader, but in 8Base campaigns, it has the ransomware component embedded in its encrypted payloads. The [&amp;#8230;]</description>
+<content:encoded>
+&lt;h2 class="wp-block-heading"&gt;8Base ransomware operators were observed using a variant of the Phobos ransomware in a recent wave of attacks.&lt;/h2&gt;
+
+
+
+&lt;p&gt;Cisco Talos researchers observed &lt;a href="https://securityaffairs.com/147922/cyber-crime/8base-ransomware-attacks.html"&gt;8Base ransomware&lt;/a&gt; operators using a variant of the &lt;a href="https://malpedia.caad.fkie.fraunhofer.de/details/win.phobos"&gt;Phobos ransomware&lt;/a&gt; in recent attacks.&lt;/p&gt;
+
+
+
+&lt;p&gt;Phobos variants are usually distributed by the &lt;u&gt;&lt;a href="https://securityaffairs.com/145911/malware/cert-ua-smokeloader-campaign.html"&gt;SmokeLoader&lt;/a&gt;&lt;/u&gt;, but in 8Base campaigns, it has the ransomware component embedded in its encrypted payloads. The ransomware component is then decrypted and loaded into the SmokeLoader process’ memory.&lt;/p&gt;
+
+
+
+&lt;p&gt;In June, VMware Carbon Black researchers &lt;a href="https://securityaffairs.com/147922/cyber-crime/8base-ransomware-attacks.html"&gt;observed&lt;/a&gt; an intensification of the activity associated with a stealthy ransomware group named 8Base. The experts observed a massive spike in activity associated with this threat actor between May and June 2023.&lt;/p&gt;
+
+
+
+&lt;p&gt;The group has been active since March 2022, it focused on small and medium-size businesses in multiple industries, including finance, manufacturing, business services, and IT.&lt;/p&gt;
+
+
+
+&lt;p&gt;Security experts attributed 67 attacks to the group in May 2023, most of the victims are in the U.S. and Brazil.&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;VMware researchers first noticed that &lt;a href="https://securityaffairs.com/140446/cyber-crime/saint-gheorghe-recovery-hospital-ransomware.html"&gt;Phobos ransomware&lt;/a&gt; uses the “.8base” file extension for encrypted documents, a circumstance that suggested a possible link to the 8Base group or the use of the same code-base for their ransomware.&lt;/p&gt;
+
+
+
+&lt;p&gt;The Talos researchers discovered a number of features implemented by Phobos allowing operators to establish persistence in a targeted system, perform speedy encryption, and remove backups.&lt;/p&gt;
+
+
+
+&lt;p&gt;The malware supports the following features:&lt;/p&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;Full encryption of files below 1.5MB and partial encryption of files above this threshold to improve the speed of encryption. Larger files will have smaller blocks of data encrypted throughout the file and a list of these blocks is saved in the metadata along with the key at the end of the file.&lt;/li&gt;
+
+
+
+&lt;li&gt;Capability to scan for network shares in the local network.&lt;/li&gt;
+
+
+
+&lt;li&gt;Persistence achieved via Startup folder and Run Registry key.&lt;/li&gt;
+
+
+
+&lt;li&gt;Generation of target list of extensions and folders to encrypt.&lt;/li&gt;
+
+
+
+&lt;li&gt;Process watchdog thread to kill processes that may hold target files open. This is done to improve the chances the important files will be encrypted.&lt;/li&gt;
+
+
+
+&lt;li&gt;Disable system recovery, backup and shadow copies and the Windows firewall.&lt;/li&gt;
+
+
+
+&lt;li&gt;Embedded configuration with more than 70 options available. This configuration is encrypted with the same AES function used to encrypt files, but using a hardcoded key.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p&gt;The analysis of the configuration data revealed additional features in the malware binary, including bypassing the User Account Control (UAC) and reporting of a victim infection to an external URL.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;a href="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-23.png?ssl=1"&gt;&lt;img loading="lazy" decoding="async" width="558" height="1024" src="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-23.png?resize=558%2C1024&amp;#038;ssl=1" alt="" class="wp-image-154404" srcset="https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-23.png?resize=558%2C1024&amp;amp;ssl=1 558w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-23.png?resize=164%2C300&amp;amp;ssl=1 164w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-23.png?resize=768%2C1409&amp;amp;ssl=1 768w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-23.png?resize=838%2C1536&amp;amp;ssl=1 838w, https://i0.wp.com/securityaffairs.com/wp-content/uploads/2023/11/image-23.png?w=1000&amp;amp;ssl=1 1000w" sizes="(max-width: 558px) 100vw, 558px" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;We also examined the encryption methodology used by Phobos. Versions of Phobos released after 2019 use a custom implementation of AES-256 encryption, with a different random symmetric key used for each encrypted file, instead of using the Windows Crypto API like earlier variants.&amp;#8221; reads the &lt;a href="https://blog.talosintelligence.com/deep-dive-into-phobos-ransomware/"&gt;report&lt;/a&gt; published by Talos.&amp;#8221;Once each file is encrypted, the key used in the encryption along with additional metadata is then encrypted using RSA-1024 with a hardcoded public key, and saved to the end of the file.&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;As each file is encrypted using a different key, decrypting files through brute-forcing of a key, as done in the past, is impossible.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;Since &lt;a href="https://blogs.vmware.com/security/2023/06/8base-ransomware-a-heavy-hitting-player.html"&gt;8Base group is known&lt;/a&gt; to operate with characteristics similar to previous Phobos campaigns, we compared the code in an 8Base sample with previous Phobos variants and determined there are no differences between the code at the binary level at all.&amp;#8221; concludes the report&lt;/em&gt; that also includes &lt;a href="https://github.com/Cisco-Talos/IOCs/tree/main/2023/11/deep-dive-into-phobos-ransomware.txt"&gt;Indicators of Compromise&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Follow me on Twitter:&amp;nbsp;&lt;a href="https://twitter.com/securityaffairs"&gt;@securityaffairs&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://www.facebook.com/sec.affairs"&gt;Facebook&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href="https://infosec.exchange/@securityaffairs"&gt;Mastodon&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="http://www.linkedin.com/pub/pierluigi-paganini/b/742/559"&gt;&lt;strong&gt;Pierluigi&amp;nbsp;Paganini&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;&lt;a href="http://securityaffairs.co/wordpress/"&gt;&lt;strong&gt;SecurityAffairs&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; –&lt;/strong&gt; &lt;strong&gt;hacking, ransomware)&lt;/strong&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;gwmw style="display:none;"&gt;&lt;/gwmw&gt;&lt;/p&gt;
+</content:encoded>
+<post-id xmlns="com-wordpress:feed-additions:1">154383</post-id> </item>
+</channel>
+</rss>

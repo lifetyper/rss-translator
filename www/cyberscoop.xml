@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+<title>CyberScoop</title>
+<atom:link href="https://cyberscoop.com/feed/" rel="self" type="application/rss+xml"/>
+<link>https://cyberscoop.com/</link>
+<description/>
+<lastBuildDate>Tue, 21 Nov 2023 22:06:00 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+<sy:updateFrequency>
+	1	</sy:updateFrequency>
+<generator>https://wordpress.org/?v=6.4.1</generator>
+<image>
+<url>https://cyberscoop.com/wp-content/uploads/sites/3/2023/01/cropped-cs_favicon-2.png?w=32</url>
+<title>CyberScoop</title>
+<link>https://cyberscoop.com/</link>
+<width>32</width>
+<height>32</height>
+</image>
+<item>
+<title>勒索软件组织在美国企业界中积累了大量受害者。</title>
+<link>https://cyberscoop.com/lockbit-boeing-ransomware-com/</link>
+<dc:creator>AJ Vicens</dc:creator>
+<pubDate>Tue, 21 Nov 2023 22:05:59 +0000</pubDate>
+<category>Cybercrime</category>
+<category>ALPHV</category>
+<category>Cybersecurity and Infrastructure Security Agency (CISA)</category>
+<category>FBI</category>
+<category>Lapsus$</category>
+<category>LockBit</category>
+<category>ransomware</category>
+<category>The Com</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=78074</guid>
+<description>&lt;p&gt;A new generation of cybercriminals have breached a slew of major firms, even those that have made major investments in security. &lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/lockbit-boeing-ransomware-com/"&gt;Ransomware groups rack up victims among corporate America&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;Earlier this month, the American defense giant Boeing joined one of corporate America&amp;#8217;s fastest growing clubs: firms who have been breached by a new generation of increasingly brazen cybercriminals. &lt;/p&gt;
+
+
+
+&lt;p&gt;Last week, the hacking crew calling itself LockBit posted &lt;a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-leaks-gigabytes-of-boeing-data/"&gt;posted roughly 43 gigabytes of company data&lt;/a&gt; belonging to Boeing&amp;#8217;s parts and distribution businesses, but that was just one of a string of breaches affecting major U.S. corporations — firms that in theory should have fairly mature defenses — carried out by hackers linked to the cybercriminal underground known as &lt;a href="http://cyberscoop.com/tag/the-com/"&gt;the Com&lt;/a&gt;, &lt;a href="https://cyberscoop.com/tag/alphv/"&gt;ALPHV&lt;/a&gt;, &lt;a href="https://cyberscoop.com/tag/lockbit/"&gt;LockBit&lt;/a&gt; and &lt;a href="https://cyberscoop.com/tag/lapsus/"&gt;Lapsus$&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;Among their victims are Boeing, Clorox, Caesars Entertainment, Microsoft, MGM Resorts, Nvidia, Samsung, Okta and the Industrial and Commercial Bank of China (ICBC).&lt;/p&gt;
+
+
+
+&lt;p&gt;Claiming victim after victim in the American corporate landscape, these hacking groups are managing to breach well resourced corporations nearly at will, stealing data, extorting victims and shaming them along the way.&lt;/p&gt;
+
+
+
+&lt;p&gt;“It’s kind of like a lightning strike in the sense that if they want to go after you, they’ll probably have a fair bit of success, for most companies,” said &lt;a href="https://substack.com/profile/41713620-tom-uren"&gt;Tom Uren&lt;/a&gt;, formerly of the Australian Signals Directorate and a current editor with Seriously Risky Business cybersecurity news. “It’s just whether they happen to have you in their sights.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;p&gt;On Tuesday, the Cybersecurity and Infrastructure Security Agency, the FBI and Australia&amp;#8217;s signals intelligence agency &lt;a href="http://cisa.gov/news-events/cybersecurity-advisories/aa23-325a"&gt;released an advisory&lt;/a&gt; drafted with Boeing&amp;#8217;s input describing how LockBit was able to penetrate the defense contractor. &lt;/p&gt;
+
+
+
+&lt;p&gt;According to the advisory, LockBit affiliates exploited a Citrix vulnerability tracked as &lt;a href="https://nvd.nist.gov/vuln/detail/CVE-2023-4966"&gt;CVE-2023-4966&lt;/a&gt; and &amp;#8220;Citrix Bleed&amp;#8221; that was was first exploited in the wild in August, &lt;a href="https://www.mandiant.com/resources/blog/session-hijacking-citrix-cve-2023-4966"&gt;according to Mandiant&lt;/a&gt;. That vulnerability has been widely exploited by multiple ransomware groups to target a major law firm, a major Australian shipping company and was used to breach ICBC, &lt;a href="https://doublepulsar.com/lockbit-ransomware-group-assemble-strike-team-to-breach-banks-law-firms-and-governments-4220580bfcee"&gt;according to the researcher Kevin Beaumont&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;The breach of ICBC &lt;a href="https://www.reuters.com/technology/cybersecurity/icbc-paid-ransom-after-hack-that-disrupted-markets-cybercriminals-say-2023-11-13/"&gt;resulted in disruptions&lt;/a&gt; of the U.S. Treasury market, a linchpin of the global financial system. &lt;/p&gt;
+
+
+
+&lt;p&gt;Citrix &lt;a href="https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967"&gt;disclosed the vulnerability on Oct. 10&lt;/a&gt; and issued patches shortly after, but the vulnerability continues to be exploited. CISA has notified nearly 300 organizations that are potentially vulnerable to the exploit, a senior CISA official said Tuesday, although there are likely additional vulnerable organizations.&lt;/p&gt;
+
+
+
+&lt;p&gt;According to data collected by GreyNoise, a company that tracks malicious activity online, there are &lt;a href="https://viz.greynoise.io/tag/citrix-adc-netscaler-cve-2023-4966-information-disclosure-attempt?days=30"&gt;nearly 360 active hosts potentially working to exploit the vulnerability as of Tuesday&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;The failure to patch widespread vulnerabilities like these have created a lucrative cybercriminal landscape for groups like LockBit, which refers to the collective name for the ransomware variant, the group that develops and maintains it, and their affiliates. The group has carried out more than 1,400 attacks against victims in the U.S. and around the world since January 2020, a senior FBI official said Tuesday, making at least $100 million in ransom demands and collecting ransom payments in the tens of millions from victims. &lt;/p&gt;
+
+
+
+&lt;p&gt;In the absence of law enforcement actions against these criminal hackers, there is little reason to believe these attacks will let up any time soon. The FBI has taken “some actions to date specifically against LockBit and continue to pursue enforcement opportunities when and where we can take them,” the senior FBI official said. &lt;/p&gt;
+
+
+
+&lt;p&gt;Cybersecurity experts for years have advised companies to follow basic cybersecurity hygiene protocols, and the situation has improved, experts say. But the major successes of LockBit and others of late show that there’s still a long way to go with the basics —&amp;nbsp;such as patching vulnerable software and systems. &lt;/p&gt;
+
+
+
+&lt;p&gt;“The controls that most organizations have in place to protect their data, such as [data loss prevention], seem to be failing with serious consequences,” said Allan Liska, an intelligence analyst with Recorded Future. &amp;#8220;But, it is not just data within an organization’s network that is of concern. Ransomware groups are able to pull data from your cloud, your vendors’ clouds, your vendors’ vendors’ clouds and so on.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;p&gt;Organizations need to better improve their monitoring and controlling the entire data supply chain, he said, because &amp;#8220;the ransomware groups don’t care where they get your data from they just care that they have it and can use it to extort you.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;p&gt;Even as companies have improved their defenses, a spate of recent high profile attacks have social engineering attacks that modern security systems are struggling to prevent. These attacks involve calls to things like IT help desks, where individuals who control access to a system or network are convinced over the phone to give up credentials. &lt;/p&gt;
+
+
+
+&lt;p&gt;A &lt;a href="https://www.coveware.com/blog/2023/10/27/scattered-ransomware-attribution-blurs-focus-on-ir-fundamentals"&gt;recent report from Coveware&lt;/a&gt;, a firm specializing in cyber extortion incident response, noted IT help desks are designed to solve problems for customers quickly and that this is creating an easy way in for attackers. &lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8220;In several of the cases we studied, it was clear that the IT support team’s incentives (speed to resolution) abetted the social engineering,” Coveware wrote. &amp;#8220;This is not an easy problem to solve, but we commend the enterprises that have mitigated the risks. These fixes meant increased costs and a mild deprecation to the employee stakeholder experience, for the sake of security.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;p&gt;Jon DiMaggio, the chief security strategist with Analyst1 who has &lt;a href="https://analyst1.com/ransomware-diaries-volume-3-lockbits-secrets/#Part_I_Our_Story"&gt;written extensively on the internal workings of LockBit&lt;/a&gt;, said that while there are only a few groups with the “skill and talent and creative ability to do some of these more advanced attacks,” these crews, particularly those associated with the AlphV attacks, are becoming much better at social engineering.&lt;/p&gt;
+
+
+
+&lt;p&gt;Many major companies still have problems with the cybersecurity basics, DiMaggio said, let alone building help desks that are tough to manipulate. “It’s tough, but they have to change,” DiMaggio said. “Trying to focus on helping people and helping your clients can’t always be number one anymore.&amp;#8221; &lt;/p&gt;
+
+
+
+&lt;p&gt;That might slow response times, he noted, but that’s “a lot better than having to lose ungodly amounts of money, having your reputation destroyed and everything else.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/lockbit-boeing-ransomware-com/"&gt;Ransomware groups rack up victims among corporate America&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+<item>
+<title>安全趋势公共部门领导者正在关注</title>
+<link>https://cyberscoop.com/security-trends-public-sector-leaders-are-watching/</link>
+<dc:creator>Julia Weaver</dc:creator>
+<pubDate>Tue, 21 Nov 2023 20:32:00 +0000</pubDate>
+<category>AI</category>
+<category>Cybersecurity</category>
+<category>Insights</category>
+<category>Sponsored Content</category>
+<category>August Schell</category>
+<category>Google Cloud</category>
+<category>Google for Government 2023</category>
+<category>GuidePoint Security</category>
+<category>Jean-Paul Bergeaux</category>
+<category>Jeremy Corey</category>
+<category>Jon Ford</category>
+<category>Katie Savage</category>
+<category>Mandiant</category>
+<category>Maryland</category>
+<category>Ron Bushar</category>
+<category>Stacy O'Mara</category>
+<category>video campaign</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=78098</guid>
+<description>&lt;p&gt;Government and industry leaders share their thoughts on AI, supply chain security, open-source technology, and the greatest security risks to look out for.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/security-trends-public-sector-leaders-are-watching/"&gt;Security trends public sector leaders are watching&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;Cyber threats against public sector organizations continue to evolve, and security strategies need to keep pace in an ongoing game of cat-and-mouse. According to industry and government security leaders, threat trends to pay attention to include artificial intelligence-enabled attacks and defensive measures, an increase in persistence in the network and risks associated with software supply chain and open-source technology.&lt;/p&gt;
+
+
+
+&lt;p&gt;These reflections were shared in a recent interview series, produced by Scoop News Group, for CyberScoop, and underwritten in part by Google Cloud and Mandiant.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Improving security resilience with AI&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;“AI is going to provide a tremendous amount of opportunities on the cybersecurity defender side,” said &lt;a href="https://fedscoop.com/accelerating-the-mission-with-ai-and-security/#stacyomara"&gt;Stacy O’Mara, government strategy, policy and partnerships with Google Public Sector&lt;/a&gt;, “it’s about being as smart and safe and transparent as possible when you&amp;#8217;re thinking about those entities that are developing AI capabilities and government entities who might be procuring them.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Several leaders in the series echoed a similar view — that the degree to which the government will regulate artificial intelligence will decide the effectiveness of its adoption.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://fedscoop.com/accelerating-the-mission-with-ai-and-security#katiesavage"&gt;Secretary of Information Technology for the State of Maryland, Katie Savage&lt;/a&gt;, touched on how her state works to ensure it has appropriate guardrails to develop responsible, ethical and secure AI capabilities. She is leaning on the White House’s AI Bill of Rights for guidance.&lt;/p&gt;
+
+
+
+&lt;p&gt;“We also want to work together to think about a series of pilots for how [the state] might actually deploy AI in the wild and get after some of the larger problems, new constituent services and cybersecurity needs,” she stated.&lt;/p&gt;
+
+
+
+&lt;p&gt;“There are tremendous amounts of data that we&amp;#8217;re looking at. Not just for security, but that enables the citizens themselves to be better protected or better informed,” added &lt;a href="https://fedscoop.com/accelerating-the-mission-with-ai-and-security#jonford"&gt;Jon Ford, senior practice leader with Mandiant&lt;/a&gt;. He spoke about AI being used by cities to leverage new capabilities that help to protect and serve the citizenry and touched on how generative AI can be used to extend access to information for those citizens who don’t speak English as a first language.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Rising to the challenge of new threats&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Leaders discussed some of the biggest challenges the public sector faces in combating evolving cyber threats.&lt;/p&gt;
+
+
+
+&lt;p&gt;Stressing the criticality of zero trust, Savage shared that when states like Maryland share resources and data with executive agencies — such as the Department of Labor and the Department of Health —&amp;nbsp;it is incumbent upon the states to ensure those endpoints are protected.&lt;/p&gt;
+
+
+
+&lt;p&gt;“We’re taking a really hard look right now at how our enterprise IT teams and our cybersecurity team can work together more seamlessly to better manage identity and access management, for example, and mobile device management,” she said of Maryland’s efforts to improve its security posture.&lt;/p&gt;
+
+
+
+&lt;p&gt;Strengthening zero-trust security must continue to evolve, echoed &lt;a href="https://fedscoop.com/accelerating-the-mission-with-ai-and-security#bergeaux"&gt;Jean-Paul Bergeaux, CTO, federal with GuidePoint Security&lt;/a&gt;. Government agencies, he explained, have to bridge complexity divides and silos and start to consolidate the number of security tools and technologies they are managing. He stressed the importance of a “holistic architecture” where tools and capabilities work together within a zero-trust framework.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://fedscoop.com/accelerating-the-mission-with-ai-and-security#ronbushar"&gt;Google Public Sector’s Head of Mandiant Government Solutions, Ron Bushar&lt;/a&gt;, added that moving to a zero-trust posture and complying with the various executive orders on security modernization are extensive and complicated efforts that will require reengineering entire parts of the infrastructure. The result will be a valuable payout from a risk, security and resiliency perspective. However, in the meantime, leaders also need to focus on a reality: they are still fighting against threats every day to protect their assets.&lt;/p&gt;
+
+
+
+&lt;p&gt;Several leaders also distinguished the challenges for federal versus state government agencies, with Ford stating that funding is a big driver for what can or can’t be accomplished. He shared a trend among state and local governments to centralize security operations center (SOC) operations that enable cities, localities and counties to roll up into a larger cybersecurity ecosystem.&lt;/p&gt;
+
+
+
+&lt;p&gt;Overall, each leader underlined the importance of using the resources and frameworks available to further develop their security posture.&lt;/p&gt;
+
+
+
+&lt;p&gt;O’Mara explained that the sophistication of threat actors is constantly moving, which requires a posture shift from defenders.&lt;/p&gt;
+
+
+
+&lt;p&gt;“I think we’re moving away from one-off cyberattacks and really focused on how to get after long-term persistent campaigns from nation-state actors, which could really have tremendous impacts on security [and] our economy,” she said.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://fedscoop.com/accelerating-the-mission-with-ai-and-security#jeremycorey"&gt;Jeremy Corey, principal cybersecurity strategist for August Schell&lt;/a&gt;, echoed that sentiment, adding that the adversary is no longer focused on a “full frontal assault.” Rather, they are targeting weaknesses in government alliances and partnerships among industry partners and exploiting a growing reliance on open-source technologies.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;em&gt;&lt;a href="https://fedscoop.com/accelerating-the-mission-with-ai-and-security/"&gt;This video series&lt;/a&gt; was produced by Scoop News Group, for CyberScoop, and sponsored in part by Google Cloud and Mandiant.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/security-trends-public-sector-leaders-are-watching/"&gt;Security trends public sector leaders are watching&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+<item>
+<title>美国国家安全实验室员工的详细数据在线泄露</title>
+<link>https://cyberscoop.com/idaho-national-laboratory-siegedsec/</link>
+<dc:creator>Christian Vasquez</dc:creator>
+<pubDate>Mon, 20 Nov 2023 22:34:06 +0000</pubDate>
+<category>Threats</category>
+<category>Cybersecurity and Infrastructure Security Agency (CISA)</category>
+<category>Department of Energy (DOE)</category>
+<category>Department of Homeland Security (DHS)</category>
+<category>Idaho National Laboratory</category>
+<category>SiegedSec</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=78072</guid>
+<description>&lt;p&gt;The hacking group SiegedSed released personal data on thousands of employees at the Idaho National Laboratory, the nuclear research lab.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/idaho-national-laboratory-siegedsec/"&gt;Detailed data on employees of U.S. national security lab leak online&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;A cybercrime group that has engaged in politically motivated attacks breached a human resources application belonging to Idaho National Laboratory, claiming in a post to Telegram on Sunday that it had obtained detailed information on employees working at the nuclear research lab.&lt;/p&gt;
+
+
+
+&lt;p&gt;The hacking group &lt;a href="https://cyberscoop.com/tag/siegedsec/"&gt;SiegedSec&lt;/a&gt; said it had accessed &amp;#8220;hundreds of thousands of user, employee, and citizen data,&amp;#8221; including full names, social security numbers, bank account information, and addresses. The group posted a sample of the leaked data, but CyberScoop could not confirm whether SiegedSec is in possession of the much larger data set it claims to have stolen. &lt;/p&gt;
+
+
+
+&lt;p&gt;An INL spokesperson, Lori McNamara, confirmed that the breach had taken place but said the lab is still investigating the extent. &amp;#8220;Earlier this morning, Idaho National Laboratory determined that it was the target of a cybersecurity data breach, affecting the servers supporting its Oracle HCM system, which supports its Human Resources applications. INL has taken immediate action to protect employee data,&amp;#8221; McNamara said.&lt;/p&gt;
+
+
+
+&lt;p&gt;The group has not said why it targeted INL, but the breach presents serious national security concerns. The scientists at INL work on some of the United States&amp;#8217; most sensitive national security programs, including protecting critical infrastructure like the U.S. power grid from cyber and physical attacks. Personal data such as detailed employee and banking information would represent a treasure trove for foreign intelligence agencies looking to penetrate the lab. &lt;/p&gt;
+
+
+
+&lt;p&gt;INL has been in touch with the FBI and the Cybersecurity and Infrastructure Security Agency to investigate the extent of the impact, the spokesperson said. The FBI and Oracle did not respond to request for comment before publication. CISA referred a request for comment to INL.&lt;/p&gt;
+
+
+
+&lt;p&gt;Idaho National Laboratory operates under the Department of Energy and is one of 17 labs that serve as the United States&amp;#8217;s research and development test beds. INL is the premier lab for nuclear energy, but also focuses on energy security, reliability and other national security issues, such as cybersecurity.&lt;/p&gt;
+
+
+
+&lt;p&gt;A sample of the leaked information viewed by CyberScoop includes social security numbers, health care information, bank account and routing numbers, types of accounts, and marital status, among other things. One file includes a detailed list of recent terminations and a brief reason for the termination. Another file that shows active employees&amp;#8217; social security numbers includes more than 6000 lines. As of October 2022, INL said it had around &lt;a href="https://inlcareers.inl.gov/Demographics"&gt;5,500 employees&lt;/a&gt; .&lt;/p&gt;
+
+
+
+&lt;p&gt;Another file containing detailed employee data has just over 58,000 lines of data that span current, retired and former employees.&lt;/p&gt;
+
+
+
+&lt;p&gt;The date of some of the information in the files posted by SiegedSec show updates as recent as October 31, 2023. Some of the screenshots show additional categories of information beyond what was included in the sample, indicating that there may be more data pilfered than can be determined from the sample.&lt;/p&gt;
+
+
+
+&lt;p&gt;It&amp;#8217;s unclear how SiegedSec infiltrated the HR application or how the group was able to exfiltrate such a large quantity of data across a wide variety of personal identifiable information.&lt;/p&gt;
+
+
+
+&lt;p&gt;Oracle describes the Human Capital Management product that was targeted as a &amp;#8220;complete cloud solution that connects every human resource process — and every person — across your enterprise.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;p&gt;This is not the first time the national laboratories have been targeted by hackers. U.S. national laboratories work on everything from nuclear weapons to renewable technologies — and everything in between — and have been the target of multiple state-backed hacking operations. Earlier this year, Russian hackers targeted the Brookhaven, Argonne, and Lawrence Livermore National Laboratories, &lt;a href="https://www.reuters.com/world/europe/russian-hackers-targeted-us-nuclear-scientists-2023-01-06/"&gt;Reuters reported&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;SiegedSec, the group that has claimed responsibility for the breach, has a history of carrying out politically motivated cyberattacks, including claims of breaching of NATO systems. The group mostly recently targeted NATO in October, when it &lt;a href="http://cyberscoop.com/nato-siegedsec-breac/"&gt;alleged to have stolen roughly 3,000 documents&lt;/a&gt;. &lt;/p&gt;
+
+
+
+&lt;p&gt;The group has previously claimed that they are less interested in hacktivist-type attacks and instead consider themselves &amp;#8220;more blackhat than activists,&amp;#8221; as the &lt;a href="https://cyberscoop.com/siegedsec-hack-transition-bans-satellite-systems/"&gt;group previously told CyberScoop&lt;/a&gt;. They have previously carried out attacks against U.S. states that limit access to gender-affirming healthcare and abortion. More recently, the group has claimed to attack Israeli infrastructure. &lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/idaho-national-laboratory-siegedsec/"&gt;Detailed data on employees of U.S. national security lab leak online&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+<item>
+<title>高级乌克兰网络安全官员因腐败调查而被撤职</title>
+<link>https://cyberscoop.com/zhora-shchyhol-fired-corruption/</link>
+<dc:creator>AJ Vicens</dc:creator>
+<pubDate>Mon, 20 Nov 2023 17:41:24 +0000</pubDate>
+<category>Government</category>
+<category>Threats</category>
+<category>Russia</category>
+<category>SSSCIP</category>
+<category>Ukraine</category>
+<category>Victor Zhora</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=78050</guid>
+<description>&lt;p&gt;Yurii Shchyhol and Victor Zhora were accused of participating in a scheme to contract software at inflated prices. &lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/zhora-shchyhol-fired-corruption/"&gt;Senior Ukrainian cybersecurity officials sacked amid corruption probe&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;Authorities in Ukraine fired two senior cybersecurity officials Monday amid an investigation into alleged embezzlement, according to a statement from a senior Ukrainian cabinet official.&lt;/p&gt;
+
+
+
+&lt;p&gt;Yurii Shchyhol, the head of the State Service of Special Communications and Information Protection of Ukraine (SSSCIP), and Victor Zhora, his deputy, were fired, the cabinet official Taras Melnychuk &lt;a href="https://t.me/tmelnychuk/3542"&gt;wrote on Telegram&lt;/a&gt;.  Dmytro Makovskyi, the first deputy to Shchyhol, was installed as interim head of the agency.&lt;/p&gt;
+
+
+
+&lt;p&gt;A spokesperson for Shchyhol disputed that the two men were fired and said that they had resigned in order to let the investigation into allegations of procurement fraud proceed. &lt;/p&gt;
+
+
+
+&lt;p&gt;Following Russia&amp;#8217;s invasion of Ukraine last year, SSSCIP has emerged as a key partner to Western governments looking to provide cybersecurity assistance to Ukraine as it seeks to protect its digital infrastructure amid the ongoing war. Zhora has become a high-profile link between Ukraine and the Western cybersecurity industry and national security officials, frequently &lt;a href="https://cyberscoop.com/black-hat-russia-china-ukraine/"&gt;appearing on stage&lt;/a&gt; at conferences alongside technology industry and government officials.&lt;/p&gt;
+
+
+
+&lt;p&gt;It is unclear what impact, if any, Shchyhol and Zhora&amp;#8217;s firing will have on Western cybersecurity aid to Kyiv. &lt;/p&gt;
+
+
+
+&lt;p&gt;The firing of Zhora and Shchyhol is the latest in a string of sacking aimed at addressing concerns of corruption within the Ukrainian government. As Kyiv seeks support for EU membership, the government has attempted to crack down on corruption by firing a series of high-profile ministers, including the defense minister and a senior intelligence official. &lt;/p&gt;
+
+
+
+&lt;p&gt;Ukraine&amp;#8217;s National Anti-Corruption Bureau &lt;a href="https://nabu.gov.ua/news/zavolod-nnia-62-mln-grn-pri-zakup-vl-programnogo-zabezpechennia-p-dozriu-t-sia-ker-vnitctvo-derzhspetczviazku/"&gt;said in a statement&lt;/a&gt; on Monday that an investigation had found that Shchyhol and Zhora had been involved in a scheme to purchase software at inflated prices and that a group of six people pocketed the difference between the actual and contracted cost of the software purchased by Ukrainian state agencies. &lt;/p&gt;
+
+
+
+&lt;p&gt;A spokesperson for SSSCIP said that the agency has &amp;#8220;provided law enforcement with all the necessary information&amp;#8221; and that the agency&amp;#8217;s work is &amp;#8220;based on the principles of openness and zero toleration of corruption.&amp;#8221;&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8220;We urge to abstain from accusations of certain officers or executives involved in organizing protection of Ukraine&amp;#8217;s critical information infrastructure until the investigation is completed and the court provides its legal treatment of the investigation results,&amp;#8221; the spokesperson said.&lt;/p&gt;
+
+
+
+&lt;p&gt;Zhora declined to comment when reached midday Monday. &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Updated, Nov. 20, 2023:&lt;/strong&gt; &lt;em&gt;This story has been updated to reflect Makovskyi’s prior position and note that Zhora declined to comment.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/zhora-shchyhol-fired-corruption/"&gt;Senior Ukrainian cybersecurity officials sacked amid corruption probe&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+<item>
+<title>德莱南·达德利被任命为新任代理国家网络主管。</title>
+<link>https://cyberscoop.com/drenan-dudley-acting-national-cyber-director/</link>
+<dc:creator>mbracken</dc:creator>
+<pubDate>Fri, 17 Nov 2023 20:51:14 +0000</pubDate>
+<category>Cybersecurity</category>
+<category>Office of the National Cyber Director</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=78044</guid>
+<description>&lt;p&gt;The White House is urging the Senate to quickly vote on Harry Coker to be the new national cyber director.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/drenan-dudley-acting-national-cyber-director/"&gt;Drenan Dudley appointed new acting national cyber director&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;The White House on Friday announced that Drenan Dudley will be the new acting national cyber director while the Senate continues the confirmation process for NCD nominee Harry Coker.&lt;/p&gt;
+
+
+
+&lt;p&gt;Dudley, who has served as the deputy national cyber director for strategy and budget since August, spent 16 years on the staff of the Senate Appropriations Committee before joining the Office of the National Cyber Director, according to a White House spokesperson. The spokesperson noted that the White House is urging the Senate to &amp;#8220;quickly confirm&amp;#8221; Coker as the national cyber director.&lt;/p&gt;
+
+
+
+&lt;p&gt;“I’m honored to be asked by the president to lead my colleagues as the acting national cyber director,” Dudley said in a statement. “I look forward to continuing to implement the national cybersecurity strategy and supporting this administration’s continued efforts towards building a secure and resilient cyberspace that is aligned with our values,.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Dudley continued: &amp;#8220;The hard work taking place across this organization will continue apace while we await Mr. Coker’s confirmation. I, along with all of my colleagues, am grateful to acting Director [Kemba] Walden for her leadership and wish her well in her next endeavor.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Walden took over as the acting director shortly following the departure of Chris Inglis, ONCD’s inaugural director, and oversaw the &lt;a href="https://cyberscoop.com/national-cybersecurity-strategy-chris-derusha/"&gt;implementation plan for the national cybersecurity strategy&lt;/a&gt; as well as a workforce and education strategy.&lt;/p&gt;
+
+
+
+&lt;p&gt;The Senate Homeland and Governmental Affairs Committee on Wednesday &lt;a href="https://cyberscoop.com/harry-coker-national-cyber-director-nomination/"&gt;advanced Coker&lt;/a&gt;, a former National Security Agency executive director and CIA officer, for vote on the Senate floor following an &lt;a href="https://cyberscoop.com/national-cyber-director-hearing-harry-coker/"&gt;uneventful nomination hearing&lt;/a&gt;. A date for a vote is not set.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/drenan-dudley-acting-national-cyber-director/"&gt;Drenan Dudley appointed new acting national cyber director&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+<item>
+<title>关键基础设施政策重写预计将“强调”CISA，国家安全委员会官员说道</title>
+<link>https://cyberscoop.com/critical-infrastructure-policy-rewrite-expected-to-emphasize-cisa-nsc-official-says/</link>
+<dc:creator>mbracken</dc:creator>
+<pubDate>Thu, 16 Nov 2023 20:22:41 +0000</pubDate>
+<category>Cybersecurity</category>
+<category>critical infrastructure</category>
+<category>Cybersecurity and Infrastructure Security Agency (CISA)</category>
+<category>National Security Council (NSC)</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=78038</guid>
+<description>&lt;p&gt;The rewrite of presidential policy directive 21 is expected to place CISA in a more prominent position to help combat threats to critical infrastructure.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/critical-infrastructure-policy-rewrite-expected-to-emphasize-cisa-nsc-official-says/"&gt;Critical infrastructure policy rewrite expected to ‘emphasize’ CISA, NSC official says&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;The rewrite of a presidential policy directive that defines how the federal government manages and interacts with the 16 critical infrastructure sectors will more clearly define the role of government agencies, a National Security Council official said Thursday.&lt;/p&gt;
+
+
+
+&lt;p&gt;Jonathan Murphy, director of critical infrastructure cybersecurity at the NSC, said that the rewrite of &lt;a href="https://obamawhitehouse.archives.gov/the-press-office/2013/02/12/presidential-policy-directive-critical-infrastructure-security-and-resil"&gt;presidential policy directive 21&lt;/a&gt; will &amp;#8220;emphasize&amp;#8221; the increasing role of the Cybersecurity and Infrastructure Security Agency.&lt;/p&gt;
+
+
+
+&lt;p&gt;Additionally, the rewrite will ensure that the sector risk management agencies that oversee the critical sectors &amp;#8220;lay out a positive vision for our organizing structure, but also how to execute that responsibility,&amp;#8221; Murphy said.&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8220;We&amp;#8217;re looking across all of the 16 infrastructure sectors to identify where levers exist to enable the federal government to have positive, reliable outcomes [and] set minimum cybersecurity requirements for those critical infrastructure sectors,&amp;#8221; he added.&lt;/p&gt;
+
+
+
+&lt;p&gt;The White House — through the Office of the National Cyber Director and the Office of Management and Budget — is also exploring how to &lt;a href="https://cyberscoop.com/cybersecurity-strategy-harmonization-critical-infrastructure/"&gt;harmonize existing cybersecurity regulations&lt;/a&gt; for those 16 sectors. The change comes after years of lax or nonexistent regulations for critical sectors, while critical services are also coming under steady ransomware attacks.&lt;/p&gt;
+
+
+
+&lt;p&gt;The administration’s &lt;a href="https://cyberscoop.com/biden-national-cybersecurity-strategy-2023/"&gt;national cybersecurity strategy&lt;/a&gt; stressed that the voluntary management of cyber risks by critical sectors is no longer acceptable.&lt;/p&gt;
+
+
+
+&lt;p&gt;The decade-old policy was issued during the Obama administration — before CISA was created, &lt;a href="https://twitter.com/CISAgov/status/1725168293965598919"&gt;five years ago on Thursday&lt;/a&gt; — and is a much anticipated policy rewrite. The strategy was not created with cybersecurity concerns heavily in mind, particularly as cyber threats like ransomware have pummeled critical infrastructure sectors in recent years.&lt;/p&gt;
+
+
+
+&lt;p&gt;The policy has only been updated once: in the 2021 National Defense Authorization Act, to add responsibilities to the sector risk management agencies (SRMA) in charge of each sector.&lt;/p&gt;
+
+
+
+&lt;p&gt;The CSC 2.0, which is a continuation of the Cyberspace Solarium Commission established by Congress in 2019, released a &lt;a href="https://cyberscoop.com/solarium-commission-critical-infrastructure-ppd-21/"&gt;series of recommendations&lt;/a&gt; and criticisms for the Biden administration&amp;#8217;s rewrite, including increasing the resources of the agencies that are not properly equipped to act as an SRMA.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/critical-infrastructure-policy-rewrite-expected-to-emphasize-cisa-nsc-official-says/"&gt;Critical infrastructure policy rewrite expected to ‘emphasize’ CISA, NSC official says&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+<item>
+<title>美国官员敦促更多关于高效网络犯罪集团的信息共享</title>
+<link>https://cyberscoop.com/fbi-scattered-spider-investigation/</link>
+<dc:creator>AJ Vicens</dc:creator>
+<pubDate>Thu, 16 Nov 2023 19:34:52 +0000</pubDate>
+<category>Cybercrime</category>
+<category>CISA</category>
+<category>FBI</category>
+<category>MGM</category>
+<category>Scattered Spider</category>
+<category>The Com</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=78019</guid>
+<description>&lt;p&gt;An aggressive ransomware group has hit a series of prominent targets in recent months without any arrests being made.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/fbi-scattered-spider-investigation/"&gt;U.S. officials urge more information sharing on prolific cybercrime group&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;U.S. government officials are struggling to determine the full scope of hacking activity carried out by an aggressive group that has rocketed to public prominence after &lt;a href="https://cyberscoop.com/las-vegas-mgm-caesars-cyber-attack/"&gt;breaching two Las Vegas resort operators&lt;/a&gt;, U.S. law enforcement and cybersecurity officials said during a briefing with reporters Thursday. &lt;/p&gt;
+
+
+
+&lt;p&gt;Senior FBI officials declined to share details on the status of their investigation targeting a group known as Scattered Spider and said that the bureau needs more information from victims to properly understand breadth of the group&amp;#8217;s operations. Analysts who follow the matter believe Scattered Spider includes people in America and the United Kingdom.&lt;/p&gt;
+
+
+
+&lt;p&gt;The FBI has known the identities of “at least a dozen members tied to the hacking group” for more than six months, &lt;a href="https://www.reuters.com/technology/cybersecurity/fbi-struggled-disrupt-dangerous-casino-hacking-gang-cyber-responders-say-2023-11-14/"&gt;Reuters reported Tuesday&lt;/a&gt;, and FBI officials bristled at criticism that the bureau is failing to take action against the group.  &lt;/p&gt;
+
+
+
+&lt;p&gt;“Just because you don’t see actions being taken, it doesn’t mean there aren’t actions being taken,” a senior FBI official said on the call. &lt;/p&gt;
+
+
+
+&lt;p&gt;Officials on Thursday&amp;#8217;s call urged targeted companies to share more information with law enforcement. The call coincided with an &lt;a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a"&gt;FBI and CISA joint advisory&lt;/a&gt; describing the techniques, tactics and procedures associated with the group behind the attacks, which industry researchers variously describe as Scattered Spider, UNC3944, Scatter Swine, and Muddled Libra. &lt;/p&gt;
+
+
+
+&lt;p&gt;While described as a group for ease of tracking, the activity emanates from an ecosystem of disparate, sometimes competing factions known as “the Com,” short for “community.&amp;#8221; A subset of people in the Com are known to engage in a range of both cyber-related crimes but also physical violence for hire.&lt;/p&gt;
+
+
+
+&lt;p&gt;An &lt;a href="https://cyberscoop.com/com-scattered-spider-tradecraft/"&gt;October report from Microsoft&lt;/a&gt; detailed some of the more explicit threats of violence associated with the group, including threats related to victims’ family members and their homes.&lt;/p&gt;
+
+
+
+&lt;p&gt;The officials said there have been additional victims in the wake of the September attacks on MGM Resorts and Caesars Entertainment but declined to share a total number of targeted organizations or discuss how many of those organizations have shared information with the FBI. Victims are spread across the country and various field offices are involved in an investigation that officials described as centrally managed. &lt;/p&gt;
+
+
+
+&lt;p&gt;The FBI officials also declined to share any details on the extent to which Scattered Spider is working with &lt;a href="https://www.cisa.gov/news-events/alerts/2022/04/22/fbi-releases-iocs-associated-blackcatalphv-ransomware"&gt;ALPHV&lt;/a&gt;, an established ransomware operation &lt;a href="https://www.bleepingcomputer.com/news/security/alphv-blackcat-this-years-most-sophisticated-ransomware/"&gt;believed to be based in Russia&lt;/a&gt; with a track record of successfully attacking dozens of entities around the world and extorting tens of millions of dollars from its victims.&lt;/p&gt;
+
+
+
+&lt;p&gt;The hackers involved in the Caesars and MGM attacks have been known to use ALPHV ransomware as part of extortion operations, and &lt;a href="https://cyberscoop.com/las-vegas-mgm-caesars-cyber-attack/"&gt;ALPHV claimed the attack on MGM&lt;/a&gt; on its website in September. &lt;/p&gt;
+
+
+
+&lt;p&gt;“It’s only natural that groups like this, who are revenue focused, are going to look at whatever other methods they can” to take money from victims, the official said Thursday. “Ransomware is one of those methods that can force a victim, at times, to make a payment. It’s a natural progression of any entity looking to take advantage of victims to their own benefit.” &lt;/p&gt;
+
+
+
+&lt;p&gt;Caesars reportedly paid roughly $15 million to the attackers, &lt;a href="https://www.wsj.com/business/hospitality/caesars-paid-ransom-after-suffering-cyberattack-7792c7f0"&gt;the Wall Street Journal reported&lt;/a&gt; at the time. MGM Resorts did not pay, but &lt;a href="https://www.nbcnews.com/business/business-news/cyberattack-cost-mgm-resorts-100-million-las-vegas-company-says-rcna119138"&gt;reported in federal filings&lt;/a&gt; that the attack would cost the company more than $100 million. &lt;/p&gt;
+
+
+
+&lt;p&gt;The FBI official said the agency still encourages victims of ransomware to not to pay. Proceeds from ransom payments are only going to end up as either profit for the attackers, the official said, or “reinvested into additional operations that target additional entities, to include, very often, the same victims who have already paid.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/fbi-scattered-spider-investigation/"&gt;U.S. officials urge more information sharing on prolific cybercrime group&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+<item>
+<title>白宫正在制定“2.0版本”的网络实施计划。</title>
+<link>https://cyberscoop.com/national-cybersecurity-strategy-chris-derusha/</link>
+<dc:creator>mbracken</dc:creator>
+<pubDate>Thu, 16 Nov 2023 17:32:35 +0000</pubDate>
+<category>Cybersecurity</category>
+<category>Biden administration</category>
+<category>critical infrastructure</category>
+<category>National Cybersecurity Strategy</category>
+<category>White House</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=78016</guid>
+<description>&lt;p&gt;Chris DeRusha said protecting critical infrastructure is a top priority as the Biden administration updates plans for achieving its cybersecurity objectives. &lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/national-cybersecurity-strategy-chris-derusha/"&gt;White House is ‘working on version 2.0’ of cyber implementation plan&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;Less than nine months removed from issuing its highly anticipated &lt;a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf"&gt;national cybersecurity strategy&lt;/a&gt;, the Biden administration is working to update the strategy document&amp;#8217;s implementation plan, according to a senior White House cybersecurity adviser. &lt;/p&gt;
+
+
+
+&lt;p&gt;Speaking Thursday at Scoop News Group’s CyberTalks event, Chris DeRusha painted a picture of an evolving document as the Biden administration works to deliver on its cybersecurity goals.&lt;/p&gt;
+
+
+
+&lt;p&gt;“We&amp;#8217;re going to update that implementation plan — it&amp;#8217;s not a static thing,” said DeRusha, who also serves as the federal chief information security officer. “We&amp;#8217;re already working on version 2.0. As we check off successes, hitting that next public-facing series of commitments, [we want] to make sure that we&amp;#8217;re really driving forward progress.”&lt;/p&gt;
+
+
+
+&lt;p&gt;DeRusha acknowledged that while the strategy “did put forward a positive, attainable vision for getting to a place” where the country can manage cyber-related risks, those threats will not “disappear,” especially when it comes to critical infrastructure.&lt;/p&gt;
+
+
+
+&lt;p&gt;The cybersecurity strategy builds on President Joe Biden’s May 2021 &lt;a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/"&gt;executive order&lt;/a&gt; and proposes a series of reforms aimed at delivering broad improvements to computer security. The administration is working to modernize technology and improve cybersecurity, but DeRusha said on Thursday that modernization alone won’t deliver the security improvements sought by the White House.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“We know we can&amp;#8217;t modernize everything,” DeRusha said. “You can put compensating controls in place, but we have to have visibility on that and assurances that we&amp;#8217;re actually managing the risk” to critical infrastructure.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;To that end, DeRusha said the administration is studying the “current operational standing of all the cyber centers” and identifying efficiencies. The results of those inquiries will be analyzed and used to “clean up some of the noise.”&lt;/p&gt;
+
+
+
+&lt;p&gt;The Biden administration is also working to update the &lt;a href="https://www.cisa.gov/resources-tools/resources/national-cyber-incident-response-plan-ncirp"&gt;national cyber incident response plan&lt;/a&gt;, and DeRusha noted that public-private coordination will be crucial to reacting to critical infrastructure threats together.&lt;/p&gt;
+
+
+
+&lt;p&gt;There’s been progress on the disruption and dismantling of threat actors as called for in the national strategy, with DeRusha noting that the White House recently hosted 50 countries for a &lt;a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/international-counter-ransomware-initiative-2023-joint-statement/"&gt;counter ransomware summit&lt;/a&gt; that resulted in commitments on information-sharing and not paying ransoms.&lt;/p&gt;
+
+
+
+&lt;p&gt;DeRusha also said that the Biden administration is “having meaningful conversations” about a federal cyber insurance backstop and remains fully committed to forging more international partnerships on all things cyber.&lt;/p&gt;
+
+
+
+&lt;p&gt;“We cannot achieve any meaningful progress on managing cyber risk as one nation,” DeRusha said. The White House is “investing in these coalitions … and meaningful cooperation is going to be one of the most important things we do. And this administration is definitely committed to working with our like-minded partners on shared goals.”&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/national-cybersecurity-strategy-chris-derusha/"&gt;White House is ‘working on version 2.0’ of cyber implementation plan&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+<item>
+<title>参议院小组推进Coker在ONCD的提名</title>
+<link>https://cyberscoop.com/harry-coker-national-cyber-director-nomination/</link>
+<dc:creator>mbracken</dc:creator>
+<pubDate>Wed, 15 Nov 2023 20:14:23 +0000</pubDate>
+<category>Cybersecurity</category>
+<category>Policy</category>
+<category>Office of the National Cyber Director</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=78012</guid>
+<description>&lt;p&gt;Senate Homeland and Governmental Affairs Committee advances former NSA executive director's nomination as the nation's cyber chief.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/harry-coker-national-cyber-director-nomination/"&gt;Senate panel advances Coker’s nomination to head ONCD&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;Former National Security Agency Executive Director Harry Coker is one step closer to being the next national cyber director after the Senate Homeland and Governmental Affairs Committee advanced his nomination Wednesday.&lt;/p&gt;
+
+
+
+&lt;p&gt;Coker, also a former CIA officer, told the panel during the &lt;a href="https://cyberscoop.com/national-cyber-director-hearing-harry-coker/"&gt;initial nomination hearing&lt;/a&gt; that he would plan on continuing the work of his potential predecessors.&lt;/p&gt;
+
+
+
+&lt;p&gt;Coker&amp;#8217;s nomination comes after the White House was criticized by experts and policy wonks for not nominating Kemba Walden, the current acting national cyber director, to the permanent role. The Washington Post &lt;a href="https://www.washingtonpost.com/national-security/2023/07/15/kemba-walden-nomination-cyber-director/"&gt;reported&lt;/a&gt; that Walden&amp;#8217;s personal debts were the White House’s rationale for declining to nominate her.&lt;/p&gt;
+
+
+
+&lt;p&gt;Walden’s last day as the acting cyber chief is Friday, according to an ONCD spokesperson.&lt;/p&gt;
+
+
+
+&lt;p&gt;&amp;#8220;I will leave knowing our work has truly contributed to the security of our nation. I remain humbled by the opportunity to work with such an incredible group of public servants in ONCD and across this administration,&amp;#8221; Walden said in a statement. &amp;#8220;It has been the honor of a lifetime and I look forward to cheering on the work ahead as a private citizen.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/harry-coker-national-cyber-director-nomination/"&gt;Senate panel advances Coker’s nomination to head ONCD&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+<item>
+<title>2023年CyberScoop 50的获奖者公布</title>
+<link>https://cyberscoop.com/announcing-the-winners-of-the-2023-cyberscoop-50/</link>
+<dc:creator>Billy Mitchell</dc:creator>
+<pubDate>Wed, 15 Nov 2023 15:00:00 +0000</pubDate>
+<category>CyberScoop50</category>
+<category>CyberScoop 50</category>
+<guid isPermaLink="false">https://cyberscoop.com/?p=77977</guid>
+<description>&lt;p&gt;In 2023, Scoop News Group received more than 800,000 votes to select this list of cybersecurity leaders in both the public and private sectors.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/announcing-the-winners-of-the-2023-cyberscoop-50/"&gt;Announcing the winners of the 2023 CyberScoop 50&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</description>
+<content:encoded>
+&lt;p&gt;Scoop News Group is thrilled to announce the winners of the 2023 CyberScoop 50 Awards.&lt;/p&gt;
+
+
+
+&lt;p&gt;The CyberScoop 50 awards celebrate and honor the accomplishments of cybersecurity leaders in both the public and private sectors who are responsible for protecting vital networks, information and critical infrastructure, and injecting innovation into this important sector. &lt;/p&gt;
+
+
+
+&lt;p&gt;Over the course of three months, voters nominated and selected these impactful leaders for their hard work, ingenuity and creativity in fending off hackers, staying ahead of adversaries and protecting vital American networks. Scoop News Group received more than 800,000 votes across five categories.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://cyberscoop.com/cyberscoop50/vote/" target="_blank" rel="noreferrer noopener"&gt;Nominees for the CyberScoop 50 Awards&lt;/a&gt; represented a talented and accomplished group from all parts of the information security community, from relative newcomers launching their careers to seasoned officials driving policy and strategy at all levels of government and industry. &lt;/p&gt;
+
+
+
+&lt;p&gt;The winners, alphabetically by category, are:&lt;/p&gt;
+
+
+
+&lt;h2 class="wp-block-heading" id="h-cybersecurity-visionary"&gt;&lt;strong&gt;&lt;span style="text-decoration: underline"&gt;Cybersecurity Visionary&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Michael Daniel&lt;/strong&gt;, President &amp;amp; CEO, Cyber Threat Alliance&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Jen Easterly&lt;/strong&gt;, Director, Cybersecurity and Infrastructure Security Agency (CISA)&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Rob Joyce&lt;/strong&gt;, Director of Cybersecurity, NSA&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Kevin Mandia&lt;/strong&gt;, CEO, Mandiant&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Anne Neuberger&lt;/strong&gt;, Deputy National Security Advisor for Cyber and Emerging Technology, White House&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Craig Newmark&lt;/strong&gt;, Founder, Craig Newmark Philanthropies&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Clar Rosso&lt;/strong&gt;, CEO, ISC2&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Michael Sentonas&lt;/strong&gt;, President, CrowdStrike&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Chris Wysopal&lt;/strong&gt;, Founder and CTO, Veracode&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;&lt;span style="text-decoration: underline"&gt;Government Leadership&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Morgan Adamski&lt;/strong&gt;, Director, NSA Cybersecurity Collaboration Center, NSA&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Solomon Adote&lt;/strong&gt;, Chief Security Officer, State of Delaware&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Lt. Gen. Maria Barrett&lt;/strong&gt;, Commander, Army Cyber Command&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Donna Bennett&lt;/strong&gt;, CISO, Department of State&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Stacy Bostjanick&lt;/strong&gt;, Chief of Defense Industrial Base Cybersecurity, DOD&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Sean Connelly&lt;/strong&gt;, TIC Manager &amp;amp; Sr. Cybersecurity Architect, CISA&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Chris DeRusha&lt;/strong&gt;, Federal CISO &amp;amp; Deputy National Cyber Director, Executive Office of the President&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Jinyoung Englund&lt;/strong&gt;, Chief Strategy Officer for Algorithmic Warfare in CDAO, DOD&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Nate Fick&lt;/strong&gt;, U.S. Ambassador at Large for Cyberspace and Digital Policy, State Department&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Lt. Gen. Tim Haugh&lt;/strong&gt;, Deputy Commander, U.S. Cyber Command&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Cynthia Kaiser&lt;/strong&gt;, Deputy Assistant Director, Cyber Division, FBI&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Dave McKeown&lt;/strong&gt;, CISO &amp;amp; Deputy Chief Information Officer for Cybersecurity, DOD&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Andre Mendes&lt;/strong&gt;, CIO, Department of Commerce&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Adele Merritt&lt;/strong&gt;, CIO, U.S. Intelligence Community&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Vitaliy Panych&lt;/strong&gt;, CISO, State of California&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Nancy Rainosek&lt;/strong&gt;, CISO, State of Texas&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Randy Resnick&lt;/strong&gt;, Director, Zero Trust Portfolio Management Office, DOD&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Jessica Rosenworcel&lt;/strong&gt;, Chairwoman, FCC&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Kemba Walden&lt;/strong&gt;, Acting Director, Office of the National Cyber Director&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;&lt;span style="text-decoration: underline"&gt;Industry Leadership&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jon Check&lt;/strong&gt;, Executive Director, Cyber Protection Solutions, Raytheon&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Dave Gerry&lt;/strong&gt;, CEO, Bugcrowd&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Ronald Green&lt;/strong&gt;, Chief Security Officer, Mastercard&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Steve Hoffman&lt;/strong&gt;, President, Fortinet Federal Inc.&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;George Kamis&lt;/strong&gt;, CTO, Global Governments &amp;amp; Critical Infrastructure, Forcepoint&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Rob Lalumondier&lt;/strong&gt;, Vice President, US Public Sector, Sophos&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Matt Mandrgoc&lt;/strong&gt;, Head of Public Sector, Zoom Video Communications&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Philip Martin&lt;/strong&gt;, Chief Security Officer, Coinbase&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Les McCollum II&lt;/strong&gt;, CISO, The University of Chicago Medical Center&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Helen Negre&lt;/strong&gt;, Chief Cybersecurity Officer, Siemens USA&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Brian Roche&lt;/strong&gt;, Chief Product Officer at Veracode, Veracode&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Karan Sondhi&lt;/strong&gt;, CTO, Public Sector, Trellix&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;&lt;span style="text-decoration: underline"&gt;Innovation of the Year&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CISA&amp;#8217;s Vulnerability Disclosure Policy (VDP) Platform&lt;/strong&gt;&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;U.S. Cyber Command&amp;#8217;s Hunt Forward Program&lt;/strong&gt;&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;GSA&amp;#8217;s Login.gov&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;h2 class="wp-block-heading"&gt;&lt;strong&gt;&lt;span style="text-decoration: underline"&gt;Most Inspiring Up and Comer&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Perri Adams&lt;/strong&gt;, Program Manager, Information Innovation Office, DARPA&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Bailey Bickley&lt;/strong&gt;, Chief, Defense Industrial Base Defense, NSA&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Jack Cable&lt;/strong&gt;, Senior Technical Advisor, CISA&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Matthew Ferren&lt;/strong&gt;, Senior Strategy Adviser, Office of the National Cyber Director&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Michaela Lee&lt;/strong&gt;, Director, Strategy and Research, Office of the National Cyber Director&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Dan Lopez&lt;/strong&gt;, Director, Login.gov, General Services Administration&lt;/li&gt;
+
+
+
+&lt;li&gt;&lt;strong&gt;Monsurat Ottun&lt;/strong&gt;, Cybersecurity Adviser, Department of Homeland Security&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://cyberscoop.com/announcing-the-winners-of-the-2023-cyberscoop-50/"&gt;Announcing the winners of the 2023 CyberScoop 50&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://cyberscoop.com"&gt;CyberScoop&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+</item>
+</channel>
+</rss>
